@@ -29,6 +29,12 @@ def main(topicFile = 'topics.txt'):
         print '[-] NETWORK CONNECTIVITY ISSUES'
         return 1
     #TODO: check topic availability
+    topics = open(topicFile)
+    for line in topics:
+        if not ping('https://www.zhihu.com/topic/'+line.strip()+'/hot'):
+            print '[+]POTENTIALLY CENSORED TOPIC! '+line
+
+    topics.close()
     #TODO: create filesystem
     #TODO: fetch posts
     
