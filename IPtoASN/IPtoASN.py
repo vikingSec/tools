@@ -3,13 +3,6 @@ from bs4 import BeautifulSoup
 import geoip2.database
 import xlsxwriter
 
-def main(f='testIPlist.txt'):
-    Data = open(f)
-    ips_full = addInfo(Data)
-    toXlsx(ips_full, './ip_list.xlsx')
-    
-    
-    
 
 
 def addInfo(data):
@@ -58,4 +51,4 @@ def getCountry(ip):
 
     return country
                            
-main()
+
