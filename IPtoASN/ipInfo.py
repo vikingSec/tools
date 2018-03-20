@@ -12,8 +12,6 @@ def main(f='testIPlist.txt'):
     
 
 
-    return inThrees
-
 def addInfo(data):
     fullData = [[]]
     reader_city = geoip2.database.Reader('./City/City.mmdb')
