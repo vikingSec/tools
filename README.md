@@ -1,21 +1,9 @@
 <h3>IP to ASN Library </h3>
 
-Quick script I wrote to take a text list of IPs and export them to an EXCEL file with ASN and location data. May be useful for threat hunting stuff. Included a test file with 5 ips that were said to be malicious online.<br><br>
+Library for converting IP addresses to their respective ASN/Org/location information. Includes functionality for reading from a text file and exporting to a .xlsx file.<br><br>
 
 (BTW credit goes to the MaxMind database for City, Country, and ASN DBs included here. Find them at https://www.maxmind.com/en/)<br><br>
 
-<b>[UPDATE (3.20.18)]</b> IP to ASN Library<br><br>
-<b>Functions:</b><br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;<b>getASN(String ip):</b> IP address (String) -> ASN : Org<br><br>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<b>getCity(String ip) :</b> IP address (String) -> City<br><br>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<b>getCountry(String ip):</b> IP address (String) -> Country<br><br>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<b>addInfo(String[[]):</b> IP addresses (String []) -> IP addresses with Country, city, and ASN:Org data (String [[]])<br><br>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<b>toXlsx(String [[]] data, String filename):</b> IP address+country+city
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ASN:Org structure (String [[]]) ,filename (String)-> .xlsx file<br><br><br>
 
 <h3>IP to ASN Maltego Transform</h3>
 <b>Requirements:</b><br><br>
