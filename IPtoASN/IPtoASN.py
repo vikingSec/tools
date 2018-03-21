@@ -27,7 +27,7 @@ def toXlsx(data, filename):
         row+=1
         
 def getASN(ip):
-    reader_asn = geoip2.database.Reader('./ASN/ASN.mmdb')
+    reader_asn = geoip2.database.Reader('./DBs/ASN/ASN.mmdb')
     try:
         asn_response = reader_asn.asn(ip.strip())
         asn = str(asn_response.autonomous_system_number)+': '+asn_response.autonomous_system_organization
@@ -37,13 +37,13 @@ def getASN(ip):
     
     
 def getCity(ip):
-    reader_city = geoip2.database.Reader('./City/City.mmdb')
+    reader_city = geoip2.database.Reader('./DBs/City/City.mmdb')
     city_response = reader_city.city(ip.strip())
     city = city_response.city.name
 
     return city
 def getCountry(ip):
-    reader_country = geoip2.database.Reader('./Country/Country.mmdb')
+    reader_country = geoip2.database.Reader('./DBs/Country/Country.mmdb')
     country_response = reader_country.country(ip.strip())
     country = country_response.country.name
 
