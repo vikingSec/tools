@@ -2,14 +2,13 @@ import requests
 from bs4 import BeautifulSoup
 import geoip2.database
 import xlsxwriter
+import os
 
 
 
 def addInfo(data):
     fullData = [[]]
-    reader_city = geoip2.database.Reader('./City/City.mmdb')
-    reader_country = geoip2.database.Reader('./Country/Country.mmdb')
-    reader_asn = geoip2.database.Reader('./ASN/ASN.mmdb')
+
     
     for line in data:
         if len(line) > 0:
@@ -29,7 +28,7 @@ def toXlsx(data, filename):
         row+=1
         
 def getASN(ip):
-    reader_asn = geoip2.database.Reader('./ASN/ASN.mmdb')
+    reader_asn = geoip2.database.Reader(os.getcwd()+'/ASN/ASN.mmdb')
     try:
         asn_response = reader_asn.asn(ip.strip())
         asn = str(asn_response.autonomous_system_number)+': '+asn_response.autonomous_system_organization
