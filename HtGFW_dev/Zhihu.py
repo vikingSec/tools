@@ -31,6 +31,13 @@ def getTopicName(topic):
     res_soup = BeautifulSoup(res.content, 'html.parser')
     print res_soup.find('h1', 'TopicCard-titleText').text
 
+def getPost(postID, question):
+    if question:
+        res = get_url('https://www.zhihu.com/question/'+postID)
+        soup = BeautifulSoup(res.content, 'html.parser')
+        question_title = soup.find('h1', 'QuestionHeader-title').text
+        print(question_title)
+
 #TODO: grab posts, at first from static page, then dynamically
 #TODO: construct file structure/data schema
 #TODO: grab all comments from post
