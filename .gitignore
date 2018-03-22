@@ -8,3 +8,4 @@ VTPort/MaltegoTransform.py
 *.pyc
 IPtoASN/MaltegoTransform.py
 VTPort/APIKey.txt
+IPtoASN/.DS_Store

@@ -22,17 +22,15 @@ def checkIP(IP):
     parameters = {'ip':IP,'apikey':APIKey}
     response = urllib.urlopen('%s?%s' % (url, urllib.urlencode(parameters))).read()
     response_dict = json.loads(response)
-    Domains = []
+    
     Detections = []
     if response_dict['response_code'] == 1:
         domains = response_dict['resolutions']
         detections = response_dict['detected_urls']
-        for domain in domains:
-            Domains.append(domain['hostname'])
         for detection in detections:
             Detections.append(detection['url'])
         
-        return [Domains,Detections]
+        return [Detections]
     else:
         return [{}]
     
