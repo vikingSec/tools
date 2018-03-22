@@ -17,3 +17,12 @@ Super simple Library that interacts with the <a href="https://www.virustotal.com
 
 <h3>VirusTotal Maltego Transform</h3>
 At the time of writing, this transform takes an input as an IP and lists known-malicious domains registered to that IP, using the VirusTotal library. This is a standalone transform at the moment, but I'll definitely be writing more in the future.
+
+
+<h3>Gather OSINT Media Collection Platform</h3>
+Meant to be an OSINT collection platform that scrapes user-defined OSINT sources and presents all of the data in one, user friendly GUI (a simple, local http page).<br><br>
+Sources will include:<br><br>
+<b>Social Media</b> (Twitter)<br>
+<b>Social Media</b> (Blogs)<br>
+<b>News Media</b><br>
+  <b>Technical IoC streams</b><br>
