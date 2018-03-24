@@ -17,7 +17,7 @@ def get_url(url):
                'q_c1':'a425ea5549a447938faa642092051460|1521440815000|1516935035000',
                'unlock_ticket':'"AADALBf8cQomAAAAYAJVTWpgr1qJugy4PDM7_uLRXnEshPuWB12czg=="',
                'z_c0':'"2|1:0|10:1521441122|4:z_c0|92:Mi4xMGxGbEF3QUFBQUFBc0t1c3lVOVBEU1lBQUFCZ0FsVk5ZcWVjV3dEclpxYVVzcW5oN2RsUmJfejJuaVFfTGViN0hR|146622b2b39772b7212ae40b7b59217bcccca30163f184628ef96ed9744cf452"'}
-    '''
+
     return requests.get(url, headers=headers)
 
 
