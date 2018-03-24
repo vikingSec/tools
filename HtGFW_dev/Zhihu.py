@@ -36,7 +36,8 @@ def getPost(postID, question):
         res = get_url('https://www.zhihu.com/question/'+postID)
         soup = BeautifulSoup(res.content, 'html.parser')
         question_title = soup.find('h1', 'QuestionHeader-title').text
-        print(question_title)
+        question_body = soup.find('span', 'RichText', {'data-reactid':'97'}).text
+        print(question_title+'\n\n'+question_body)
 
 #TODO: grab posts, at first from static page, then dynamically
 #TODO: construct file structure/data schema
