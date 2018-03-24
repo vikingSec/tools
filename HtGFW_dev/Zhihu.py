@@ -1,5 +1,7 @@
 from bs4 import BeautifulSoup
 import requests
+import json
+
 
 def get_url(url):
     headers = {'Accept':'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
@@ -8,15 +10,21 @@ def get_url(url):
                'Cookie':'q_c1=a425ea5549a447938faa642092051460|1521440815000|1516935035000; _zap=40223734-45c7-4aa7-b889-455b19f112f8; _xsrf=fe01d4d6-3efc-4ce4-8cce-c23c926e083d; d_c0="ALCrrMlPTw2PTtdc-_V6691f11FzKrIW34I=|1521440815"; capsion_ticket="2|1:0|10:1521441001|14:capsion_ticket|44:ODY0ODIwNDY3MTZjNDQ2ZWEzMzY0MTUyYmUzYmIyY2Y=|8999178ca9eca48ff5a58634ff875758f0c652faf570b4cdfff44b58b7ee1451"; z_c0="2|1:0|10:1521441122|4:z_c0|92:Mi4xMGxGbEF3QUFBQUFBc0t1c3lVOVBEU1lBQUFCZ0FsVk5ZcWVjV3dEclpxYVVzcW5oN2RsUmJfejJuaVFfTGViN0hR|146622b2b39772b7212ae40b7b59217bcccca30163f184628ef96ed9744cf452"; unlock_ticket="AADALBf8cQomAAAAYAJVTWpgr1qJugy4PDM7_uLRXnNshPuWB12czg=="',
                'Host':'www.zhihu.com','Upgrade-Insecure-Requests':'1',
                'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:58.0) Gecko/20100101 GoogleChrome'}
-    '''cookies = {'_xsrf':'fe01d4d6-3efc-4ce4-8cce-c23c926e083d',
+    cookies = {'_xsrf':'fe01d4d6-3efc-4ce4-8cce-c23c926e083d',
                '_zap':'40223734-45c7-4aa7-b889-455b19f112f8',
                'capsion_ticket':'"2|1:0|10:1521441001|14:capsion_ticket|44:ODY0ODIwNDY3MTZjNDQ2ZWEzMzY0MTUyYmUzYmIyY2Y=|8999178ca9eca48ff5a58634ff875758f0c652faf570b4cdfff44b58b7ee1451"',
                'd_c0':'"ALCrrMlPTw2PTtdc-_V6691f11FzKrIW34I=|1521440815"',
                'q_c1':'a425ea5549a447938faa642092051460|1521440815000|1516935035000',
                'unlock_ticket':'"AADALBf8cQomAAAAYAJVTWpgr1qJugy4PDM7_uLRXnEshPuWB12czg=="',
+<<<<<<< HEAD
                'z_c0':'"2|1:0|10:1521441122|4:z_c0|92:Mi4xMGxGbEF3QUFBQUFBc0t1c3lVOVBEU1lBQUFCZ0FsVk5ZcWVjV3dEclpxYVVzcW5oN2RsUmJfejJuaVFfTGViN0hR|146622b2b39772b7212ae40b7b59217bcccca30163f184628ef96ed9744cf452"'}
     '''
     return requests.get(url, headers=headers)
+=======
+               'z_c0':'"2|1:0|10:1521441122|4:z_c0|92:Mi4xMGxGbEF3QUFBQUFBc0t1c3lVOVBEU1lBQUFCZ0FsVk5ZcWVjV3dEclpxYVVzcW5oN2RsUmJfejJuaVFfTGViN0hR|146622b2b39772b7212ae40b7b59217bcccca30163f184628ef96ed9744cf452"'} 
+    
+    return requests.get(url, headers=headers, cookies=cookies)
+>>>>>>> 066d7c0ca64a45164b09820d7ec943a013a79325
 
 def ping_url(url):
     res = get_url(url)
@@ -36,8 +44,26 @@ def getPost(postID, question):
         res = get_url('https://www.zhihu.com/question/'+postID)
         soup = BeautifulSoup(res.content, 'html.parser')
         question_title = soup.find('h1', 'QuestionHeader-title').text
-        print(question_title)
+        question_body = soup.find('span', 'RichText', {'data-reactid':'97'}).text
+        print(question_title+'\n\n'+question_body)
 
+def dumpTopic(topicID, number = 20):
+    topicURL = 'https://www.zhihu.com/topic/'+topicID+'/hot'
+    res = get_url(topicURL)
+
+    soup = BeautifulSoup(res.content, 'html.parser')
+    question_list = soup.find_all('div','List-item TopicFeedItem')
+    
+    print(len(list(question_list)))
+    for item in list(question_list):
+        print(item.text+'\n\n')
+##    for item in list(question_list):
+##        
+##        try:
+##            soup_item = BeautifulSoup(item.text, 'html.parser')
+##            print(soup.find('div','ContentItem ArticleItem'))
+##        except:
+##            print('[-] TypeError')
 #TODO: grab posts, at first from static page, then dynamically
 #TODO: construct file structure/data schema
 #TODO: grab all comments from post
