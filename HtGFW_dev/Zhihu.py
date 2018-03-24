@@ -16,15 +16,10 @@ def get_url(url):
                'd_c0':'"ALCrrMlPTw2PTtdc-_V6691f11FzKrIW34I=|1521440815"',
                'q_c1':'a425ea5549a447938faa642092051460|1521440815000|1516935035000',
                'unlock_ticket':'"AADALBf8cQomAAAAYAJVTWpgr1qJugy4PDM7_uLRXnEshPuWB12czg=="',
-<<<<<<< HEAD
                'z_c0':'"2|1:0|10:1521441122|4:z_c0|92:Mi4xMGxGbEF3QUFBQUFBc0t1c3lVOVBEU1lBQUFCZ0FsVk5ZcWVjV3dEclpxYVVzcW5oN2RsUmJfejJuaVFfTGViN0hR|146622b2b39772b7212ae40b7b59217bcccca30163f184628ef96ed9744cf452"'}
     '''
     return requests.get(url, headers=headers)
-=======
-               'z_c0':'"2|1:0|10:1521441122|4:z_c0|92:Mi4xMGxGbEF3QUFBQUFBc0t1c3lVOVBEU1lBQUFCZ0FsVk5ZcWVjV3dEclpxYVVzcW5oN2RsUmJfejJuaVFfTGViN0hR|146622b2b39772b7212ae40b7b59217bcccca30163f184628ef96ed9744cf452"'} 
-    
-    return requests.get(url, headers=headers, cookies=cookies)
->>>>>>> 066d7c0ca64a45164b09820d7ec943a013a79325
+
 
 def ping_url(url):
     res = get_url(url)
