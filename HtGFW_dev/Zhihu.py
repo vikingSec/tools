@@ -49,16 +49,13 @@ def dumpTopic(topicID, number = 20):
     soup = BeautifulSoup(res.content, 'html.parser')
     question_list = soup.find_all('div','List-item TopicFeedItem')
     
+    
     print(len(list(question_list)))
     for item in list(question_list):
+        
+        print (item.find('div', {'class':'ContentItem ArticleItem'})['data-zop'])
         print(item.text+'\n\n')
-##    for item in list(question_list):
-##        
-##        try:
-##            soup_item = BeautifulSoup(item.text, 'html.parser')
-##            print(soup.find('div','ContentItem ArticleItem'))
-##        except:
-##            print('[-] TypeError')
+    
 #TODO: grab posts, at first from static page, then dynamically
 #TODO: construct file structure/data schema
 #TODO: grab all comments from post
