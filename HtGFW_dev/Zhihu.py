@@ -34,13 +34,20 @@ def getTopicName(topic):
     res_soup = BeautifulSoup(res.content, 'html.parser')
     print res_soup.find('h1', 'TopicCard-titleText').text
 
-def getPost(postID, question):
-    if question:
+def getPostBody(postID, posttype = 'question'):
+    if posttype == 'question':
+        res = get_url('https://www.zhihu.com/question/'+postID)
+        soup = BeautifulSoup(res.content, 'html.parser')
+        question_body = soup.find('span', 'RichText', {'data-reactid':'97'}).text
+        print(question_body)
+
+
+def getPostTitle(postID, posttype = 'question'):
+    if posttype == 'question':
         res = get_url('https://www.zhihu.com/question/'+postID)
         soup = BeautifulSoup(res.content, 'html.parser')
         question_title = soup.find('h1', 'QuestionHeader-title').text
-        question_body = soup.find('span', 'RichText', {'data-reactid':'97'}).text
-        print(question_title+'\n\n'+question_body)
+        print(question_title)
 
 def dumpTopic(topicID, number = 20):
     topicURL = 'https://www.zhihu.com/topic/'+topicID+'/hot'
@@ -50,11 +57,24 @@ def dumpTopic(topicID, number = 20):
     question_list = soup.find_all('div','List-item TopicFeedItem')
     
     
-    print(len(list(question_list)))
+    
     for item in list(question_list):
-        
-        print (item.find('div', {'class':'ContentItem ArticleItem'})['data-zop'])
-        print(item.text+'\n\n')
+        art_item = item.find('div', {'class':'ContentItem ArticleItem'})
+        if(art_item):
+            date = art_item.find('meta',{'itemprop':'datePublished'})['content']
+            zop_obj = json.loads(item.find('div', {'class':'ContentItem ArticleItem'})['data-zop'])
+            
+            postid = zop_obj['itemId']
+            author = zop_obj['authorName']
+            posttype = zop_obj['type']
+            title = zop_obj['title']
+
+            if posttype == 'article':
+                url = 'https://www.zhihu.com/p/'+str(postid)
+                
+            print(str(art_item)+'\n\n')
+            #print('Post ID: '+str(postid)+'\n'+url+'\n'+'Author: '+author+'\n'+'Post Type:'+posttype+'\n'+'Title: '+title+'\n\n')
+        #print(str(item)+'\n\n')
     
 #TODO: grab posts, at first from static page, then dynamically
 #TODO: construct file structure/data schema
