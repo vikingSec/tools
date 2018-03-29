@@ -55,6 +55,8 @@ def dumpTopic(topicID, number = 20):
 
     soup = BeautifulSoup(res.content, 'html.parser')
     question_list = soup.find_all('div','List-item TopicFeedItem')
+
+    ret = ""
     
     
     
@@ -71,10 +73,19 @@ def dumpTopic(topicID, number = 20):
             title = zop_obj['title']
 
             if posttype == 'article':
-                url = 'https://www.zhihu.com/p/'+str(postid)
+                url = item.find('a', {'data-za-detail-view-element_name':'Title'})['href']
+                url = url.replace('//','https://')
                 
-            #print(str(art_item))
-            print('Topic ID: '+topicID+'\n\n'+'Post ID: '+str(postid)+'\n'+url+'\n'+'Author: '+author+'\n'+'Post Type:'+posttype+'\n'+'Title: '+title+'\n\n')
+
+            art_res = get_url(url)
+            soup = BeautifulSoup(art_res.content, 'html.parser')
+
+            art_content = soup.find('div',{'class':'RichText Post-RichText'}).text
+
+            
+                
+            #print('Topic ID: '+topicID+'\n'+'Post ID: '+str(postid)+'\n'+'URL: '+url+'\n'+'Author: '+author+'\n'+'Post Type:'+posttype+'\n'+'Title: '+title+'\n\n')
+            ret+=(topicID+'\n'+posttype+'\n'+str(postid)+'\n'+url+'\n'+author+'\n'+title+'\n'+art_content+'\n\n')
 
         if(ans_item):
             #date = ans_item.find('meta',{'itemprop':'datePublished'})['content']
@@ -98,9 +109,13 @@ def dumpTopic(topicID, number = 20):
             if posttype == 'answer':
                 url = question_url+'/answer/'+str(postid)
 
+            #STILL NEED ANSWER CONTENT!
+            ans_res = get_url(url)
+            soup = BeautifulSoup(ans_res.content, 'html.parser')
+            ans_content = soup.find('span', {'class':'RichText CopyrightRichText-richText'}).text
             
-            
-            print('Topic ID: '+topicID+'\n'+'Post ID: '+str(postid)+'\n'+'URL: '+url+'\n'+'Question ID: '+questionid+'\n'+'Question: '+question_title+'\n'+'Question URL: '+question_url+'\n'+'Author: '+author+'\n'+'Post Type:'+posttype+'\n\n')
+            #print('Topic ID: '+topicID+'\n'+'Post ID: '+str(postid)+'\n'+'URL: '+url+'\n'+'Question ID: '+questionid+'\n'+'Question: '+question_title+'\n'+'Question URL: '+question_url+'\n'+'Author: '+author+'\n'+'Post Type:'+posttype+'\n\n')
+            ret+=(topicID+'\n'+posttype+'\n'+str(postid)+'\n'+url+'\n'+author+'\n'+ans_content+'\n'+question_title+'\n'+questionid+'\n'+question_url+'\n'+ques_content+'\n\n')
 
-    
+    return ret
 
