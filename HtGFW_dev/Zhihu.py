@@ -74,7 +74,7 @@ def dumpTopic(topicID, number = 20):
                 url = 'https://www.zhihu.com/p/'+str(postid)
                 
             #print(str(art_item))
-            #print('Topic ID: '+topicID+'\n\n'+'Post ID: '+str(postid)+'\n'+url+'\n'+'Author: '+author+'\n'+'Post Type:'+posttype+'\n'+'Title: '+title+'\n\n')
+            print('Topic ID: '+topicID+'\n\n'+'Post ID: '+str(postid)+'\n'+url+'\n'+'Author: '+author+'\n'+'Post Type:'+posttype+'\n'+'Title: '+title+'\n\n')
 
         if(ans_item):
             #date = ans_item.find('meta',{'itemprop':'datePublished'})['content']
@@ -83,8 +83,14 @@ def dumpTopic(topicID, number = 20):
             question_url = ans_item.find('div',{'itemprop':'zhihu:question'}).find('meta',{'itemprop':'url'})['content']
             question_title = ans_item.find('div',{'itemprop':'zhihu:question'}).find('meta',{'itemprop':'name'})['content']
 
+            ques_res = get_url(question_url)
+            soup = BeautifulSoup(ques_res.content, 'html.parser')
+
+            ques_content = soup.find('span',{'class':'RichText','itemprop':'text'}).text
+            
             
             postid = zop_obj['itemId']
+            questionid = question_url.split('/')[4]
             author = zop_obj['authorName']
             posttype = zop_obj['type']
             title = zop_obj['title']
@@ -93,8 +99,8 @@ def dumpTopic(topicID, number = 20):
                 url = question_url+'/answer/'+str(postid)
 
             
-            #print(str(art_item))
-            print('Topic ID: '+topicID+'\n\n'+'Post ID: '+str(postid)+'\n'+url+'\n'+'Question: '+question_title+'\n'+'Question URL: '+question_url+'\n'+'Author: '+author+'\n'+'Post Type:'+posttype+'\n\n')
-        #print(str(item)+'\n\n')
+            
+            print('Topic ID: '+topicID+'\n'+'Post ID: '+str(postid)+'\n'+'URL: '+url+'\n'+'Question ID: '+questionid+'\n'+'Question: '+question_title+'\n'+'Question URL: '+question_url+'\n'+'Author: '+author+'\n'+'Post Type:'+posttype+'\n\n')
+
     
 
