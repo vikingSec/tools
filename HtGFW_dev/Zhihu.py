@@ -97,6 +97,4 @@ def dumpTopic(topicID, number = 20):
             print('Topic ID: '+topicID+'\n\n'+'Post ID: '+str(postid)+'\n'+url+'\n'+'Question: '+question_title+'\n'+'Question URL: '+question_url+'\n'+'Author: '+author+'\n'+'Post Type:'+posttype+'\n\n')
         #print(str(item)+'\n\n')
     
-#TODO: grab posts, at first from static page, then dynamically
-#TODO: construct file structure/data schema
-#TODO: grab all comments from post
+
