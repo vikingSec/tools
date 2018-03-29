@@ -1,13 +1,13 @@
-
 import Zhihu
+import time
 
 def main(topicFile = 'topics.txt'):
 
-    if not Zhihu.ping_url('https://www.zhihu.com'):
-        print '[-] NETWORK CONNECTIVITY ISSUES'
-        return 1
-    print('[+] Connection Available')
-    print(Zhihu.getPost('269692792',True))
+    f = open('./topics.txt', 'r')
+    content = f.readlines()
+    for line in content:
+        print Zhihu.dumpTopic(line.strip())
+    f.close()
 
 
 main()
