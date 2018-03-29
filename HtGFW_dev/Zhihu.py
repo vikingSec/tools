@@ -74,7 +74,7 @@ def dumpTopic(topicID, number = 20):
                 url = 'https://www.zhihu.com/p/'+str(postid)
                 
             #print(str(art_item))
-            #print('Topic ID: '+topicID+'\n\n'+'Post ID: '+str(postid)+'\n'+url+'\n'+'Author: '+author+'\n'+'Post Type:'+posttype+'\n'+'Title: '+title+'\n\n')
+            #print('Topic ID: '+topicID+'\n'+'Post ID: '+str(postid)+'\n'+'Post Type:'+posttype+'\n'+url+'\n'+'Author: '+author+'\n'+'Title: '+title+'\n\n')
 
         if(ans_item):
             #date = ans_item.find('meta',{'itemprop':'datePublished'})['content']
@@ -82,8 +82,11 @@ def dumpTopic(topicID, number = 20):
 
             question_url = ans_item.find('div',{'itemprop':'zhihu:question'}).find('meta',{'itemprop':'url'})['content']
             question_title = ans_item.find('div',{'itemprop':'zhihu:question'}).find('meta',{'itemprop':'name'})['content']
+            #Get question information
+            question_res = get_url(question_url)
+            soup = BeautifulSoup(question_res.content, 'html.parser')
 
-            
+            question_content = soup.find('span',{'class':'RichText','itemprop':'text'}).text
             postid = zop_obj['itemId']
             author = zop_obj['authorName']
             posttype = zop_obj['type']
@@ -92,11 +95,11 @@ def dumpTopic(topicID, number = 20):
             if posttype == 'answer':
                 url = question_url+'/answer/'+str(postid)
 
-            
-            #print(str(art_item))
-            print('Topic ID: '+topicID+'\n\n'+'Post ID: '+str(postid)+'\n'+url+'\n'+'Question: '+question_title+'\n'+'Question URL: '+question_url+'\n'+'Author: '+author+'\n'+'Post Type:'+posttype+'\n\n')
-        #print(str(item)+'\n\n')
+            #Get answer information            
+
+            #print('Topic ID: '+topicID+'\n'+'Post ID: '+str(postid)+'\n'+'Post Type:'+posttype+'\n'+url+'\n'+'Question: '+question_title+'\n'+'Question URL: '+question_url+'\n'+'Author: '+author+'\n'+'\n')
+
     
-#TODO: grab posts, at first from static page, then dynamically
+
 #TODO: construct file structure/data schema
 #TODO: grab all comments from post
