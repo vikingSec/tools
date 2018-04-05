@@ -3,6 +3,7 @@ import Zhihu
 import time
 import os
 import codecs
+import smtplib
 
 
 def main(topicFile = 'topics.txt'):
@@ -42,7 +43,24 @@ def main(topicFile = 'topics.txt'):
             
             
             
+
+server = smtplib.SMTP('smtp.gmail.com',587)
+server.starttls()
+email = raw_input('What EMail would you like to use? ')
+passw = raw_input('What Password would you like to use? ')
+server.login(email.strip(), passw.strip())
+
+
+while 1:
+    main()
+    amtFiles = 0
+    f = open('./topics.txt','r')
+    for line in f:
+        
+        amtFiles += len([name for name in os.listdir('./'+line.strip())])
+    f.close()
+    msg = 'There are currently '+str(amtFiles)+' files in search!'
+    print 'SENDING: '+msg
+    server.sendmail(email, email, msg)
+    time.sleep(600)
     
-
-
-main()
