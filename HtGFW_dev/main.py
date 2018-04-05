@@ -48,7 +48,7 @@ server = smtplib.SMTP('smtp.gmail.com',587)
 server.starttls()
 email = raw_input('What EMail would you like to use? ')
 passw = raw_input('What Password would you like to use? ')
-server.login(email.strip(), passw.strip())
+
 
 
 while 1:
@@ -61,6 +61,7 @@ while 1:
     f.close()
     msg = 'There are currently '+str(amtFiles)+' files in search!'
     print 'SENDING: '+msg
+    server.login(email.strip(), passw.strip())
     server.sendmail(email, email, msg)
     time.sleep(600)
     
