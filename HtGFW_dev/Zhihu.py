@@ -81,65 +81,47 @@ def dumpTopic(topicID, number = 20):
         art_item = item.find('div', {'class':'ContentItem ArticleItem'})
         ans_item = item.find('div', {'class':'ContentItem AnswerItem'})
         if(art_item):
-            date = art_item.find('meta',{'itemprop':'datePublished'})['content']
-            zop_obj = json.loads(item.find('div', {'class':'ContentItem ArticleItem'})['data-zop'])
             
-            postid = zop_obj['itemId']
-            #print 'ART POSTID: '+str(postid)
-            
-            author = zop_obj['authorName']
-            #print 'ART AUTH: '+author
-            posttype = zop_obj['type']
-            title = zop_obj['title']
-
-            if posttype == 'article':
-                url = item.find('a', {'data-za-detail-view-element_name':'Title'})['href']
-                url = url.replace('//','https://')
-                
-                
-            
+            url = item.find('a', {'data-za-detail-view-element_name':'Title'})['href']
+            url = url.replace('//','https://')
             art_res = get_url_zl(url)
             soup = BeautifulSoup(art_res.content, 'html.parser')
 
             
 
+            posttype = 'article'
+            postid = json.loads(soup.find('div', {'class':'Post-content'})['data-zop'])['itemId']
+            author = json.loads(soup.find('div', {'class':'Post-content'})['data-zop'])['authorName']
+            title = json.loads(soup.find('div', {'class':'Post-content'})['data-zop'])['title']
             art_content = soup.find('div',{'class':'RichText Post-RichText'}).text
-            
-            
-                
             #print('?Topic ID: '+topicID+'\n'+'Post ID: '+str(postid)+'\n'+'URL: '+url+'\n'+'Author: '+author+'\n'+'Post Type:'+posttype+'\n'+'Title: '+title+'\n\n')
-            ret+=(topicID+'\n'+posttype+'\n'+str(postid)+'\n'+url+'\n'+author+'\n'+title+'\n'+art_content+'\n\n')
+            ret+=(topicID+'\n'+posttype+'\n'+str(postid)+'\n'+url+'\n'+author.strip()+'\n'+title.strip()+'\n'+art_content.strip()+'\n\n\n')
 
         if(ans_item):
-            #date = ans_item.find('meta',{'itemprop':'datePublished'})['content']
-            zop_obj = json.loads(item.find('div', {'class':'ContentItem AnswerItem'})['data-zop'])
+            url = item.find('a', {'data-za-detail-view-element_name':'Title'})['href']
+            url = 'https://www.zhihu.com'+url
+            ans_res = get_url(url)
+            soup = BeautifulSoup(ans_res.content, 'html.parser')
 
-            question_url = ans_item.find('div',{'itemprop':'zhihu:question'}).find('meta',{'itemprop':'url'})['content']
-            question_title = ans_item.find('div',{'itemprop':'zhihu:question'}).find('meta',{'itemprop':'name'})['content']
-
+            
+            posttype = 'answer'
+            postid = json.loads(soup.find('div',{'class':'ContentItem AnswerItem'})['data-zop'])['itemId']
+            author = json.loads(soup.find('div',{'class':'ContentItem AnswerItem'})['data-zop'])['authorName']
+            question_title = soup.find('div',{'class':'QuestionPage'}).find('meta', {'itemprop':'name'})['content']
+            ans_content = soup.find('span',{'class':'RichText CopyrightRichText-richText'}).text
+            
+            ret+=(topicID+'\n'+posttype+'\n'+str(postid)+'\n'+url.strip()+'\n'+author.strip()+'\n'+question_title.strip()+'\n'+ans_content.strip()+'\n\n\n')
+            question_url = soup.find('meta',{'itemprop':'url'})['content']
             ques_res = get_url(question_url)
             soup = BeautifulSoup(ques_res.content, 'html.parser')
 
-            ques_content = soup.find('span',{'class':'RichText','itemprop':'text'}).text
+            posttype = 'question'
+            postid = question_url.split('/')[4]
             
+            title = soup.find('h1', {'class':'QuestionHeader-title'}).text
+            content = soup.find('span', {'class':'RichText','itemprop':'text'}).text
             
-            postid = zop_obj['itemId']
-            questionid = question_url.split('/')[4]
-            author = zop_obj['authorName']
-            posttype = zop_obj['type']
-            title = zop_obj['title']
-            #print 'ANS POSTID: '+str(postid)
-            #print 'ANS AUTH: '+author
-            if posttype == 'answer':
-                url = question_url+'/answer/'+str(postid)
-
-            
-            ans_res = get_url(url)
-            soup = BeautifulSoup(ans_res.content, 'html.parser')
-            ans_content = soup.find('span', {'class':'RichText CopyrightRichText-richText'}).text
-            
-            #print('!Topic ID: '+topicID+'\n'+'Post ID: '+str(postid)+'\n'+'URL: '+url+'\n'+'Question ID: '+questionid+'\n'+'Question: '+question_title+'\n'+'Question URL: '+question_url+'\n'+'Author: '+author+'\n'+'Post Type:'+posttype+'\n\n')
-            ret+=(topicID+'\n'+posttype+'\n'+str(postid)+'\n'+url+'\n'+author+'\n'+ans_content+'\n'+question_title+'\n'+questionid+'\n'+question_url+'\n'+ques_content+'\n\n')
+            ret+=(topicID+'\n'+posttype+'\n'+str(postid)+'\n'+question_url.strip()+'\n'+'UNKNOWN'+'\n'+title.strip()+'\n'+content.strip()+'\n\n\n')
 
     return ret
 
