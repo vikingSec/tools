@@ -1,0 +1,8 @@
+19603827
+article
+34577980
+https://zhuanlan.zhihu.com/p/34577980
+旋风火鸡
+Memcached漏洞泄露敏感信息？
+
+Memcached是一个广泛使用的高速缓存系统，恶意访问者可以通过向服务器发送一个精心构造的Memcached命令实现该漏洞的利用。小编复现了此漏洞场景，请戳以下地址进入：Memcached Server远程代码执行漏洞漏洞简介恶意访问者可以通过向服务器发送一个精心构造的Memcached命令实现该漏洞的利用。此外，漏洞还可以泄露敏感的进程信息，并且可以多次触发，利用这些敏感的进程信息，恶意访问者可以绕过像ASLR等常见的漏洞缓解机制。漏洞出现的原因是因为process_bin_append_prepend函数存在整数溢出。该函数主要负责处理memcached二进制协议的多个命令，最终可能出现滥用导致堆溢出并实现远程代码执行问题。影响版本小于1.4.33实验内容步骤1：了解原理在服务中，当执行Append (opcode 0x0e), Prepend (opcode 0x0f), AppendQ (0x19), PrependQ (opcode 0x1a) 命令时会进入这样如下代码路径：case PROTOCOL_BINARY_CMD_APPEND:
