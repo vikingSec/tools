@@ -17,18 +17,25 @@ def stats():
 def check():
     f = open('./topics.txt','r')
     for line in f:
+        print 'CHECKING TOPIC: '+line.strip()
         path = './'+line.strip()+'/'
         for check in os.listdir(path):
             f = open(path+check.strip(),'r')
             spl = f.read().split('\n')
             Type = spl[1].strip()
             link = spl[3]
+
+            CHECK = 'POTENTIALLY CENSORED: \n\n'
             
             if Type == 'article':
                 res = Zhihu.get_url_zl(link)
-                print Type+' : '+str(res.status_code)+' : '+link
+                if not res.status_code == 200:
+                    CHECK+= Type+' : '+str(res.status_code)+' : '+link+'\n'
             else:
                 res = Zhihu.get_url(link)
-                print Type+' : '+str(res.status_code)+' : '+link
+                if not res.status_code == 200:
+                    CHECK+= Type+' : '+str(res.status_code)+' : '+link+'\n'
+
+    return CHECK
             
             
