@@ -52,33 +52,33 @@ passw = raw_input('What Password would you like to use? ')
 
 
 while 1:
-    #try:
-    main()
-    amtFiles = 0
-    f = open('./topics.txt','r')
-    for line in f:
+    try:
+        main()
+        amtFiles = 0
+        f = open('./topics.txt','r')
+        for line in f:
+            
+            amtFiles += len([name for name in os.listdir('./'+line.strip())])
+        f.close()
+        msg = 'There are currently '+str(amtFiles)+' files in search!'
+        print datetime.datetime.now().strftime('%a, %d %B %Y %I: %M %S')+' : '+msg
+        server = smtplib.SMTP('smtp.gmail.com',587, timeout=120)
+        server.starttls()
+        server.login(email.strip(), passw.strip())
+        now = str(datetime.datetime.now().strftime('%a, %d %B %Y %I: %M %S'))
         
-        amtFiles += len([name for name in os.listdir('./'+line.strip())])
-    f.close()
-    msg = 'There are currently '+str(amtFiles)+' files in search!'
-    print datetime.datetime.now().strftime('%a, %d %B %Y %I: %M %S')+' : '+msg
-    server = smtplib.SMTP('smtp.gmail.com',587, timeout=120)
-    server.starttls()
-    server.login(email.strip(), passw.strip())
-    now = str(datetime.datetime.now().strftime('%a, %d %B %Y %I: %M %S'))
-    
-    server.sendmail(email, email, msg)
-    server.close()
-    time.sleep(600)
+        server.sendmail(email, email, msg)
+        server.close()
+        time.sleep(600)
         
-    #except Exception as e:
-##    server = smtplib.SMTP('smtp.gmail.com',587, timeout=120)
-##    server.starttls()
-##    server.login(email.strip(), passw.strip())
-##    now = str(datetime.datetime.now().strftime('%a, %d %B %Y %I: %M %S'))
-##    print now+' : ERROR: '+str(e)
-##    server.sendmail(email, email, now+' : ERROR: '+str(e))
-##    server.close()
-##    
-##        
-##        time.sleep(120)
+    except Exception as e:
+        server = smtplib.SMTP('smtp.gmail.com',587, timeout=120)
+        server.starttls()
+        server.login(email.strip(), passw.strip())
+        now = str(datetime.datetime.now().strftime('%a, %d %B %Y %I: %M %S'))
+        print now+' : ERROR: '+str(e)
+        server.sendmail(email, email, now+' : ERROR: '+str(e))
+        server.close()
+        
+            
+        time.sleep(120)
