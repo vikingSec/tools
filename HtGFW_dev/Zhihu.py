@@ -67,7 +67,74 @@ def getPostTitle(postID, posttype = 'question'):
         print(question_title)
 
 def dumpTopic(topicID, number = 20):
+    ret = ""
+    ret+=dumpTopic_hot(topicID, number)
+    ret+=dumpTopic_unanswered(topicID, number)
+    return ret
+    
+
+
+def dumpTopic_hot(topicID, number = 20):
     topicURL = 'https://www.zhihu.com/topic/'+str(topicID).strip()+'/hot'
+    res = get_url(topicURL)
+
+    soup = BeautifulSoup(res.content, 'html.parser')
+    question_list = soup.find_all('div','List-item TopicFeedItem')
+
+    ret = ""
+    
+    
+    
+    for item in list(question_list):
+        art_item = item.find('div', {'class':'ContentItem ArticleItem'})
+        ans_item = item.find('div', {'class':'ContentItem AnswerItem'})
+        if(art_item):
+            
+            url = item.find('a', {'data-za-detail-view-element_name':'Title'})['href']
+            url = url.replace('//','https://')
+            art_res = get_url_zl(url)
+            soup = BeautifulSoup(art_res.content, 'html.parser')
+
+            
+
+            posttype = 'article'
+            postid = json.loads(soup.find('div', {'class':'Post-content'})['data-zop'])['itemId']
+            author = json.loads(soup.find('div', {'class':'Post-content'})['data-zop'])['authorName']
+            title = json.loads(soup.find('div', {'class':'Post-content'})['data-zop'])['title']
+            art_content = soup.find('div',{'class':'RichText Post-RichText'}).text
+            #print('?Topic ID: '+topicID+'\n'+'Post ID: '+str(postid)+'\n'+'URL: '+url+'\n'+'Author: '+author+'\n'+'Post Type:'+posttype+'\n'+'Title: '+title+'\n\n')
+            ret+=(topicID+'\n'+posttype+'\n'+str(postid)+'\n'+url+'\n'+author.strip()+'\n'+title.strip()+'\n'+art_content.strip()+'\n\n\n')
+
+        if(ans_item):
+            url = item.find('a', {'data-za-detail-view-element_name':'Title'})['href']
+            url = 'https://www.zhihu.com'+url
+            ans_res = get_url(url)
+            soup = BeautifulSoup(ans_res.content, 'html.parser')
+
+            
+            posttype = 'answer'
+            postid = json.loads(soup.find('div',{'class':'ContentItem AnswerItem'})['data-zop'])['itemId']
+            author = json.loads(soup.find('div',{'class':'ContentItem AnswerItem'})['data-zop'])['authorName']
+            question_title = soup.find('div',{'class':'QuestionPage'}).find('meta', {'itemprop':'name'})['content']
+            ans_content = soup.find('span',{'class':'RichText CopyrightRichText-richText'}).text
+            
+            ret+=(topicID+'\n'+posttype+'\n'+str(postid)+'\n'+url.strip()+'\n'+author.strip()+'\n'+question_title.strip()+'\n'+ans_content.strip()+'\n\n\n')
+            question_url = soup.find('meta',{'itemprop':'url'})['content']
+            ques_res = get_url(question_url)
+            soup = BeautifulSoup(ques_res.content, 'html.parser')
+
+            posttype = 'question'
+            postid = question_url.split('/')[4]
+            
+            title = soup.find('h1', {'class':'QuestionHeader-title'}).text
+            content = soup.find('span', {'class':'RichText','itemprop':'text'}).text
+            
+            ret+=(topicID+'\n'+posttype+'\n'+str(postid)+'\n'+question_url.strip()+'\n'+'UNKNOWN'+'\n'+title.strip()+'\n'+content.strip()+'\n\n\n')
+
+    return ret
+
+def dumpTopic_unanswered(topicID, number = 20):
+    topicURL = 'https://www.zhihu.com/topic/'+str(topicID).strip()+'/unanswered'
     res = get_url(topicURL)
 
     soup = BeautifulSoup(res.content, 'html.parser')
