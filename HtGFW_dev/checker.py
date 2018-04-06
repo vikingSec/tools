@@ -10,14 +10,7 @@ def stats():
     
     amt_topics = len([name for name in os.listdir('./') if os.path.isdir('./'+name)])
     ret+='NUMBER OF TOPICS: '+str(amt_topics)+'\n'
-    amt_posts = 0
-    f = open('./topics.txt','r')
-    for line in f:
-        
-        amt_posts += len([name for name in os.listdir('./'+line.strip())])
-    f.close()
 
-    ret+='NUMBER OF POSTS: '+str(amt_posts)+'\n\n'
     return ret
 
 def check():
