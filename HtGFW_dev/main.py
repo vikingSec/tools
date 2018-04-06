@@ -5,6 +5,7 @@ import os
 import codecs
 import smtplib
 import datetime
+import checker
 
 def main(topicFile = 'topics.txt'):
     dump = ''
@@ -50,9 +51,10 @@ email = raw_input('What EMail would you like to use? ')
 passw = raw_input('What Password would you like to use? ')
 
 
-
+counter = 0
 while 1:
     try:
+        
         main()
         amtFiles = 0
         f = open('./topics.txt','r')
@@ -62,14 +64,17 @@ while 1:
         f.close()
         msg = 'There are currently '+str(amtFiles)+' files in search!'
         print datetime.datetime.now().strftime('%a, %d %B %Y %I: %M %S')+' : '+msg
-        server = smtplib.SMTP('smtp.gmail.com',587, timeout=120)
-        server.starttls()
-        server.login(email.strip(), passw.strip())
-        now = str(datetime.datetime.now().strftime('%a, %d %B %Y %I: %M %S'))
-        
-        server.sendmail(email, email, msg)
-        server.close()
-        time.sleep(600)
+        if (counter % 4) == 0:
+            server = smtplib.SMTP('smtp.gmail.com',587, timeout=120)
+            server.starttls()
+            server.login(email.strip(), passw.strip())
+            now = str(datetime.datetime.now().strftime('%a, %d %B %Y %I: %M %S'))
+            msg = msg+'\n\n'+checker.stats()+checker.check()
+            server.sendmail(email, email, msg)
+            server.close()
+            time.sleep(600)
+            counter = 0
+        counter +=1
         
     except Exception as e:
         server = smtplib.SMTP('smtp.gmail.com',587, timeout=120)

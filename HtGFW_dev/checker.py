@@ -4,15 +4,21 @@ import datetime
 import time
 
 def stats():
+    ret = ""
     now = str(datetime.datetime.now().strftime('%a %d %B %Y %I: %M %S'))
-    print now+'\n\n'
-
+    ret+=now+'\n\n'
+    
     amt_topics = len([name for name in os.listdir('./') if os.path.isdir('./'+name)])
-    print 'NUMBER OF TOPICS: '+str(amt_topics)
+    ret+='NUMBER OF TOPICS: '+str(amt_topics)+'\n'
     amt_posts = 0
-    for sub in [name for name in os.listdir('./') if os.path.isdir('./'+name)]:
-        amt_posts+=len([name for name in os.listdir('./')])
-    print 'NUMBER OF POSTS: '+str(amt_posts)
+    f = open('./topics.txt','r')
+    for line in f:
+        
+        amt_posts += len([name for name in os.listdir('./'+line.strip())])
+    f.close()
+
+    ret+='NUMBER OF POSTS: '+str(amt_posts)+'\n\n'
+    return ret
 
 def check():
     f = open('./topics.txt','r')
