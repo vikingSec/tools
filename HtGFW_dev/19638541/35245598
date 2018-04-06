@@ -1,0 +1,8 @@
+19638541
+article
+35245598
+https://zhuanlan.zhihu.com/p/35245598
+小蘑菇
+一种新型SQL时间盲注攻击探索
+
+作者： @do9gy 现就职于长亭科技，长期从事渗透测试，WAF攻防对抗工作，喜欢小狗。SQL注入漏洞由来已久，关于盲注方面一直都是安全爱好者喜欢研究的话题。记得最早了解到DNS外传的思路是在oldjun的博客，当时被这种技巧所吸引，不过该方法依赖于mysql版本和window环境的限制。首先介绍一下什么是SQL盲注在SQL注入中，往往需要引入“超出预期”的SQL语句，最好是希望将“额外”的查询内容直接显示在页面上，使用的手法有：“报错查询（error-based）”、“联合查询（union-select）”。对于无法直接回显出内容的情况需要依赖true／false差异判断（boolean）、时间对比（time-based）、DNS外传数据查询（data exfiltration through DNS channel）等方法进行捕获。例如：“select if(user()='root@localhost',sleep(4),null)“ 当网站用户是”root@localhost“时，会延长4秒钟后返回结果，当用户不是”root@localhost“时，会立即返回，由此可以判断系统中的用户，利用同样的方法可以猜测出权限范围内所有数据库所有表中存放的内容。关于mysql时间类型（time-based）的注入，一直以来众所周知的有三种方法——sleep、benchmark、笛卡尔积。所以许多市面上的WAF产品也是基于此类规则去防护的。但是sql时间类型的盲注本质是利用插入的SQL语句执行造成时间延迟，所以只要可以大于平均网络延迟2倍以上，就可以作为执行成功的判断依据，而大多数网站的平均响应时间在100ms以内，所以我们需要制造能达到200ms以上的时间延长的语句。今天我们要提到的一个mysql函数是 get_lock函数，先来看一下mysql文档中对其的描述：GET_LOCK(str,timeout)Triesto obtain a lock with a name given by the string str, using a timeout oftimeout seconds. A negative timeout value means infinite timeout. The lock isexclusive. While held by one session, other sessions cannot obtain a lock ofthe same name.在一个session中可以先锁定一个变量例如：select get_lock(‘do9gy’,1)然后通过另一个session 再次执行get_lock函数 select get_lock(‘do9gy’,5),此时会产生5 秒的延迟，其效果类似于sleep(5)。mysql> select get_lock('do9gy',1);

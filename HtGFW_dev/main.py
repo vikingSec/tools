@@ -23,7 +23,7 @@ def main(topicFile = 'topics.txt'):
     for item in dump_spl:
         linespl = item.split('\n')
         if len(linespl) > 5:
-            if not os.path.exists('./'+linespl[0]+'/'+linespl[2]):
+            if not os.path.exists('./'+linespl[0]+'/'+linespl[2]) and len(linespl[0]) == 8:
                 topicid = linespl[0]
                 posttype = linespl[1]
                 postid = linespl[2]
