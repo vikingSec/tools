@@ -51,7 +51,7 @@ email = raw_input('What EMail would you like to use? ')
 passw = raw_input('What Password would you like to use? ')
 
 
-counter = 0
+counter = 4
 while 1:
     try:
         
@@ -72,8 +72,9 @@ while 1:
             msg = msg+'\n\n'+checker.stats()+checker.check()
             server.sendmail(email, email, msg)
             server.close()
-            time.sleep(600)
+            
             counter = 0
+        time.sleep(600)
         counter +=1
         
     except Exception as e:
