@@ -103,7 +103,7 @@ def dumpTopic_hot(topicID, number = 20):
             title = json.loads(soup.find('div', {'class':'Post-content'})['data-zop'])['title']
             art_content = soup.find('div',{'class':'RichText Post-RichText'}).text
             #print('?Topic ID: '+topicID+'\n'+'Post ID: '+str(postid)+'\n'+'URL: '+url+'\n'+'Author: '+author+'\n'+'Post Type:'+posttype+'\n'+'Title: '+title+'\n\n')
-            ret+=(topicID+'\n'+posttype+'\n'+str(postid)+'\n'+url+'\n'+author.strip()+'\n'+title.strip()+'\n'+art_content.strip()+'\n\n\n')
+            ret+=(topicID+'\n'+posttype+'\n'+str(postid)+'\n'+url+'\n'+author.strip()+'\n'+title.strip()+'\n'+art_content.strip()+'\n\n:\n')
 
         if(ans_item):
             url = item.find('a', {'data-za-detail-view-element_name':'Title'})['href']
@@ -118,7 +118,7 @@ def dumpTopic_hot(topicID, number = 20):
             question_title = soup.find('div',{'class':'QuestionPage'}).find('meta', {'itemprop':'name'})['content']
             ans_content = soup.find('span',{'class':'RichText CopyrightRichText-richText'}).text
             
-            ret+=(topicID+'\n'+posttype+'\n'+str(postid)+'\n'+url.strip()+'\n'+author.strip()+'\n'+question_title.strip()+'\n'+ans_content.strip()+'\n\n\n')
+            ret+=(topicID+'\n'+posttype+'\n'+str(postid)+'\n'+url.strip()+'\n'+author.strip()+'\n'+question_title.strip()+'\n'+ans_content.strip()+'\n\n:\n')
             question_url = soup.find('meta',{'itemprop':'url'})['content']
             ques_res = get_url(question_url)
             soup = BeautifulSoup(ques_res.content, 'html.parser')
@@ -129,7 +129,7 @@ def dumpTopic_hot(topicID, number = 20):
             title = soup.find('h1', {'class':'QuestionHeader-title'}).text
             content = soup.find('span', {'class':'RichText','itemprop':'text'}).text
             
-            ret+=(topicID+'\n'+posttype+'\n'+str(postid)+'\n'+question_url.strip()+'\n'+'UNKNOWN'+'\n'+title.strip()+'\n'+content.strip()+'\n\n\n')
+            ret+=(topicID+'\n'+posttype+'\n'+str(postid)+'\n'+question_url.strip()+'\n'+'UNKNOWN'+'\n'+title.strip()+'\n'+content.strip()+'\n\n:\n')
 
     return ret
 
@@ -162,7 +162,7 @@ def dumpTopic_unanswered(topicID, number = 20):
             title = json.loads(soup.find('div', {'class':'Post-content'})['data-zop'])['title']
             art_content = soup.find('div',{'class':'RichText Post-RichText'}).text
             #print('?Topic ID: '+topicID+'\n'+'Post ID: '+str(postid)+'\n'+'URL: '+url+'\n'+'Author: '+author+'\n'+'Post Type:'+posttype+'\n'+'Title: '+title+'\n\n')
-            ret+=(topicID+'\n'+posttype+'\n'+str(postid)+'\n'+url+'\n'+author.strip()+'\n'+title.strip()+'\n'+art_content.strip()+'\n\n\n')
+            ret+=(topicID+'\n'+posttype+'\n'+str(postid)+'\n'+url+'\n'+author.strip()+'\n'+title.strip()+'\n'+art_content.strip()+'\n\n:\n')
 
         if(ans_item):
             url = item.find('a', {'data-za-detail-view-element_name':'Title'})['href']
@@ -177,7 +177,7 @@ def dumpTopic_unanswered(topicID, number = 20):
             question_title = soup.find('div',{'class':'QuestionPage'}).find('meta', {'itemprop':'name'})['content']
             ans_content = soup.find('span',{'class':'RichText CopyrightRichText-richText'}).text
             
-            ret+=(topicID+'\n'+posttype+'\n'+str(postid)+'\n'+url.strip()+'\n'+author.strip()+'\n'+question_title.strip()+'\n'+ans_content.strip()+'\n\n\n')
+            ret+=(topicID+'\n'+posttype+'\n'+str(postid)+'\n'+url.strip()+'\n'+author.strip()+'\n'+question_title.strip()+'\n'+ans_content.strip()+'\n\n:\n')
             question_url = soup.find('meta',{'itemprop':'url'})['content']
             ques_res = get_url(question_url)
             soup = BeautifulSoup(ques_res.content, 'html.parser')
@@ -188,7 +188,7 @@ def dumpTopic_unanswered(topicID, number = 20):
             title = soup.find('h1', {'class':'QuestionHeader-title'}).text
             content = soup.find('span', {'class':'RichText','itemprop':'text'}).text
             
-            ret+=(topicID+'\n'+posttype+'\n'+str(postid)+'\n'+question_url.strip()+'\n'+'UNKNOWN'+'\n'+title.strip()+'\n'+content.strip()+'\n\n\n')
+            ret+=(topicID+'\n'+posttype+'\n'+str(postid)+'\n'+question_url.strip()+'\n'+'UNKNOWN'+'\n'+title.strip()+'\n'+content.strip()+'\n\n:\n')
 
     return ret
 
