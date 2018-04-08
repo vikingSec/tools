@@ -1,0 +1,8 @@
+19554927
+question
+269974325
+https://www.zhihu.com/question/269974325
+UNKNOWN
+从http跳转到https页面，会导致cookie泄露吗？修改
+
+比如我访问阿里云页面，在浏览器输入框直接输入http://aliyun.com，然后network里面有先跳转到http://aliyun.com/ 然后返回一个307 inner direct，跳转到了https://aliyun.com/ 如果我的网络一开始就被别人监听了，他是不是就能知道我的cookie，从而伪造我的身份了？（这里假定cookie是校验的唯一方式，毕竟不少小网站都是有cookie就认定用户了）。后端有没有什么好的办法避免这件事，我只能想到每次从http调到https的时候…
