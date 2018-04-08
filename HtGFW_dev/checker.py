@@ -15,6 +15,7 @@ def stats():
 
 def check():
     f = open('./topics.txt','r')
+    CHECK = 'POTENTIALLY CENSORED: \n\n'
     for line in f:
         print 'CHECKING TOPIC: '+line.strip()
         path = './'+line.strip()+'/'
@@ -24,7 +25,7 @@ def check():
             Type = spl[1].strip()
             link = spl[3]
 
-            CHECK = 'POTENTIALLY CENSORED: \n\n'
+            
             
             if Type == 'article':
                 res = Zhihu.get_url_zl(link)
