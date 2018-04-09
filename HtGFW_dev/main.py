@@ -71,7 +71,8 @@ while 1:
             now = str(datetime.datetime.now().strftime('%a, %d %B %Y %I: %M %S'))
             report = open('./reports/'+datetime.datetime.now().strftime('%a, %d %B %Y %I: %M %S')+'.txt', 'w')
             time.sleep(60)
-            report.write(checker.check())
+            ret = checker.check()
+            report.write(ret)
             report.close()
             print now+'\n\n'+checker.stats()+'\n\n'+msg
             server.sendmail(email, email, msg)
@@ -90,8 +91,9 @@ while 1:
         server.sendmail(email, email, now+' : ERROR: '+str(e))
         report = open('./reports/'+datetime.datetime.now().strftime('%a, %d %B %Y %I: %M %S')+'.txt', 'w')
         time.sleep(60)
-        report.write(checker.check())
+        ret = checker.check()
+        report.write(ret)
         server.close()
-        
+        report.close()
             
         time.sleep(120)
