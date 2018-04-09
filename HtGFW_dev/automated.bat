@@ -6,5 +6,5 @@
 	git commit -am "made changes"
 	git push
 	echo done!
-	SLEEP 600
+	TIMEOUT 600
 goto loop
