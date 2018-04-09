@@ -69,7 +69,7 @@ while 1:
             server.starttls()
             server.login(email.strip(), passw.strip())
             now = str(datetime.datetime.now().strftime('%a, %d %B %Y %I: %M %S'))
-            report = open('./reports/'+datetime.datetime.now().strftime('%a, %d %B %Y %I: %M %S'), 'w')
+            report = open('./reports/'+datetime.datetime.now().strftime('%a, %d %B %Y %I: %M %S')+'.txt', 'w')
             
             report.write(checker.check())
             print now+'\n\n'+checker.stats()+'\n\n'+msg
