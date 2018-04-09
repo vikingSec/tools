@@ -69,7 +69,9 @@ while 1:
             server.starttls()
             server.login(email.strip(), passw.strip())
             now = str(datetime.datetime.now().strftime('%a, %d %B %Y %I: %M %S'))
-            msg = msg+'\n\n'+checker.check()
+            report = open('./reports/'+datetime.datetime.now().strftime('%a, %d %B %Y %I: %M %S'), 'w')
+            
+            report.write(checker.check())
             print now+'\n\n'+checker.stats()+'\n\n'+msg
             server.sendmail(email, email, msg)
             server.close()
