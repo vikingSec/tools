@@ -1,5 +1,5 @@
 #!/bin/sh
-:baloop
+:loop
 	cd C:\Users\mgedw\Documents\GitHub\tools\HtGFW_dev
 
 	git add .
