@@ -20,6 +20,8 @@ def check():
         print 'CHECKING TOPIC: '+line.strip()
         path = './'+line.strip()+'/'
         for check in os.listdir(path):
+            
+            time.sleep(10)
             f = open(path+check.strip(),'r')
             spl = f.read().split('\n')
             Type = spl[1].strip()
@@ -30,12 +32,14 @@ def check():
             if Type == 'article':
                 res = Zhihu.get_url_zl(link)
                 if not res.status_code == 200:
+                    print Type+' : '+str(res.status_code)+' : '+link+'\n'
                     CHECK+= Type+' : '+str(res.status_code)+' : '+link+'\n'
             else:
                 res = Zhihu.get_url(link)
                 if not res.status_code == 200:
+                    print Type+' : '+str(res.status_code)+' : '+link+'\n'
                     CHECK+= Type+' : '+str(res.status_code)+' : '+link+'\n'
-
+    
     return CHECK
             
             
