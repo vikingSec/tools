@@ -70,7 +70,7 @@ while 1:
             #server.login(email.strip(), passw.strip())
             now = str(datetime.datetime.now().strftime('%a, %d %B %Y %I: %M %S'))
             report = open('./reports/'+datetime.datetime.now().strftime('%a, %d %B %Y %I: %M %S')+'.txt', 'w+')
-            time.sleep(60)
+            
             #ret = checker.check()
             report.write(msg)
             report.close()
@@ -90,7 +90,7 @@ while 1:
         print now+' : ERROR: '+str(e)
         #server.sendmail(email, email, now+' : ERROR: '+str(e))
         report = open('./reports/'+datetime.datetime.now().strftime('%a, %d %B %Y %I: %M %S')+'.txt', 'w+')
-        time.sleep(60)
+        
         #ret = checker.check()
         report.write(now+' : ERROR: '+str(e))
         server.close()
