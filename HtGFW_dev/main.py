@@ -64,23 +64,23 @@ while 1:
         f.close()
         msg = 'There are currently '+str(amtFiles)+' files in search!'
         print datetime.datetime.now().strftime('%a, %d %B %Y %I: %M %S')+' : '+msg
-        if (counter % 4) == 0:
-            #server = smtplib.SMTP('smtp.gmail.com',587, timeout=240)
-            #server.starttls()
-            #server.login(email.strip(), passw.strip())
-            now = str(datetime.datetime.now().strftime('%a, %d %B %Y %I: %M %S'))
-            report = open('./reports/'+datetime.datetime.now().strftime('%a, %d %B %Y %I: %M %S')+'.txt', 'w+')
+    
+        #server = smtplib.SMTP('smtp.gmail.com',587, timeout=240)
+        #server.starttls()
+        #server.login(email.strip(), passw.strip())
+        now = str(datetime.datetime.now().strftime('%a, %d %B %Y %I: %M %S'))
+        report = open('./reports/'+datetime.datetime.now().strftime('%a, %d %B %Y')+'.txt', 'w+')
+        
+        #ret = checker.check()
+        report.write(msg)
+        report.close()
+        print now+'\n\n'+checker.stats()+'\n\n'+msg
+        #server.sendmail(email, email, msg)
+        #server.close()
             
-            #ret = checker.check()
-            report.write(msg)
-            report.close()
-            print now+'\n\n'+checker.stats()+'\n\n'+msg
-            #server.sendmail(email, email, msg)
-            #server.close()
             
-            counter = 0
         time.sleep(600)
-        counter +=1
+        
         
     except Exception as e:
         #server = smtplib.SMTP('smtp.gmail.com',587, timeout=120)
