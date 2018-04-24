@@ -65,34 +65,34 @@ while 1:
         msg = 'There are currently '+str(amtFiles)+' files in search!'
         print datetime.datetime.now().strftime('%a, %d %B %Y %I: %M %S')+' : '+msg
         if (counter % 4) == 0:
-            server = smtplib.SMTP('smtp.gmail.com',587, timeout=240)
-            server.starttls()
-            server.login(email.strip(), passw.strip())
+            #server = smtplib.SMTP('smtp.gmail.com',587, timeout=240)
+            #server.starttls()
+            #server.login(email.strip(), passw.strip())
             now = str(datetime.datetime.now().strftime('%a, %d %B %Y %I: %M %S'))
-            report = open('./reports/'+datetime.datetime.now().strftime('%a, %d %B %Y %I: %M %S')+'.txt', 'w')
+            report = open('./reports/'+datetime.datetime.now().strftime('%a, %d %B %Y %I: %M %S')+'.txt', 'w+')
             time.sleep(60)
-            ret = checker.check()
-            report.write(ret)
+            #ret = checker.check()
+            report.write(msg)
             report.close()
             print now+'\n\n'+checker.stats()+'\n\n'+msg
-            server.sendmail(email, email, msg)
-            server.close()
+            #server.sendmail(email, email, msg)
+            #server.close()
             
             counter = 0
         time.sleep(600)
         counter +=1
         
     except Exception as e:
-        server = smtplib.SMTP('smtp.gmail.com',587, timeout=120)
-        server.starttls()
-        server.login(email.strip(), passw.strip())
+        #server = smtplib.SMTP('smtp.gmail.com',587, timeout=120)
+        #server.starttls()
+        #server.login(email.strip(), passw.strip())
         now = str(datetime.datetime.now().strftime('%a, %d %B %Y %I: %M %S'))
         print now+' : ERROR: '+str(e)
-        server.sendmail(email, email, now+' : ERROR: '+str(e))
-        report = open('./reports/'+datetime.datetime.now().strftime('%a, %d %B %Y %I: %M %S')+'.txt', 'w')
+        #server.sendmail(email, email, now+' : ERROR: '+str(e))
+        report = open('./reports/'+datetime.datetime.now().strftime('%a, %d %B %Y %I: %M %S')+'.txt', 'w+')
         time.sleep(60)
-        ret = checker.check()
-        report.write(ret)
+        #ret = checker.check()
+        report.write(now+' : ERROR: '+str(e))
         server.close()
         report.close()
             
