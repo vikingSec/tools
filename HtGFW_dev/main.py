@@ -47,8 +47,8 @@ def main(topicFile = 'topics.txt'):
             
 
 
-email = raw_input('What EMail would you like to use? ')
-passw = raw_input('What Password would you like to use? ')
+##email = raw_input('What EMail would you like to use? ')
+##passw = raw_input('What Password would you like to use? ')
 
 
 counter = 4
