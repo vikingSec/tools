@@ -72,7 +72,7 @@ while 1:
         report = open('./reports/'+datetime.datetime.now().strftime('%a, %d %B %Y')+'.txt', 'w+')
         
         #ret = checker.check()
-        report.write(msg)
+        report.write(str(msg))
         report.close()
         print now+'\n\n'+checker.stats()+'\n\n'+msg
         #server.sendmail(email, email, msg)
