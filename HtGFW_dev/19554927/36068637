@@ -1,0 +1,8 @@
+19554927
+article
+36068637
+https://zhuanlan.zhihu.com/p/36068637
+W-Pwn
+​任天堂Switch出现破解漏洞
+
+近日，ReSwitched团队的硬件黑客Kate Temkin公开披露了英伟达（Nvidia） Tegra X1芯片中的一个漏洞，该漏洞可以让任何人只需一个简单的操作就能攻破任天堂 Switch游戏机。Kate Temkin将这个漏洞称为Fusée Gelée，它影响了Nvidia Tegra系列嵌入式处理器Tegra的恢复模式，包括所有为任天堂Switch控制台供电的Tegra X1芯片。该漏洞被描述为“不可修复”，因为它存在于Tegra芯片中只读的bootrom中，只能够通过出厂前的小补丁进行补救，一旦设备出厂则再也没有挽救的机会。除了Switch，大量包含Tegra X1芯片的设备都会受到影响。Fusée Gelée漏洞可以让任何人破解Nintendo Switch控制台，甚至无需打开设备即可运行任意代码，只需使用一根简单的电线将Joy-Con连接器右侧的一个特定的pin短路，如Twitter上的fail0verflow小组所建议的那样。该漏洞影响了英伟达的Tegra SoC，与相应设备上可用的软件堆栈无关。它被认为会影响所有在T186 / X2之前发布的Nvidia Tegra SoC，允许早期启动ROM代码执行。这不是任天堂Switch第一次被黑客破解。今年早些时候，fail0verflow黑客组利用了名为ShofEL2的硬件漏洞，在Switch上运行Debian GNU / Linux操作系统，该漏洞同样不可以通过固件更新来修补。fail0verflow之前在Twitter上表示：“我们有一个90天负责任的ShofEL2披露窗口，截止日期为4月25日。”也就是明天将到期。fail0verflow还设法使用KDE Plasma桌面环境将任天堂Switch变成一个支持Linux的平板电脑，并且安装了Dolphin模拟器来运行著名的“塞尔达传说”，该游戏仅适用于Wii、Wii U和GameCube游戏控制台。为了演示bootROM的执行过程，黑客Kate Temkin发布了Fusée Gelée的概念证明（https://github.com/reswitched/fusee-launcher），其中包含一个示例负载，该负载公开了来自Nintendo Switch受保护的IROM和熔丝的信息。WTT资讯-最新科技资讯，实时网安信息​www.wttech.org欢迎关注我们：@W-Pwn
