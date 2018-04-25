@@ -56,7 +56,7 @@ rep_counter = 0
 while 1:
     try:
         
-        #main()
+        main()
         amtFiles = 0
         f = open('./topics.txt','r')
         for line in f:
@@ -76,6 +76,8 @@ while 1:
             check = checker.check()
             censored = len(check.split('\n'))
             report.write('Total of '+str(censored)+' posts!\n'+str(check))
+            print 'Total of '+str(censored)+' posts!\n'+str(check)
+            
             counter = 0
             rep_counter+=1 
         counter+=1
