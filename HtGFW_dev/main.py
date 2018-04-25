@@ -52,6 +52,7 @@ def main(topicFile = 'topics.txt'):
 
 
 counter = 4
+rep_counter = 0
 while 1:
     try:
         
@@ -70,12 +71,13 @@ while 1:
         #server.login(email.strip(), passw.strip())
         now = str(datetime.datetime.now().strftime('%a, %d %B %Y %I: %M %S'))
         if counter == 4:
-            report = open('./reports/'+datetime.datetime.now().strftime('%a, %d %B %Y %I: %M %S')+'.txt', 'w+')
+            report = open('./reports/'+datetime.datetime.now().strftime('%a, %d %B %Y')+'_'+rep_counter+'.txt', 'w+')
             report.write(str(msg)+'\n')
             check = checker.check()
             censored = len(check.split('\n'))
             report.write('Total of '+str(censored)+' posts!\n'+str(check))
             counter = 0
+            rep_counter+=1
         counter+=1
         
         report.close()
