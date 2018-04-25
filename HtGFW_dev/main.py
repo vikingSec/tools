@@ -72,7 +72,8 @@ while 1:
         report = open('./reports/'+datetime.datetime.now().strftime('%a, %d %B %Y')+'.txt', 'w+')
         report.write(str(msg))
         if counter == 4:
-            report.write(str(checker.check()))
+            check = checker.check()
+            report.write(str(check))
             counter = 0
         counter+=1
         
