@@ -55,7 +55,7 @@ counter = 4
 while 1:
     try:
         
-        main()
+        #main()
         amtFiles = 0
         f = open('./topics.txt','r')
         for line in f:
