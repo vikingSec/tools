@@ -84,7 +84,7 @@ while 1:
         #server.close()
             
             
-        time.sleep(600)
+        time.sleep(300)
         
         
     except Exception as e:
