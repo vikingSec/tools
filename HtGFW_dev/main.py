@@ -96,7 +96,7 @@ while 1:
         
         #ret = checker.check()
         report.write(str(now+' : ERROR: '+str(e)))
-        server.close()
+        #server.close()
         report.close()
             
         time.sleep(120)
