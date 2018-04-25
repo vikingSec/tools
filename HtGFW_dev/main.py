@@ -77,7 +77,7 @@ while 1:
             censored = len(check.split('\n'))
             report.write('Total of '+str(censored)+' posts!\n'+str(check))
             counter = 0
-            rep_counter+=1
+            rep_counter+=1 
         counter+=1
         
         report.close()
