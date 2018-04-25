@@ -71,9 +71,10 @@ while 1:
         now = str(datetime.datetime.now().strftime('%a, %d %B %Y %I: %M %S'))
         if counter == 4:
             report = open('./reports/'+datetime.datetime.now().strftime('%a, %d %B %Y')+'.txt', 'w+')
-            report.write(str(msg))
+            report.write(str(msg)+'\n')
             check = checker.check()
-            report.write(str(check))
+            censored = len(check.split('\n'))
+            report.write('Total of '+str(censored)+' posts!\n'+str(check))
             counter = 0
         counter+=1
         
