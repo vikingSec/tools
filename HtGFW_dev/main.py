@@ -55,7 +55,7 @@ counter = 4
 while 1:
     try:
         
-        #main()
+        main()
         amtFiles = 0
         f = open('./topics.txt','r')
         for line in f:
@@ -69,9 +69,9 @@ while 1:
         #server.starttls()
         #server.login(email.strip(), passw.strip())
         now = str(datetime.datetime.now().strftime('%a, %d %B %Y %I: %M %S'))
-        report = open('./reports/'+datetime.datetime.now().strftime('%a, %d %B %Y')+'.txt', 'w+')
-        report.write(str(msg))
         if counter == 4:
+            report = open('./reports/'+datetime.datetime.now().strftime('%a, %d %B %Y')+'.txt', 'w+')
+            report.write(str(msg))
             check = checker.check()
             report.write(str(check))
             counter = 0
