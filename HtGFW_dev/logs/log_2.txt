@@ -1261,3 +1261,14 @@ Fast-forward
  5 files changed, 58 insertions(+)
  create mode 100644 HtGFW_dev/19604685/274630931
  create mode 100644 HtGFW_dev/19604685/376447093
+[master dbcf758] Node2 Push
+ 1 file changed, 16 insertions(+)
+To git@github.com:vikingSec/tools.git
+   f47e8c9..dbcf758  master -> master
+From github.com:vikingSec/tools
+ * branch            master     -> FETCH_HEAD
+error: The following untracked working tree files would be overwritten by merge:
+	HtGFW_dev/20023724/376953657
+Please move or remove them before you can merge.
+Aborting
+Updating dbcf758..537ade1
