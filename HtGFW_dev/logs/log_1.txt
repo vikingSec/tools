@@ -114,3 +114,63 @@ To git+ssh://git@github.com/vikingSec/tools.git
 From git+ssh://github.com/vikingSec/tools
  * branch            master     -> FETCH_HEAD
 Already up-to-date.
+[master 2611356] Node1 Push
+ 5 files changed, 132 insertions(+)
+ create mode 100644 HtGFW_dev/19551424/376652726
+ create mode 100644 HtGFW_dev/19552981/274491021
+ create mode 100644 HtGFW_dev/19552981/376548049
+To git+ssh://git@github.com/vikingSec/tools.git
+   30e2214..2611356  master -> master
+From git+ssh://github.com/vikingSec/tools
+ * branch            master     -> FETCH_HEAD
+Updating 2611356..5638294
+Fast-forward
+ HtGFW_dev/check.sh          |    2 +-
+ HtGFW_dev/check2.sh         |    2 ++
+ HtGFW_dev/checker.py        |    2 +-
+ HtGFW_dev/checker2.py       |   45 +++++++++++++++++++++++++++++++
+ HtGFW_dev/checker3.py       |   45 +++++++++++++++++++++++++++++++
+ HtGFW_dev/cron.txt          |   30 ++++++++++-----------
+ HtGFW_dev/dump2.py          |   55 +++++++++++++++++++++++++++++++++++++
+ HtGFW_dev/dump2.sh          |    2 ++
+ HtGFW_dev/dump3.py          |   55 +++++++++++++++++++++++++++++++++++++
+ HtGFW_dev/dump3.sh          |    2 ++
+ HtGFW_dev/logs/log_2.1.txt  |   17 ++++++++++++
+ HtGFW_dev/logs/log_2.txt    |   63 +++++++++++++++++++++++++++++++++++++++++++
+ HtGFW_dev/printChecker_2.py |    2 +-
+ HtGFW_dev/push.sh           |    4 +--
+ HtGFW_dev/push2.sh          |    6 +++++
+ HtGFW_dev/push3.sh          |    6 +++++
+ 16 files changed, 318 insertions(+), 20 deletions(-)
+ create mode 100644 HtGFW_dev/NODE2_INIT.txt
+ mode change 100644 => 100755 HtGFW_dev/README.md
+ mode change 100644 => 100755 HtGFW_dev/Zhihu.py
+ create mode 100755 HtGFW_dev/check2.sh
+ mode change 100644 => 100755 HtGFW_dev/checker.py
+ create mode 100755 HtGFW_dev/checker2.py
+ create mode 100755 HtGFW_dev/checker3.py
+ create mode 100644 HtGFW_dev/crazy.txt
+ mode change 100644 => 100755 HtGFW_dev/cron.txt
+ mode change 100644 => 100755 HtGFW_dev/crontab.txt
+ mode change 100644 => 100755 HtGFW_dev/dump.py
+ create mode 100755 HtGFW_dev/dump2.py
+ create mode 100755 HtGFW_dev/dump2.sh
+ create mode 100755 HtGFW_dev/dump3.py
+ create mode 100755 HtGFW_dev/dump3.sh
+ create mode 100644 HtGFW_dev/logs/log_2.1.txt
+ create mode 100644 HtGFW_dev/logs/log_2.txt
+ mode change 100644 => 100755 HtGFW_dev/main.py
+ mode change 100644 => 100755 HtGFW_dev/printChecker_1.py
+ mode change 100644 => 100755 HtGFW_dev/printChecker_2.py
+ mode change 100644 => 100755 HtGFW_dev/printChecker_3.py
+ mode change 100644 => 100755 HtGFW_dev/printChecker_4.py
+ create mode 100755 HtGFW_dev/push2.sh
+ create mode 100755 HtGFW_dev/push3.sh
+ mode change 100644 => 100755 HtGFW_dev/simple.py
+ mode change 100644 => 100755 HtGFW_dev/topics.txt
+ mode change 100644 => 100755 HtGFW_dev/topics_1.txt
+ mode change 100644 => 100755 HtGFW_dev/topics_2.txt
+ mode change 100644 => 100755 HtGFW_dev/topics_3.txt
+ mode change 100644 => 100755 HtGFW_dev/topics_4.txt
+ mode change 100644 => 100755 HtGFW_dev/topics_5.txt
+ mode change 100644 => 100755 README.md
