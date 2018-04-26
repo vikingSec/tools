@@ -4,3 +4,6 @@
  rename HtGFW_dev/{ => logs}/log_1.txt (100%)
  rename HtGFW_dev/{TEST.txt => reports/One_2018-04-25 20:48:58.646472.txt} (100%)
  delete mode 100644 HtGFW_dev/test.sh
+[master 9b00f57] Node1 Push
+ 1 file changed, 6 insertions(+)
+ create mode 100644 HtGFW_dev/log_1.txt

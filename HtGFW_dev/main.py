@@ -7,7 +7,7 @@ import smtplib
 import datetime
 import checker
 
-def main(topicFile = 'topics.txt'):
+def main(topicFile = 'topics_1.txt'):
     dump = ''
     topics = open('./'+topicFile, 'r')
     for line in topics:
@@ -58,7 +58,7 @@ while 1:
         
         main()
         amtFiles = 0
-        f = open('./topics.txt','r')
+        f = open('./topics_1.txt','r')
         for line in f:
             
             amtFiles += len([name for name in os.listdir('./'+line.strip())])
