@@ -12,3 +12,7 @@ Already up-to-date.
  1 file changed, 1 insertion(+)
  create mode 100644 HtGFW_dev/test2.txt
 Already up-to-date.
+[master 5a8bc67] Node1 Push
+ 2 files changed, 6 insertions(+)
+ create mode 100644 HtGFW_dev/simple.py
+ delete mode 100644 HtGFW_dev/test2.txt
