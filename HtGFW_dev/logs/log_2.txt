@@ -154,3 +154,26 @@ Fast-forward
  HtGFW_dev/logs/log_1.1.txt |   16 ++++++++++++++++
  HtGFW_dev/logs/log_1.txt   |   13 +++++++++++++
  2 files changed, 29 insertions(+)
+[master 0a3c77a] Node2 Push
+ 6 files changed, 56 insertions(+)
+ create mode 100644 HtGFW_dev/19551086/376643682
+ create mode 100644 HtGFW_dev/19556339/36628976
+ create mode 100644 HtGFW_dev/19556339/376643983
+ create mode 100644 HtGFW_dev/20023724/376620030
+To git@github.com:vikingSec/tools.git
+   d9a1f14..0a3c77a  master -> master
+From github.com:vikingSec/tools
+ * branch            master     -> FETCH_HEAD
+Updating 0a3c77a..b7c2638
+Fast-forward
+ HtGFW_dev/check3.sh        |    2 ++
+ HtGFW_dev/cleaner.py       |    8 ++++++++
+ HtGFW_dev/logs/log_1.1.txt |   16 ++++++++++++++++
+ HtGFW_dev/logs/log_1.txt   |   17 +++++++++++++++++
+ HtGFW_dev/logs/log_3.txt   |    7 +++++++
+ HtGFW_dev/push3.sh         |    2 +-
+ 6 files changed, 51 insertions(+), 1 deletion(-)
+ mode change 100644 => 100755 HtGFW_dev/NODE2_INIT.txt
+ create mode 100755 HtGFW_dev/check3.sh
+ create mode 100644 HtGFW_dev/cleaner.py
+ create mode 100644 HtGFW_dev/logs/log_3.txt
