@@ -1,2 +1,2 @@
 cd "${0%/*}"
-python printChecker_1.py
+python printChecker_2.py

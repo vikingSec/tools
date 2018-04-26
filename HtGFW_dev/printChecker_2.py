@@ -5,7 +5,7 @@ now = datetime.datetime.now()
 f = open("./reports/Two_"+str((str(now)).replace(":","-"))+".txt", "w+")
 
 print str(now)
-check = checker.check()
+check = checker2.check()
 print check
 
 for line in check.split("\n"):
