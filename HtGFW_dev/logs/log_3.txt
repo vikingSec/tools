@@ -1382,3 +1382,17 @@ Fast-forward
  HtGFW_dev/logs/log_2.txt   |   17 +++++++++++++++++
  HtGFW_dev/push3.sh         |    1 -
  5 files changed, 56 insertions(+), 1 deletion(-)
+[master 47d1032] Node3 Push
+ 2 files changed, 27 insertions(+)
+To git@github.com:vikingSec/tools.git
+   f3c25dd..47d1032  master -> master
+sudo: ./check2.sh: command not found
+From github.com:vikingSec/tools
+ * branch            master     -> FETCH_HEAD
+Updating 47d1032..b11370c
+Fast-forward
+ HtGFW_dev/logs/log_1.1.txt |   11 +++++++++++
+ HtGFW_dev/logs/log_1.txt   |   13 +++++++++++++
+ HtGFW_dev/logs/log_2.1.txt |   12 ++++++++++++
+ HtGFW_dev/logs/log_2.txt   |   13 +++++++++++++
+ 4 files changed, 49 insertions(+)
