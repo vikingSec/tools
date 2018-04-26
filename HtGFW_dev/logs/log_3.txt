@@ -7,3 +7,72 @@ Fast-forward
  HtGFW_dev/logs/log_2.1.txt |   12 ++++++++++++
  HtGFW_dev/logs/log_2.txt   |   23 +++++++++++++++++++++++
  4 files changed, 64 insertions(+)
+[master 198d8cb] Node3 Push
+ 53 files changed, 574 insertions(+), 62 deletions(-)
+ create mode 100644 HtGFW_dev/19550842/274748524
+ create mode 100644 HtGFW_dev/19550842/375655606
+ create mode 100644 HtGFW_dev/19550842/375888429
+ create mode 100644 HtGFW_dev/19550842/376462788
+ create mode 100644 HtGFW_dev/19550842/376498969
+ create mode 100644 HtGFW_dev/19553437/36128751
+ create mode 100644 HtGFW_dev/19553437/36135655
+ create mode 100644 HtGFW_dev/19553437/36139160
+ create mode 100644 HtGFW_dev/19553437/376360050
+ create mode 100644 HtGFW_dev/19553437/376705559
+ create mode 100644 HtGFW_dev/19553437/38079204
+ create mode 100644 HtGFW_dev/19553437/40369412
+ create mode 100644 HtGFW_dev/19553911/27249815
+ create mode 100644 HtGFW_dev/19553911/36139160
+ create mode 100644 HtGFW_dev/19553911/376455542
+ create mode 100644 HtGFW_dev/19553911/376536220
+ create mode 100644 HtGFW_dev/19553911/376617112
+ create mode 100644 HtGFW_dev/19553911/376664250
+ create mode 100644 HtGFW_dev/19566933/23108079
+ create mode 100644 HtGFW_dev/19566933/24411438
+ create mode 100644 HtGFW_dev/19566933/274399739
+ create mode 100644 HtGFW_dev/19566933/274547965
+ create mode 100644 HtGFW_dev/19566933/376528055
+ create mode 100644 HtGFW_dev/19566933/376529410
+ create mode 100644 HtGFW_dev/19566933/376530448
+ create mode 100644 HtGFW_dev/19566933/376536343
+ create mode 100644 HtGFW_dev/19566933/376713230
+ create mode 100644 HtGFW_dev/19566933/48791963
+ create mode 100644 HtGFW_dev/19570500/265961689
+ create mode 100644 HtGFW_dev/19570500/274756282
+ create mode 100644 HtGFW_dev/19570500/274802687
+ create mode 100644 HtGFW_dev/19570500/376309469
+ create mode 100644 HtGFW_dev/19570500/376324416
+ create mode 100644 HtGFW_dev/19570500/376386909
+ create mode 100644 HtGFW_dev/19570500/376424025
+ create mode 100644 HtGFW_dev/19570500/376611991
+ create mode 100644 HtGFW_dev/19586634/253863824
+ create mode 100644 HtGFW_dev/19586634/253923601
+ create mode 100644 HtGFW_dev/19586634/253925774
+ create mode 100644 HtGFW_dev/19586634/67522395
+ create mode 100644 HtGFW_dev/19604685/274758946
+ create mode 100644 HtGFW_dev/19604685/376292328
+ create mode 100644 HtGFW_dev/19604685/376334673
+ create mode 100644 HtGFW_dev/19604685/376410629
+ create mode 100644 HtGFW_dev/19604685/376486800
+ create mode 100644 HtGFW_dev/19604685/376591823
+ create mode 100644 HtGFW_dev/19612705/36133388
+ create mode 100644 HtGFW_dev/19661586/369412649
+ create mode 100644 HtGFW_dev/19661586/374113980
+ create mode 100644 HtGFW_dev/19661586/63185666
+ rewrite HtGFW_dev/dump3.py (82%)
+ create mode 100644 HtGFW_dev/logs/log_3.1.txt
+To git@github.com:vikingSec/tools.git
+   9dc4f2d..198d8cb  master -> master
+From github.com:vikingSec/tools
+ * branch            master     -> FETCH_HEAD
+Updating 198d8cb..7510a8e
+Fast-forward
+ HtGFW_dev/20023724/273656075 |    8 +++
+ HtGFW_dev/20023724/376620036 |    8 +++
+ HtGFW_dev/logs/log_1.1.txt   |   16 ++++++
+ HtGFW_dev/logs/log_1.txt     |  115 ++++++++++++++++++++++++++++++++++++++++++
+ HtGFW_dev/logs/log_2.1.txt   |   12 +++++
+ HtGFW_dev/logs/log_2.txt     |  115 ++++++++++++++++++++++++++++++++++++++++++
+ 6 files changed, 274 insertions(+)
+ create mode 100644 HtGFW_dev/20023724/273656075
+ create mode 100644 HtGFW_dev/20023724/376620036
