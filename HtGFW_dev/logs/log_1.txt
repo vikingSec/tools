@@ -50,3 +50,22 @@ To git+ssh://git@github.com/vikingSec/tools.git
 From git+ssh://github.com/vikingSec/tools
  * branch            master     -> FETCH_HEAD
 Already up-to-date.
+[master 87dd998] Node1 Push
+ Committer: root <root@node1-VirtualBox.(none)>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 23 insertions(+)
+To git+ssh://git@github.com/vikingSec/tools.git
+   6985376..87dd998  master -> master
+From git+ssh://github.com/vikingSec/tools
+ * branch            master     -> FETCH_HEAD
+Already up-to-date.
