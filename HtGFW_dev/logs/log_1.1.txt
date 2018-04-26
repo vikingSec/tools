@@ -1604,3 +1604,24 @@ There are currently 2859 files!
 [+] DUMPING 19550415...
 [+] DUMPING 20023724...
 There are currently 2861 files!
+[+] DUMPING 19554927...
+Traceback (most recent call last):
+  File "dump.py", line 55, in <module>
+    main()
+  File "dump.py", line 18, in main
+    dump += Zhihu.dumpTopic(line.strip())
+  File "/home/node1/GitHub/HtGFW_dev/Zhihu.py", line 71, in dumpTopic
+    ret+=dumpTopic_hot(topicID, number)
+  File "/home/node1/GitHub/HtGFW_dev/Zhihu.py", line 79, in dumpTopic_hot
+    res = get_url(topicURL)
+  File "/home/node1/GitHub/HtGFW_dev/Zhihu.py", line 21, in get_url
+    return requests.get(url, headers=headers)
+  File "/usr/lib/python2.7/dist-packages/requests/api.py", line 78, in get
+    return request('get', url, **kwargs)
+  File "/usr/lib/python2.7/dist-packages/requests/api.py", line 65, in request
+    prefetch=prefetch
+  File "/usr/lib/python2.7/dist-packages/requests/sessions.py", line 191, in request
+    r.send(prefetch=prefetch)
+  File "/usr/lib/python2.7/dist-packages/requests/models.py", line 453, in send
+    raise ConnectionError(e)
+requests.exceptions.ConnectionError: Max retries exceeded for url: /topic/19554927/hot
