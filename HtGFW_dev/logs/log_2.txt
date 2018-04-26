@@ -1272,3 +1272,24 @@ error: The following untracked working tree files would be overwritten by merge:
 Please move or remove them before you can merge.
 Aborting
 Updating dbcf758..537ade1
+[master b502c09] Node2 Push
+ 3 files changed, 31 insertions(+)
+ create mode 100644 HtGFW_dev/20023724/376953657
+To git@github.com:vikingSec/tools.git
+ ! [rejected]        master -> master (non-fast-forward)
+error: failed to push some refs to 'git@github.com:vikingSec/tools.git'
+To prevent you from losing history, non-fast-forward updates were rejected
+Merge the remote changes (e.g. 'git pull') before pushing again.  See the
+'Note about fast-forwards' section of 'git push --help' for details.
+From github.com:vikingSec/tools
+ * branch            master     -> FETCH_HEAD
+Merge made by the 'recursive' strategy.
+ HtGFW_dev/19553911/274737083 |    8 ++++++++
+ HtGFW_dev/19553911/377067183 |    8 ++++++++
+ HtGFW_dev/logs/log_1.1.txt   |   22 ++++++++++++++++++++++
+ HtGFW_dev/logs/log_1.txt     |   27 +++++++++++++++++++++++++++
+ HtGFW_dev/logs/log_3.1.txt   |   12 ++++++++++++
+ HtGFW_dev/logs/log_3.txt     |   26 ++++++++++++++++++++++++++
+ 6 files changed, 103 insertions(+)
+ create mode 100644 HtGFW_dev/19553911/274737083
+ create mode 100644 HtGFW_dev/19553911/377067183
