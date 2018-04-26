@@ -27,3 +27,26 @@ fatal: Not a git repository (or any of the parent directories): .git
 From git+ssh://github.com/vikingSec/tools
  * branch            master     -> FETCH_HEAD
 Already up-to-date.
+[master 6985376] Node1 Push
+ Committer: root <root@node1-VirtualBox.(none)>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 12 insertions(+)
+ delete mode 100644 HtGFW_dev/TEST.txt
+ mode change 100644 => 100755 HtGFW_dev/push.sh
+ delete mode 100644 INIT_NODE1.txt
+ delete mode 100644 INIT_node1.txt
+To git+ssh://git@github.com/vikingSec/tools.git
+   c9d91f1..6985376  master -> master
+From git+ssh://github.com/vikingSec/tools
+ * branch            master     -> FETCH_HEAD
+Already up-to-date.
