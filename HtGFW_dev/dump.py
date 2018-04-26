@@ -27,27 +27,27 @@ def main(topicFile = 'topics_1.txt'):
         	if len(linespl) > 6:
             		if not os.path.exists('./'+linespl[0]+'/'+linespl[2]) and len(linespl[0]) == 8:
                 		topicid = linespl[0]
-                	posttype = linespl[1]
-                	postid = linespl[2]
-                	url = linespl[3]
-                	author = linespl[4]
-                	title = linespl[5]
-                	content = linespl[6]
+                		posttype = linespl[1]
+                		postid = linespl[2]
+                		url = linespl[3]
+                		author = linespl[4]
+                		title = linespl[5]
+                		content = linespl[6]
                 
                 
-                	path = './'+topicid+'/'+postid
-                	textfile2 = codecs.open(path, 'a', encoding='utf-8')
-                	write = topicid+'\n'+posttype+'\n'+postid+'\n'+url+'\n'+author+'\n'+title+'\n\n'+content
-                	textfile2.write(write)
-                	textfile2.close()
+                		path = './'+topicid+'/'+postid
+                		textfile2 = codecs.open(path, 'a', encoding='utf-8')
+                		write = topicid+'\n'+posttype+'\n'+postid+'\n'+url+'\n'+author+'\n'+title+'\n\n'+content
+                		textfile2.write(write)
+                		textfile2.close()
     
                                       
-		f = open('./topics.txt','r')
-		amtFiles = 0
-        	for line in f:
+	f = open('./topics.txt','r')
+	amtFiles = 0
+        for line in f:
 
-            		amtFiles += len([name for name in os.listdir('./'+line.strip())])
-        	f.close()            
+            	amtFiles += len([name for name in os.listdir('./'+line.strip())])
+        f.close()            
 	print 'There are currently '+str(amtFiles)+' files!'
             
 

@@ -8,3 +8,7 @@ Traceback (most recent call last):
   File "printChecker_2.py", line 8, in <module>
     check = checker2.check()
 NameError: name 'checker2' is not defined
+  File "printChecker_2.py", line 7
+    print str(now)
+        ^
+SyntaxError: invalid syntax
