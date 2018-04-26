@@ -2,7 +2,7 @@ import checker
 import datetime
 
 now = datetime.datetime.now()
-f = open("./reports/Two_"+str((str(now)).replace(":","-"))+".txt", "w+")
+f = open("./reports/Two_"+str((str(now)).split(" ")[0]+".txt", "w+")
 
 print str(now)
 check = checker2.check()
