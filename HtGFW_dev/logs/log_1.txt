@@ -274,3 +274,16 @@ Fast-forward
  2 files changed, 29 insertions(+)
 To git+ssh://git@github.com/vikingSec/tools.git
    8ebae72..d9a1f14  master -> master
+From git+ssh://github.com/vikingSec/tools
+ * branch            master     -> FETCH_HEAD
+Updating 5ea6f58..683724f
+Fast-forward
+ HtGFW_dev/check3.sh      |    2 ++
+ HtGFW_dev/cleaner.py     |    8 ++++++++
+ HtGFW_dev/logs/log_3.txt |    7 +++++++
+ HtGFW_dev/push3.sh       |    2 +-
+ 4 files changed, 18 insertions(+), 1 deletion(-)
+ mode change 100644 => 100755 HtGFW_dev/NODE2_INIT.txt
+ create mode 100755 HtGFW_dev/check3.sh
+ create mode 100644 HtGFW_dev/cleaner.py
+ create mode 100644 HtGFW_dev/logs/log_3.txt
