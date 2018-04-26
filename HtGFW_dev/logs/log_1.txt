@@ -8,3 +8,7 @@
  1 file changed, 6 insertions(+)
  create mode 100644 HtGFW_dev/log_1.txt
 Already up-to-date.
+[master 53773b5] Node1 Push
+ 1 file changed, 1 insertion(+)
+ create mode 100644 HtGFW_dev/test2.txt
+Already up-to-date.
