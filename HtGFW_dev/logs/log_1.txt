@@ -16,3 +16,14 @@ Already up-to-date.
  2 files changed, 6 insertions(+)
  create mode 100644 HtGFW_dev/simple.py
  delete mode 100644 HtGFW_dev/test2.txt
+fatal: Not a git repository (or any of the parent directories): .git
+fatal: Not a git repository (or any of the parent directories): .git
+fatal: Not a git repository (or any of the parent directories): .git
+fatal: Not a git repository (or any of the parent directories): .git
+fatal: Not a git repository (or any of the parent directories): .git
+fatal: Not a git repository (or any of the parent directories): .git
+fatal: Not a git repository (or any of the parent directories): .git
+fatal: Not a git repository (or any of the parent directories): .git
+From git+ssh://github.com/vikingSec/tools
+ * branch            master     -> FETCH_HEAD
+Already up-to-date.
