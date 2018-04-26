@@ -236,3 +236,6 @@ Merge made by the 'recursive' strategy.
  HtGFW_dev/logs/log_2.txt   |   26 ++++++++++
  3 files changed, 57 insertions(+), 146 deletions(-)
  delete mode 100644 HtGFW_dev/logs/log_2.1.txt
+[master 1c62982] Node1 Push
+ 2 files changed, 31 insertions(+)
+fatal: could not read Username for 'https://github.com': No such device or address
