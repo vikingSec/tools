@@ -14,14 +14,14 @@ def stats():
     return ret
 
 def check():
-    f = open('./topics.txt','r')
+    f = open('./topics_1.txt','r')
     CHECK = 'POTENTIALLY CENSORED: \n\n'
     for line in f:
         print 'CHECKING TOPIC: '+line.strip()
         path = './'+line.strip()+'/'
         for check in os.listdir(path):
             
-            time.sleep(10)
+            time.sleep(5)
             f = open(path+check.strip(),'r')
             spl = f.read().split('\n')
             Type = spl[1].strip()
