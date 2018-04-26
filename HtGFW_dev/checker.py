@@ -21,7 +21,7 @@ def check():
         path = './'+line.strip()+'/'
         for check in os.listdir(path):
             
-            time.sleep(30)
+            time.sleep(5)
             f = open(path+check.strip(),'r')
             spl = f.read().split('\n')
             Type = spl[1].strip()
