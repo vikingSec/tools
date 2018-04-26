@@ -1,0 +1,1 @@
+/bin/bash: /home/node1/GitHub/HtGFW_dev/dump.sh: Permission denied

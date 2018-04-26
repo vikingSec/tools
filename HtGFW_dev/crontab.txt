@@ -1,0 +1,41 @@
+# Edit this file to introduce tasks to be run by cron.
+# 
+# Each task to run has to be defined through a single line
+# indicating with different fields when the task will be run
+# and what command to run for the task
+# 
+# To define the time you can provide concrete values for
+# minute (m), hour (h), day of month (dom), month (mon),
+# and day of week (dow) or use '*' in these fields (for 'any').# 
+# Notice that tasks will be started based on the cron's system
+# daemon's notion of time and timezones.
+# 
+# Output of the crontab jobs (including errors) is sent through
+# email to the user the crontab file belongs to (unless redirected).
+# 
+# For example, you can run a backup of all your user accounts
+# at 5 a.m every week with:
+# 0 5 * * 1 tar -zcf /var/backups/home.tgz /home/
+# 
+# For more information see the manual pages of crontab(5) and cron(8)
+#MAILTO=""
+# 
+# m h  dom mon dow   command
+#MAILTO=""
+SHELL=/bin/bash 
+PATH=/bin:/sbin:/usr/bin:/usr/sbin
+HOME=/node1
+LOGNAME=/node1/GitHub/HtGFW_dev/logs/log_1.txt
+PWD=/root
+00  * 	* * * /home/node1/GitHub/HtGFW_dev/push.sh >> /home/node1/GitHub/HtGFW_dev/logs/log_1.txt 2>&1
+05  * 	* * * /home/node1/GitHub/HtGFW_dev/dump.sh >> /home/node1/GitHub/HtGFW_dev/logs/log_1.1.txt 2>&1
+10  * 	* * * /home/node1/GitHub/HtGFW_dev/push.sh >> /home/node1/GitHub/HtGFW_dev/logs/log_1.txt 2>&1
+15  * 	* * * /home/node1/GitHub/HtGFW_dev/dump.sh >> /home/node1/GitHub/HtGFW_dev/logs/log_1.1.txt 2>&1
+20  * 	* * * /home/node1/GitHub/HtGFW_dev/push.sh >> /home/node1/GitHub/HtGFW_dev/logs/log_1.txt 2>&1
+25  * 	* * * /home/node1/GitHub/HtGFW_dev/dump.sh >> /home/node1/GitHub/HtGFW_dev/logs/log_1.1.txt 2>&1
+30  * 	* * * /home/node1/GitHub/HtGFW_dev/dump.sh >> /home/node1/GitHub/HtGFW_dev/logs/log_1.txt 2>&1
+35  * 	* * * /home/node1/GitHub/HtGFW_dev/push.sh >> /home/node1/GitHub/HtGFW_dev/logs/log_1.1.txt 2>&1
+40  * 	* * * /home/node1/GitHub/HtGFW_dev/dump.sh >> /home/node1/GitHub/HtGFW_dev/logs/log_1.txt 2>&1
+45  * 	* * * /home/node1/GitHub/HtGFW_dev/push.sh >> /home/node1/GitHub/HtGFW_dev/logs/log_1.1.txt 2>&1
+50  * 	* * * /home/node1/GitHub/HtGFW_dev/dump.sh >> /home/node1/GitHub/HtGFW_dev/logs/log_1.txt 2>&1
+59  2	* * * /home/node1/GitHub/HtGFW_dev/check.sh >> /home/node1/GitHub/HtGFW_dev/logs/log_1.2.txt 2>&1
