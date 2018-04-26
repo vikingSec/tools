@@ -11,3 +11,15 @@ To git+ssh://git@github.com/vikingSec/tools.git
 From git+ssh://github.com/vikingSec/tools
  * branch            master     -> FETCH_HEAD
 Already up-to-date.
+[master 0941dbb] Node1 Push
+ 7 files changed, 82 insertions(+), 29 deletions(-)
+ delete mode 100644 HtGFW_dev/logs/log_1.1.txt
+ create mode 100644 HtGFW_dev/maintenence/cleaner.py
+ create mode 100644 HtGFW_dev/printChecker_2.py
+ create mode 100644 HtGFW_dev/printChecker_3.py
+ create mode 100644 HtGFW_dev/printChecker_4.py
+To git+ssh://git@github.com/vikingSec/tools.git
+   51c111b..0941dbb  master -> master
+From git+ssh://github.com/vikingSec/tools
+ * branch            master     -> FETCH_HEAD
+Already up-to-date.
