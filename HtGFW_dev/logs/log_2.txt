@@ -51,3 +51,6 @@ error: failed to push some refs to 'git@github.com:vikingSec/tools.git'
 To prevent you from losing history, non-fast-forward updates were rejected
 Merge the remote changes (e.g. 'git pull') before pushing again.  See the
 'Note about fast-forwards' section of 'git push --help' for details.
+From github.com:vikingSec/tools
+ * branch            master     -> FETCH_HEAD
+Already up-to-date.
