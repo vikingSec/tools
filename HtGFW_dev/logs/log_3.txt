@@ -1,0 +1,7 @@
+sudo: no tty present and no askpass program specified
+Sorry, try again.
+sudo: no tty present and no askpass program specified
+Sorry, try again.
+sudo: no tty present and no askpass program specified
+Sorry, try again.
+sudo: 3 incorrect password attempts
