@@ -43,11 +43,12 @@ def main(topicFile = 'topics_1.txt'):
     
                                       
 	f = open('./topics.txt','r')
+	amtFiles = 0
         for line in f:
 
-            amtFiles += len([name for name in os.listdir('./'+$
+            amtFiles += len([name for name in os.listdir('./'+line.strip())])
         f.close()            
-            
+        print 'There are currently '+str(amtFiles)+' files!'
             
 
 

@@ -1,2 +1,2 @@
 cd "${0%/*}"
-python dump.py
+sudo python dump.py
