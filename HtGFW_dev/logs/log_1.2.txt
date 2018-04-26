@@ -12,3 +12,7 @@ NameError: name 'checker2' is not defined
     print str(now)
         ^
 SyntaxError: invalid syntax
+  File "printChecker_1.py", line 7
+    print str(now)
+        ^
+SyntaxError: invalid syntax
