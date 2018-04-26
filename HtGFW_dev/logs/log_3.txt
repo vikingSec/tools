@@ -1,7 +1,9 @@
-sudo: no tty present and no askpass program specified
-Sorry, try again.
-sudo: no tty present and no askpass program specified
-Sorry, try again.
-sudo: no tty present and no askpass program specified
-Sorry, try again.
-sudo: 3 incorrect password attempts
+From github.com:vikingSec/tools
+ * branch            master     -> FETCH_HEAD
+Updating 683724f..9dc4f2d
+Fast-forward
+ HtGFW_dev/logs/log_1.1.txt |   16 ++++++++++++++++
+ HtGFW_dev/logs/log_1.txt   |   13 +++++++++++++
+ HtGFW_dev/logs/log_2.1.txt |   12 ++++++++++++
+ HtGFW_dev/logs/log_2.txt   |   23 +++++++++++++++++++++++
+ 4 files changed, 64 insertions(+)
