@@ -7,7 +7,7 @@ import smtplib
 import datetime
 import checker
 
-def main(topicFile = 'topics_2.txt'):
+def main(topicFile = 'topics_3.txt'):
     dump = ''
     topics = open('./'+topicFile, 'r')
     for line in topics:

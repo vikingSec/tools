@@ -1,2 +1,42 @@
 fatal: 'tools_ssh' does not appear to be a git repository
 fatal: The remote end hung up unexpectedly
+[master 8b669e3] Node2 Push
+ 14 files changed, 238 insertions(+), 20 deletions(-)
+ create mode 100644 HtGFW_dev/NODE2_INIT.txt
+ mode change 100644 => 100755 HtGFW_dev/README.md
+ mode change 100644 => 100755 HtGFW_dev/Zhihu.py
+ mode change 100644 => 100755 HtGFW_dev/checker.py
+ create mode 100755 HtGFW_dev/checker2.py
+ create mode 100755 HtGFW_dev/checker3.py
+ mode change 100644 => 100755 HtGFW_dev/cron.txt
+ mode change 100644 => 100755 HtGFW_dev/crontab.txt
+ mode change 100644 => 100755 HtGFW_dev/dump.py
+ create mode 100755 HtGFW_dev/dump2.py
+ create mode 100755 HtGFW_dev/dump2.sh
+ create mode 100755 HtGFW_dev/dump3.py
+ create mode 100755 HtGFW_dev/dump3.sh
+ create mode 100644 HtGFW_dev/logs/log_2.txt
+ mode change 100644 => 100755 HtGFW_dev/main.py
+ mode change 100644 => 100755 HtGFW_dev/printChecker_1.py
+ mode change 100644 => 100755 HtGFW_dev/printChecker_2.py
+ mode change 100644 => 100755 HtGFW_dev/printChecker_3.py
+ mode change 100644 => 100755 HtGFW_dev/printChecker_4.py
+ create mode 100755 HtGFW_dev/push2.sh
+ create mode 100755 HtGFW_dev/push3.sh
+ mode change 100644 => 100755 HtGFW_dev/simple.py
+ mode change 100644 => 100755 HtGFW_dev/topics.txt
+ mode change 100644 => 100755 HtGFW_dev/topics_1.txt
+ mode change 100644 => 100755 HtGFW_dev/topics_2.txt
+ mode change 100644 => 100755 HtGFW_dev/topics_3.txt
+ mode change 100644 => 100755 HtGFW_dev/topics_4.txt
+ mode change 100644 => 100755 HtGFW_dev/topics_5.txt
+ mode change 100644 => 100755 README.md
+fatal: 'tools_ssh' does not appear to be a git repository
+fatal: The remote end hung up unexpectedly
+Warning: Permanently added the RSA host key for IP address '192.30.253.112' to the list of known hosts.
+From github.com:vikingSec/tools
+ * branch            master     -> FETCH_HEAD
+error: The following untracked working tree files would be overwritten by merge:
+	HtGFW_dev/20023724/376576366
+Please move or remove them before you can merge.
+Aborting
