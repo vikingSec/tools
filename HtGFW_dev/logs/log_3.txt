@@ -1337,3 +1337,18 @@ Fast-forward
  HtGFW_dev/logs/log_1.txt |   13 +++++++++++++
  HtGFW_dev/logs/log_2.txt |   12 ++++++++++++
  2 files changed, 25 insertions(+)
+[master 5367f3c] Node3 Push
+ 1 file changed, 11 insertions(+)
+To git@github.com:vikingSec/tools.git
+   7ff4a96..5367f3c  master -> master
+From github.com:vikingSec/tools
+ * branch            master     -> FETCH_HEAD
+Updating 5367f3c..19d8e54
+Fast-forward
+ HtGFW_dev/logs/log_1.1.txt  |   11 +++++++++++
+ HtGFW_dev/logs/log_1.txt    |   11 +++++++++++
+ HtGFW_dev/logs/log_2.1.txt  |   12 ++++++++++++
+ HtGFW_dev/logs/log_2.txt    |   14 ++++++++++++++
+ HtGFW_dev/printChecker_2.py |    2 +-
+ HtGFW_dev/push2.sh          |    1 +
+ 6 files changed, 50 insertions(+), 1 deletion(-)
