@@ -40,3 +40,14 @@ error: The following untracked working tree files would be overwritten by merge:
 	HtGFW_dev/20023724/376576366
 Please move or remove them before you can merge.
 Aborting
+[master 6cf26f9] Node2 Push
+ 8 files changed, 75 insertions(+), 8 deletions(-)
+ create mode 100644 HtGFW_dev/20023724/376576366
+ create mode 100755 HtGFW_dev/check2.sh
+ create mode 100644 HtGFW_dev/logs/log_2.1.txt
+To git@github.com:vikingSec/tools.git
+ ! [rejected]        master -> master (non-fast-forward)
+error: failed to push some refs to 'git@github.com:vikingSec/tools.git'
+To prevent you from losing history, non-fast-forward updates were rejected
+Merge the remote changes (e.g. 'git pull') before pushing again.  See the
+'Note about fast-forwards' section of 'git push --help' for details.
