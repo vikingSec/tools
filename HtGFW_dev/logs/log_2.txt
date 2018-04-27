@@ -3939,3 +3939,14 @@ Merge made by the 'recursive' strategy.
  create mode 100644 HtGFW_dev/19582543/377842284
  create mode 100644 HtGFW_dev/19582543/377846989
  create mode 100644 HtGFW_dev/19582543/39153761
+[master 3d11692] Node2 Push
+ 2 files changed, 59 insertions(+)
+To git@github.com:vikingSec/tools.git
+   501ea14..3d11692  master -> master
+From github.com:vikingSec/tools
+ * branch            master     -> FETCH_HEAD
+error: The following untracked working tree files would be overwritten by merge:
+	HtGFW_dev/20023724/377811930
+Please move or remove them before you can merge.
+Aborting
+Updating 3d11692..8178b63
