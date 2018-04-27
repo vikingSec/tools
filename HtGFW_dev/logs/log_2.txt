@@ -2823,3 +2823,15 @@ Updating d89c7d4..ef45af5
 Fast-forward
  HtGFW_dev/logs/log_1.txt |   22 ++++++++++++++++++++++
  1 file changed, 22 insertions(+)
+[master d6583d1] Node2 Push
+ 1 file changed, 15 insertions(+)
+To git@github.com:vikingSec/tools.git
+   ef45af5..d6583d1  master -> master
+From github.com:vikingSec/tools
+ * branch            master     -> FETCH_HEAD
+error: The following untracked working tree files would be overwritten by merge:
+	HtGFW_dev/20023724/377388378
+	HtGFW_dev/20023724/56475228
+Please move or remove them before you can merge.
+Aborting
+Updating d6583d1..3dbe864
