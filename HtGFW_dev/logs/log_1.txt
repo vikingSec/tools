@@ -2960,3 +2960,17 @@ Fast-forward
  HtGFW_dev/logs/log_3.1.txt |   12 ++++++++++++
  HtGFW_dev/logs/log_3.txt   |   16 ++++++++++++++++
  4 files changed, 58 insertions(+)
+[master 5a44152] Node1 Push
+ 5 files changed, 49 insertions(+)
+ create mode 100644 HtGFW_dev/19582543/271058343
+ create mode 100644 HtGFW_dev/19582543/377346262
+ create mode 100644 HtGFW_dev/19582543/377375513
+To git+ssh://git@github.com/vikingSec/tools.git
+   2664dce..5a44152  master -> master
+From git+ssh://github.com/vikingSec/tools
+ * branch            master     -> FETCH_HEAD
+error: The following untracked working tree files would be overwritten by merge:
+	HtGFW_dev/20023724/377397562
+Please move or remove them before you can merge.
+Aborting
+Updating 5a44152..18a4998
