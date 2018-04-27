@@ -2434,3 +2434,15 @@ Fast-forward
  create mode 100644 HtGFW_dev/19550842/274922294
  create mode 100644 HtGFW_dev/19550842/377169978
  create mode 100644 HtGFW_dev/19604685/377234895
+[master 3b84894] Node2 Push
+ 1 file changed, 19 insertions(+)
+To git@github.com:vikingSec/tools.git
+   17fc22b..3b84894  master -> master
+From github.com:vikingSec/tools
+ * branch            master     -> FETCH_HEAD
+error: The following untracked working tree files would be overwritten by merge:
+	HtGFW_dev/20023724/274946390
+	HtGFW_dev/20023724/377305262
+Please move or remove them before you can merge.
+Aborting
+Updating 3b84894..bcc2df6
