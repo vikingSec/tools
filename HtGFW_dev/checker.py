@@ -15,7 +15,7 @@ def stats():
     return ret
 
 def check():
-    f = open('./topics_2.txt','r')
+    f = open('./topics_1.txt','r')
     CHECK = 'POTENTIALLY CENSORED: \n\n'
     for line in f:
         print 'CHECKING TOPIC: '+line.strip()
