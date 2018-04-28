@@ -4570,3 +4570,14 @@ Fast-forward
  HtGFW_dev/logs/log_2.1.txt |   15 +++++++++++++++
  HtGFW_dev/logs/log_2.txt   |   13 +++++++++++++
  4 files changed, 56 insertions(+)
+[master 22c548f] Node3 Push
+ 2 files changed, 30 insertions(+)
+To git@github.com:vikingSec/tools.git
+   2476c76..22c548f  master -> master
+From github.com:vikingSec/tools
+ * branch            master     -> FETCH_HEAD
+error: Your local changes to the following files would be overwritten by merge:
+	HtGFW_dev/cleaner.py
+Please, commit your changes or stash them before you can merge.
+Aborting
+Updating 22c548f..5fdb972
