@@ -2,6 +2,7 @@ import Zhihu
 import os
 import datetime
 import time
+import shutil
 
 def stats():
     ret = ""
@@ -34,11 +35,17 @@ def check():
                 if not res.status_code == 200:
                     print Type+' : '+str(res.status_code)+' : '+link+'\n'
                     CHECK+= Type+' : '+str(res.status_code)+' : '+link+'\n'
+                    if not os.path.exists('./Censored/'+path.strip().replace('./','')):
+                        os.makedirs('./Censored/'+path.strip().replace('./',''))
+                    shutil.copy2(path+check.strip(), './Censored/'+path.strip().replace('./',''))
             else:
                 res = Zhihu.get_url(link)
                 if not res.status_code == 200:
                     print Type+' : '+str(res.status_code)+' : '+link+'\n'
                     CHECK+= Type+' : '+str(res.status_code)+' : '+link+'\n'
+                    if not os.path.exists('./Censored'+path.strip().replace('./','')):
+                        os.makedirs('./Censored/'+path.strip().replace('./',''))
+                    shutil.copy2(path+check.strip(), './Censored/'+path.strip().replace('./',''))
     
     return CHECK
             
