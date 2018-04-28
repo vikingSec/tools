@@ -1,8 +1,0 @@
-19554927
-article
-35387575
-https://zhuanlan.zhihu.com/p/35387575
-小鸟
-xss(跨站脚本攻击）漏洞原理实战
-
-0x01原理分析首先我们在本地用phpstudy搭建一个php环境，然后在www文件夹中存放123.php文件，代码如下：<html>

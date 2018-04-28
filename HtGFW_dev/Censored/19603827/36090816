@@ -1,8 +1,0 @@
-19603827
-article
-36090816
-https://zhuanlan.zhihu.com/p/36090816
-派盾信安
-区块链安全公司PeckShield发出预警：多个ERC20智能合约遭受proxyOverflow漏洞影响
-
-在UTC时间2018年4月24日下午1点17分50秒，区块链安全公司 PeckShield 再一次发出警告，此次是关于MESH Token的一次异常交易（如图1所示）；在这个特定的交易中，有人向自己发送了极大量的MESH Token，Token数量为 0x8fff,ffff,ffff,ffff,ffff,ffff,ffff,ffff,ffff,ffff,ffff,ffff,ffff,ffff,ffff,ffff*（63个f），并设定了极高的手续费率（0x7000,0000,0000,0000,0000,0000,0000,0000,0000,0000,0000,0000,0000,0000,0000,0001）。图 1: 一个可疑的MESH Token Transfer（数量巨大）SMT Token在UTC时间7点16分19秒也遭受了相同模式的攻击。图 2: 一个可疑的SMT Token Transfer（数量巨大）我们仔细分析对应的智能合约后，发现 proxyTransfer() 函数存在一个经典的整数溢出问题。图 3: 一个受proxyOverflow影响的智能合约如图3所示，_fee 和 _value_ 这两个输入参数都能被攻击者控制，如果 _fee + _value 的结果正好为 0（也就是溢出的情况），第206行的检查将会失效；这意味着攻击者不需要任何Token，就可以向一个地址转入大量的Token（第214行）；同时根据第217行的代码，相当数量的手续费也将发送给 msg.sender；根据系统的全网监测，我们定位到大量的ERC20 Token都受此影响，包括：
