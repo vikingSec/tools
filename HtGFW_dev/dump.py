@@ -34,10 +34,8 @@ def main(topicFile = 'topics_1.txt'):
                 		title = linespl[5]
                 		content = linespl[6]
                 
-                
                 		path = './'+topicid+'/'+postid
                 		textfile2 = codecs.open(path, 'a', encoding='utf-8')
-                		write = topicid+'\n'+posttype+'\n'+postid+'\n'+url+'\n'+author+'\n'+title+'\n\n'+content
                 		textfile2.write(write)
                 		textfile2.close()
     
@@ -45,7 +43,8 @@ def main(topicFile = 'topics_1.txt'):
 	f = open('./topics.txt','r')
 	amtFiles = 0
         for line in f:
-
+		if not os.path.exists('./'+line.strip()):
+			os.makedirs('./'+line.strip())
             	amtFiles += len([name for name in os.listdir('./'+line.strip())])
         f.close()            
 	print 'There are currently '+str(amtFiles)+' files!'
