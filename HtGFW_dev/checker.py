@@ -22,10 +22,10 @@ def check():
         path = './'+line.strip()+'/'
         for check in os.listdir(path):
 
-            time.sleep(2)
+            time.sleep(5)
             f = open(path+check.strip(),'r')
             spl = f.read().split('\n')
-	    if len(spl) > 0:
+	    if len(spl) > 1:
             	    Type = spl[1].strip()
             	    link = spl[3]
 
