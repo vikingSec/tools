@@ -6,6 +6,16 @@ import json
 def get_url(url):
     
     headers = {'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+<<<<<<< HEAD
+        'Accept-Encoding': 'gzip, deflate, br',
+        'Accept-Language': 'en-US,en;q=0.5',
+        'Cache-Control': 'max-age=0',
+        'Connection': 'keep-alive',
+        'Cookie': '_zap=af470e5b-b255-4288-980a-e0225667b9cd; capsion_ticket="2|1:0|10:1525134921|14:capsion_ticket|44:YzhkMWY3ZDg0ZjU3NGIxMzg5NmQxYWQ2MWQ5YjAxYzY=|9ab71797a53e2df32ef135734ee4cb5125b1e5f10afb77d76d92dba4919a1843"; q_c1=d719b1057ebc45de8cfb9ff18dcf2ab3|1524862369000|1524862369000; r_cap_id="ZmUzNjBmODIwY2Q1NDc2OTlhODU3OGEzZmIyMDkwNGM=|1525129362|e003e40f5fa87b5c901d466a66ca5276f15a4a39"; cap_id="ZGQ1NzZmZGZlZmFiNDVmNjg3NWI4ODJlYWQ0MWU0YjA=|1525129362|62f8f017a5e712df23f6744d278cc10fbfb8a908"; l_cap_id="ZmYxYWQzMTM3MTgxNGUxMWI5NjkxN2JiZGRiODg3NmU=|1525129362|d528ce444c74250487efbce8c804921d4650636a"; _xsrf=17fcbd1b-6921-41d5-8cd0-c4a64831a7d4; d_c0="ALBuLxOGgg2PTtyza3wErU3la74KA7_Z86A=|1524877598"; l_n_c=1; n_c=1',
+        'Host': 'www.zhihu.com',
+        'Upgrade-Insecure-Requests':'1',
+        'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:59.0) Gecko/20100101 Firefox/59.0'}
+=======
                 'Accept-Encoding': 'gzip, deflate, br',
                 'Accept-Language': 'en-US,en;q=0.5',
                 'Cache-Control': 'max-age=0',
@@ -16,6 +26,7 @@ def get_url(url):
                 'Referer': 'https://www.zhihu.com/topic/19558642/hot',
                 'Upgrade-Insecure-Requests': '1',
                 'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:59.0) Gecko/20100101 Firefox/59.0'}
+>>>>>>> 844f26459479c77268e5a9db79779ba19cf987fd
     cookies = {'_xsrf':'d2016f2f-9cb8-46d7-b60e-e358e4ae3378',
                '_zap':'17fcbd1b-6921-41d5-8cd0-c4a64831a7d4',
                'capsion_ticket':'"2|1:0|10:1521441001|14:capsion_ticket|44:ODY0ODIwNDY3MTZjNDQ2ZWEzMzY0MTUyYmUzYmIyY2Y=|8999178ca9eca48ff5a58634ff875758f0c652faf570b4cdfff44b58b7ee1451"',
@@ -24,15 +35,18 @@ def get_url(url):
                'unlock_ticket':'"AADALBf8cQomAAAAYAJVTWpgr1qJugy4PDM7_uLRXnEshPuWB12czg=="',
                'z_c0':'"2|1:0|10:1521441122|4:z_c0|92:Mi4xMGxGbEF3QUFBQUFBc0t1c3lVOVBEU1lBQUFCZ0FsVk5ZcWVjV3dEclpxYVVzcW5oN2RsUmJfejJuaVFfTGViN0hR|146622b2b39772b7212ae40b7b59217bcccca30163f184628ef96ed9744cf452"'}
 
-    return requests.get(url, headers=headers)
+    return requests.get(url, headers=headers, cookies=cookies)
 
 def get_url_zl(url):
-    headers = {'Accept':'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
-               'Accept-Encoding':'gzip, deflate, br','Accept-Language':'en-US,en;q=0.5',
-               'Cache-Control':'max-age=0','Connection':'keep-alive',
-               'Cookie':'_zap=af470e5b-b255-4288-980a-e0225667b9cd; capsion_ticket="2|1:0|10:1525133511|14:capsion_ticket|44:ZjdlMDJiMTdlMDk0NDI3MzhiNjNmM2YzZDNkMWUwZGY=|202e74e5b2c604d914bc8e598a191250a1d72ae3efaf5ca5897b56df4e09ffba"; q_c1=d719b1057ebc45de8cfb9ff18dcf2ab3|1524862369000|1524862369000; r_cap_id="ZmUzNjBmODIwY2Q1NDc2OTlhODU3OGEzZmIyMDkwNGM=|1525129362|e003e40f5fa87b5c901d466a66ca5276f15a4a39"; cap_id="ZGQ1NzZmZGZlZmFiNDVmNjg3NWI4ODJlYWQ0MWU0YjA=|1525129362|62f8f017a5e712df23f6744d278cc10fbfb8a908"; l_cap_id="ZmYxYWQzMTM3MTgxNGUxMWI5NjkxN2JiZGRiODg3NmU=|1525129362|d528ce444c74250487efbce8c804921d4650636a"; _xsrf=17fcbd1b-6921-41d5-8cd0-c4a64831a7d4; d_c0="ALBuLxOGgg2PTtyza3wErU3la74KA7_Z86A=|1524877598"; l_n_c=1; n_c=1',
-               'Host':'zhuanlan.zhihu.com','Upgrade-Insecure-Requests':'1',
-               'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:58.0) Gecko/20100101 GoogleChrome'}
+    headers = {'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+'Accept-Encoding': 'gzip, deflate, br',
+'Accept-Language': 'en-US,en;q=0.5',
+'Cache-Control': 'max-age=0',
+'Connection': 'keep-alive',
+'Cookie':'_zap=af470e5b-b255-4288-980a-e0225667b9cd; capsion_ticket="2|1:0|10:1525134921|14:capsion_ticket|44:YzhkMWY3ZDg0ZjU3NGIxMzg5NmQxYWQ2MWQ5YjAxYzY=|9ab71797a53e2df32ef135734ee4cb5125b1e5f10afb77d76d92dba4919a1843"; q_c1=d719b1057ebc45de8cfb9ff18dcf2ab3|1524862369000|1524862369000; r_cap_id="ZmUzNjBmODIwY2Q1NDc2OTlhODU3OGEzZmIyMDkwNGM=|1525129362|e003e40f5fa87b5c901d466a66ca5276f15a4a39"; cap_id="ZGQ1NzZmZGZlZmFiNDVmNjg3NWI4ODJlYWQ0MWU0YjA=|1525129362|62f8f017a5e712df23f6744d278cc10fbfb8a908"; l_cap_id="ZmYxYWQzMTM3MTgxNGUxMWI5NjkxN2JiZGRiODg3NmU=|1525129362|d528ce444c74250487efbce8c804921d4650636a"; _xsrf=17fcbd1b-6921-41d5-8cd0-c4a64831a7d4; d_c0="ALBuLxOGgg2PTtyza3wErU3la74KA7_Z86A=|1524877598"; l_n_c=1; n_c=1',
+'Host': 'zhuanlan.zhihu.com',
+'Upgrade-Insecure-Requests': '1',
+'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:59.0) Gecko/20100101 Firefox/59.0'}
     cookies = {'_xsrf':'17fcbd1b-6921-41d5-8cd0-c4a64831a7d4',
                '_zap':'af470e5b-b255-4288-980a-e0225667b9cd',
                'capsion_ticket':'"2|1:0|10:1525133511|14:capsion_ticket|44:ZjdlMDJiMTdlMDk0NDI3MzhiNjNmM2YzZDNkMWUwZGY=|202e74e5b2c604d914bc8e598a191250a1d72ae3efaf5ca5897b56df4e09ffba"',
@@ -41,7 +55,7 @@ def get_url_zl(url):
                'unlock_ticket':'"AADALBf8cQomAAAAYAJVTWpgr1qJugy4PDM7_uLRXnEshPuWB12czg=="',
                'z_c0':'"2|1:0|10:1521441122|4:z_c0|92:Mi4xMGxGbEF3QUFBQUFBc0t1c3lVOVBEU1lBQUFCZ0FsVk5ZcWVjV3dEclpxYVVzcW5oN2RsUmJfejJuaVFfTGViN0hR|146622b2b39772b7212ae40b7b59217bcccca30163f184628ef96ed9744cf452"'}
 
-    return requests.get(url, headers=headers)
+    return requests.get(url, headers=headers, cookies=cookies)
     
 
 def ping_url(url):
