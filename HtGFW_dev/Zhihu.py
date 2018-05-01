@@ -15,10 +15,10 @@ def get_url(url):
                 'Referer': 'https://www.zhihu.com/topic/19558642/hot',
                 'Upgrade-Insecure-Requests': '1',
                 'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:59.0) Gecko/20100101 Firefox/59.0'}
-    cookies = {'_xsrf':'17fcbd1b-6921-41d5-8cd0-c4a64831a7d4',
+    cookies = {'_xsrf':'d2016f2f-9cb8-46d7-b60e-e358e4ae3378',
                '_zap':'17fcbd1b-6921-41d5-8cd0-c4a64831a7d4',
                'capsion_ticket':'"2|1:0|10:1521441001|14:capsion_ticket|44:ODY0ODIwNDY3MTZjNDQ2ZWEzMzY0MTUyYmUzYmIyY2Y=|8999178ca9eca48ff5a58634ff875758f0c652faf570b4cdfff44b58b7ee1451"',
-               'd_c0':'"ALCrrMlPTw2PTtdc-_V6691f11FzKrIW34I=|1521440815"',
+               'd_c0':'"AHDv1_VWhg2PTm1obeocD_UW3AwNYNUA7m0=|1525133683"',
                'q_c1':'a425ea5549a447938faa642092051460|1521440815000|1516935035000',
                'unlock_ticket':'"AADALBf8cQomAAAAYAJVTWpgr1qJugy4PDM7_uLRXnEshPuWB12czg=="',
                'z_c0':'"2|1:0|10:1521441122|4:z_c0|92:Mi4xMGxGbEF3QUFBQUFBc0t1c3lVOVBEU1lBQUFCZ0FsVk5ZcWVjV3dEclpxYVVzcW5oN2RsUmJfejJuaVFfTGViN0hR|146622b2b39772b7212ae40b7b59217bcccca30163f184628ef96ed9744cf452"'}
