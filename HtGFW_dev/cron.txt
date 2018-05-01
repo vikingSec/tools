@@ -27,15 +27,15 @@ PATH=/bin:/sbin:/usr/bin:/usr/sbin
 HOME=/home/node2
 LOGNAME=/node2/GitHub/HtGFW_dev/logs/log_2.txt
 PWD=/home/node2/GitHub
-00  * 	* * * sudo /home/node2/GitHub/HtGFW_dev/push.sh >> /home/node2/GitHub/HtGFW_dev/logs/log_2.txt 2>&1
-05  * 	* * * sudo /home/node2/GitHub/HtGFW_dev/dump.sh >> /home/node2/GitHub/HtGFW_dev/logs/log_2.1.txt 2>&1
-10  * 	* * * sudo /home/node2/GitHub/HtGFW_dev/push.sh >> /home/node2/GitHub/HtGFW_dev/logs/log_2.txt 2>&1
-15  * 	* * * sudo /home/node2/GitHub/HtGFW_dev/dump.sh >> /home/node2/GitHub/HtGFW_dev/logs/log_2.1.txt 2>&1
-20  * 	* * * sudo /home/node2/GitHub/HtGFW_dev/push.sh >> /home/node2/GitHub/HtGFW_dev/logs/log_2.txt 2>&1
-25  * 	* * * sudo /home/node2/GitHub/HtGFW_dev/dump.sh >> /home/node2/GitHub/HtGFW_dev/logs/log_2.1.txt 2>&1
-30  * 	* * * sudo /home/node2/GitHub/HtGFW_dev/push.sh >> /home/node2/GitHub/HtGFW_dev/logs/log_2.txt 2>&1
-37  * 	* * * sudo /home/node2/GitHub/HtGFW_dev/dump.sh >> /home/node2/GitHub/HtGFW_dev/logs/log_2.1.txt 2>&1
-40  * 	* * * sudo /home/node2/GitHub/HtGFW_dev/push.sh >> /home/node2/GitHub/HtGFW_dev/logs/log_2.txt 2>&1
-45  * 	* * * sudo /home/node2/GitHub/HtGFW_dev/dump.sh >> /home/node2/GitHub/HtGFW_dev/logs/log_2.1.txt 2>&1
-50  * 	* * * sudo /home/node2/GitHub/HtGFW_dev/push.sh >> /home/node2/GitHub/HtGFW_dev/logs/log_2.txt 2>&1
-59  2	* * * sudo /home/node2/GitHub/HtGFW_dev/check.sh >> /home/node2/GitHub/HtGFW_dev/logs/log_2.2.txt 2>&1
+#00  * 	* * * sudo /home/ubuntu/GitHub/HtGFW_dev/push.sh >> /home/ubuntu/GitHub/HtGFW_dev/logs/log_2.txt 2>&1
+#05  * 	* * * sudo /home/ubuntu/GitHub/HtGFW_dev/dump.sh >> /home/ubuntu/GitHub/HtGFW_dev/logs/log_2.1.txt 2>&1
+#10  * 	* * * sudo /home/ubuntu/GitHub/HtGFW_dev/push.sh >> /home/ubuntu/GitHub/HtGFW_dev/logs/log_2.txt 2>&1
+#15  * 	* * * sudo /home/ubuntu/GitHub/HtGFW_dev/dump.sh >> /home/ubuntu/GitHub/HtGFW_dev/logs/log_2.1.txt 2>&1
+#20  * 	* * * sudo /home/ubuntu/GitHub/HtGFW_dev/push.sh >> /home/ubuntu/GitHub/HtGFW_dev/logs/log_2.txt 2>&1
+#25  * 	* * * sudo /home/ubuntu/GitHub/HtGFW_dev/dump.sh >> /home/ubuntu/GitHub/HtGFW_dev/logs/log_2.1.txt 2>&1
+#30  * 	* * * sudo /home/ubuntu/GitHub/HtGFW_dev/push.sh >> /home/ubuntu/GitHub/HtGFW_dev/logs/log_2.txt 2>&1
+#37  * 	* * * sudo /home/ubuntu/GitHub/HtGFW_dev/dump.sh >> /home/ubuntu/GitHub/HtGFW_dev/logs/log_2.1.txt 2>&1
+#40  * 	* * * sudo /home/ubuntu/GitHub/HtGFW_dev/push.sh >> /home/ubuntu/GitHub/HtGFW_dev/logs/log_2.txt 2>&1
+#45  * 	* * * sudo /home/ubuntu/GitHub/HtGFW_dev/dump.sh >> /home/ubuntu/GitHub/HtGFW_dev/logs/log_2.1.txt 2>&1
+#50  * 	* * * sudo /home/ubuntu/GitHub/HtGFW_dev/push.sh >> /home/ubuntu/GitHub/HtGFW_dev/logs/log_2.txt 2>&1
+#59  2	* * * sudo /home/ubuntu/GitHub/HtGFW_dev/check.sh >> /home/ubuntu/GitHub/HtGFW_dev/logs/log_2.2.txt 2>&1
