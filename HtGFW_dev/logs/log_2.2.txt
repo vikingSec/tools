@@ -1,0 +1,63 @@
+2018-05-01 13:16:24.041296
+CHECKING TOPIC: 19614354
+CHECKING TOPIC: 19836561
+CHECKING TOPIC: 19556339
+CHECKING TOPIC: 19603827
+CHECKING TOPIC: 19578404
+answer : 500 : https://www.zhihu.com/question/31819923/answer/54763468
+
+CHECKING TOPIC: 19638541
+CHECKING TOPIC: 19604890
+question : 404 : https://www.zhihu.com/question/271387092
+
+question : 404 : https://www.zhihu.com/question/271279709
+
+CHECKING TOPIC: 19551086
+question : 404 : https://www.zhihu.com/question/270415168
+
+question : 404 : https://www.zhihu.com/question/270621469
+
+CHECKING TOPIC: 19550613
+question : 404 : https://www.zhihu.com/question/270415168
+
+question : 404 : https://www.zhihu.com/question/270621469
+
+CHECKING TOPIC: 20072490
+article : 404 : https://zhuanlan.zhihu.com/p/35373185
+
+question : 404 : https://www.zhihu.com/question/270415168
+
+question : 404 : https://www.zhihu.com/question/270621469
+
+CHECKING TOPIC: 19566933
+question : 404 : https://www.zhihu.com/question/270415168
+
+question : 404 : https://www.zhihu.com/question/274557052
+
+question : 404 : https://www.zhihu.com/question/270621469
+
+CHECKING TOPIC: 19604464
+CHECKING TOPIC: 19648402
+article : 404 : https://zhuanlan.zhihu.com/p/36111919
+
+CHECKING TOPIC: 20073350
+question : 404 : https://www.zhihu.com/question/274557052
+
+POTENTIALLY CENSORED: 
+
+answer : 500 : https://www.zhihu.com/question/31819923/answer/54763468
+question : 404 : https://www.zhihu.com/question/271387092
+question : 404 : https://www.zhihu.com/question/271279709
+question : 404 : https://www.zhihu.com/question/270415168
+question : 404 : https://www.zhihu.com/question/270621469
+question : 404 : https://www.zhihu.com/question/270415168
+question : 404 : https://www.zhihu.com/question/270621469
+article : 404 : https://zhuanlan.zhihu.com/p/35373185
+question : 404 : https://www.zhihu.com/question/270415168
+question : 404 : https://www.zhihu.com/question/270621469
+question : 404 : https://www.zhihu.com/question/270415168
+question : 404 : https://www.zhihu.com/question/274557052
+question : 404 : https://www.zhihu.com/question/270621469
+article : 404 : https://zhuanlan.zhihu.com/p/36111919
+question : 404 : https://www.zhihu.com/question/274557052
+
