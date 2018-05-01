@@ -1,0 +1,8 @@
+19603827
+article
+36193570
+https://zhuanlan.zhihu.com/p/36193570
+小安
+CVE-2018-7602：Drupal核心远程代码执行漏洞分析预警
+
+报告编号： B6-2018-042601报告来源： 360-CERT报告作者： 360-CERT更新日期： 2018-04-26漏洞概述2018年4月26日，Drupal官方发布新补丁和安全公告，修复了编号为CVE-2018-7602的远程代码执行漏洞，此漏洞源于3月28日的更新版中对编号为CVE-2018-7600的漏洞修复不完全，导致补丁被绕过，可以造成任意代码执行。目前，已经发现针对CVE-2018-7602/CVE-2018-7600漏洞的在野利用，且部分利用代码已经公开。360-CERT对此漏洞进行了技术分析，建议使用Drupal开源内容管理系统的用户尽快进行更新。漏洞影响面影响版本Drupal 7.x，8.x修复版本Drupal 7.59，Drupal 8.5.3，Drupal 8.4.8修复补丁8.x 版本https://cgit.drupalcode.org/drupal/rawdiff/?h=8.5.x&id=bb6d396609600d1169da29456ba3db59abae4b7e7.x 版本https://cgit.drupalcode.org/drupal/rawdiff/?h=7.x&id=080daa38f265ea28444c540832509a48861587d0注意：此补丁只针对CVE-2018-7602漏洞，针对CVE-2018-7600修复方式查看CVE-2018-7600:Drupal核心远程代码执行漏洞预警。漏洞详情对CVE-2018-7600漏洞的补丁通过过滤带有#的输入来处理请求（GET，POST，COOKIE，REQUEST）中数据。但是Drupal 应用还会处理path?destination=URL形式的请求，发起请求需要对destination=URL中的URL进行URL编码，当对URL中的#进行编码两次，就可以绕过sanitize()函数过滤。构造特殊请求绕过过滤代码POST /drupal-7.59/drupal-7.59/node/9/delete?destination=node?q[%2523][]=passthru%26q[%2523type]=markup%26q[%2523markup]=whoami
