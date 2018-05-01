@@ -9,7 +9,7 @@ check = checker3.check()
 print check
 
 for line in check.split("\n"):
-	f.write(line)
+	f.write(line+'\n')
 
 f.close()
 
