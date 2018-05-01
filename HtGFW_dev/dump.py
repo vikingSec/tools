@@ -36,7 +36,8 @@ def main(topicFile = 'topics_1.txt'):
                 
                 		path = './'+topicid+'/'+postid
                 		textfile2 = codecs.open(path, 'a', encoding='utf-8')
-                		textfile2.write(write)
+                		write = topicid+'\n'+posttype+'\n'+postid+'\n'+url+'\n'+author+'\n'+title+'\n\n'+content
+				textfile2.write(write)
                 		textfile2.close()
     
                                       

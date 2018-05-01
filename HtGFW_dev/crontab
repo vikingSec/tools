@@ -1,0 +1,41 @@
+# Edit this file to introduce tasks to be run by cron.$
+# $
+# Each task to run has to be defined through a single line$
+# indicating with different fields when the task will be run$
+# and what command to run for the task$
+# $
+# To define the time you can provide concrete values for$
+# minute (m), hour (h), day of month (dom), month (mon),$
+# and day of week (dow) or use '*' in these fields (for 'any').# $
+# Notice that tasks will be started based on the cron's system$
+# daemon's notion of time and timezones.$
+# $
+# Output of the crontab jobs (including errors) is sent through$
+# email to the user the crontab file belongs to (unless redirected).$
+# $
+# For example, you can run a backup of all your user accounts$
+# at 5 a.m every week with:$
+# 0 5 * * 1 tar -zcf /var/backups/home.tgz /home/$
+# $
+# For more information see the manual pages of crontab(5) and cron(8)$
+#MAILTO=""$
+# $
+# m h  dom mon dow   command$
+#MAILTO=""$
+SHELL=/bin/bash $
+PATH=/bin:/sbin:/usr/bin:/usr/sbin$
+HOME=/home/node2$
+LOGNAME=/node2/GitHub/HtGFW_dev/logs/log_2.txt$
+PWD=/home/node2/GitHub$
+#00  * 	* * * sudo /home/ubuntu/GitHub/HtGFW_dev/push.sh >> /home/ubuntu/GitHub/HtGFW_dev/logs/log_2.txt 2>&1$
+#05  * 	* * * sudo /home/ubuntu/GitHub/HtGFW_dev/dump.sh >> /home/ubuntu/GitHub/HtGFW_dev/logs/log_2.1.txt 2>&1$
+#10  * 	* * * sudo /home/ubuntu/GitHub/HtGFW_dev/push.sh >> /home/ubuntu/GitHub/HtGFW_dev/logs/log_2.txt 2>&1$
+#15  * 	* * * sudo /home/ubuntu/GitHub/HtGFW_dev/dump.sh >> /home/ubuntu/GitHub/HtGFW_dev/logs/log_2.1.txt 2>&1$
+#20  * 	* * * sudo /home/ubuntu/GitHub/HtGFW_dev/push.sh >> /home/ubuntu/GitHub/HtGFW_dev/logs/log_2.txt 2>&1$
+#25  * 	* * * sudo /home/ubuntu/GitHub/HtGFW_dev/dump.sh >> /home/ubuntu/GitHub/HtGFW_dev/logs/log_2.1.txt 2>&1$
+#30  * 	* * * sudo /home/ubuntu/GitHub/HtGFW_dev/push.sh >> /home/ubuntu/GitHub/HtGFW_dev/logs/log_2.txt 2>&1$
+#37  * 	* * * sudo /home/ubuntu/GitHub/HtGFW_dev/dump.sh >> /home/ubuntu/GitHub/HtGFW_dev/logs/log_2.1.txt 2>&1$
+#40  * 	* * * sudo /home/ubuntu/GitHub/HtGFW_dev/push.sh >> /home/ubuntu/GitHub/HtGFW_dev/logs/log_2.txt 2>&1$
+#45  * 	* * * sudo /home/ubuntu/GitHub/HtGFW_dev/dump.sh >> /home/ubuntu/GitHub/HtGFW_dev/logs/log_2.1.txt 2>&1$
+#50  * 	* * * sudo /home/ubuntu/GitHub/HtGFW_dev/push.sh >> /home/ubuntu/GitHub/HtGFW_dev/logs/log_2.txt 2>&1$
+#59  2	* * * sudo /home/ubuntu/GitHub/HtGFW_dev/check.sh >> /home/ubuntu/GitHub/HtGFW_dev/logs/log_2.2.txt 2>&1$
