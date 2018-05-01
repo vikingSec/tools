@@ -1,0 +1,15 @@
+HTTP/2 200 
+content-type: text/html; charset=utf-8
+x-frame-options: DENY
+content-security-policy: default-src * blob:;img-src * data: blob:;frame-src 'self' *.zhihu.com getpocket.com note.youdao.com safari-extension://com.evernote.safari.clipper-Q79WDW8YH9 weixin: zhihujs: v.qq.com v.youku.com www.bilibili.com *.vzuu.com captcha.guard.qcloud.com;script-src 'self' *.zhihu.com *.google-analytics.com zhstatic.zhihu.com res.wx.qq.com 'unsafe-eval' unpkg.zhimg.com unicom.zhimg.com captcha.gtimg.com captcha.guard.qcloud.com blob:;style-src 'self' *.zhihu.com unicom.zhimg.com 'unsafe-inline' captcha.gtimg.com;connect-src * wss:
+x-backend-server: heifetz.heifetz-column.eaa1a56a---10.5.27.2:31026[10.5.27.2:31026]
+x-req-id: 25DD34045AE7B172
+x-req-ssl: proto=TLSv1.2,sni=zhuanlan.zhihu.com,cipher=ECDHE-RSA-AES256-GCM-SHA384
+server: ZWS
+expires: Tue, 01 May 2018 00:14:43 GMT
+cache-control: max-age=0, no-cache, no-store
+pragma: no-cache
+date: Tue, 01 May 2018 00:14:43 GMT
+set-cookie: _xsrf=d2016f2f-9cb8-46d7-b60e-e358e4ae3378; path=/; domain=.zhihu.com
+set-cookie: d_c0="AHDv1_VWhg2PTm1obeocD_UW3AwNYNUA7m0=|1525133683"; path=/; domain=.zhihu.com
+
