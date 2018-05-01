@@ -22,7 +22,7 @@ def check():
         path = './'+line.strip()+'/'
         for check in os.listdir(path):
 
-            time.sleep(5)
+            time.sleep(8)
             f = open(path+check.strip(),'r')
             spl = f.read().split('\n')
 	    if len(spl) > 1:

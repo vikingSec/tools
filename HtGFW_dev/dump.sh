@@ -1,4 +1,4 @@
 cd "${0%/*}"
 sudo python dump.py
-sleep 3600
+sleep 7200
 sudo ./dump.sh
