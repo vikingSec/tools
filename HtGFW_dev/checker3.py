@@ -22,7 +22,7 @@ def check():
         path = './'+line.strip()+'/'
         for check in os.listdir(path):
             
-            time.sleep(5)
+            time.sleep(2)
             f = open(path+check.strip(),'r')
             spl = f.read().split('\n')
             Type = spl[1].strip()
@@ -43,7 +43,7 @@ def check():
                 if not res.status_code == 200:
                     print Type+' : '+str(res.status_code)+' : '+link+'\n'
                     CHECK+= Type+' : '+str(res.status_code)+' : '+link+'\n'
-                    if not os.path.exists('./Censored'+path.strip().replace('./','')):
+                    if not os.path.exists('./Censored/'+path.strip().replace('./','')):
                         os.makedirs('./Censored/'+path.strip().replace('./',''))
                     shutil.copy2(path+check.strip(), './Censored/'+path.strip().replace('./',''))
     

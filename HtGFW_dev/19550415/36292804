@@ -1,0 +1,8 @@
+19550415
+article
+36292804
+https://zhuanlan.zhihu.com/p/36292804
+CY王
+【illustration】为科技博客/研究论文配插图小技巧
+
+陆陆续续为公司的Medium博客账号的文章画了好多封面图～欢迎大家去Medium上follow Petuum！公司最新消息还有based on最新的机器学习和人工智能论文的文章不时推送 :- )觉得慢慢摸出了一个好用的小流程来分享一下：1.拿到文章，理解大意，提取元素如果是已经写好的文章，可以了解一下文章描述的东西如果拿来讲故事的话，大概讲的是什么，想办法用一句话总结出来；如果是一篇直接的论文，可以读一下Abstract和Introduction的部分。在理解文章大意的时候可以提取其中的关键词、句作为元素。举个例子：https://arxiv.org/pdf/1711.07908.pdf在下面这个paper里，通读完abstract和introduciton之后呢，虽然文章讲的是更好得找到parameters来提高medical named entity recognition的机器学习模型的表现。但是，如果转化成看图说话那样的故事就可以总结成：Recognize Medical Named Entity in medical notes.为了体现出这句话，在文中摘选出来一些内容就是：Named Entity Recognition, notes. chemical ingredients, genes, proteins, medications, diseases, symptoms, proteins, anatomical entities, etc.entities such as “symptom of ” relation between diseases and symptoms, “side effect of ” relation between drugs and diseases etc., and store this information in health knowledge bases这样一长篇文章就缩短成了一句话和一些关键词～只要画面说清楚了这句话，包含了一些关键词提到的元素，illustration就八九不离十可以传达出想要的意思了～2. 打草稿我自己是比较喜欢用铅笔和纸打草稿，当然也可以直接在电脑上用绘图软件来打草稿～还是上面的例子，打好几张草稿之后，可以拿给身边的人看看，怎样可以更好地把那句话说清楚～看看他们能不能从中看出来你要表现的关键元素3.电脑画图这里是我在Sketch里的workspace，铅笔稿子放边上，然后也可以放在artboard的最下层方便描画（注意其实在这一步里，并没有颜色的）～上面列出了要包含的关键词/内容右边是一些小的可以反复使用的元素中间就是画画的地方了～我比较喜欢直接在Sketch里画图，用钢笔工具照着草稿进行描画然后做适当的调整可以使用透明度、翻转、各种不同的模糊……来创造一些有趣的效果4. 选取适当的颜色找一组合适的颜色很重要；一般走简单平面风格的话，3个主色调就够了～比如这个网站就有很多很棒的色彩组合Color Hunt - Beautiful Color Palettes​colorhunt.co5. 从Sketch 里导出并在photoshop里做进一步的处理～比如用笔刷加上噪点，局部模糊处理，添加新的色彩效果等等
