@@ -56,7 +56,7 @@ def ping_topic(topic):
 def getTopicName(topic):
     res = get_url('https://www.zhihu.com/topic/'+topic.strip()+'/hot')
     res_soup = BeautifulSoup(res.content, 'html.parser')
-    print res_soup.find('h1', 'TopicCard-titleText').text
+    return res_soup.find('h1', 'TopicCard-titleText').text
 
 def getPostBody(postID, posttype = 'question'):
     if posttype == 'question':
