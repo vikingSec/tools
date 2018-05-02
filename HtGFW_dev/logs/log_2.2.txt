@@ -61,3 +61,63 @@ question : 404 : https://www.zhihu.com/question/270621469
 article : 404 : https://zhuanlan.zhihu.com/p/36111919
 question : 404 : https://www.zhihu.com/question/274557052
 
+2018-05-01 23:33:45.870677
+CHECKING TOPIC: 19612705
+question : 404 : https://www.zhihu.com/question/20508321
+
+CHECKING TOPIC: 19570500
+question : 404 : https://www.zhihu.com/question/270415168
+
+question : 404 : https://www.zhihu.com/question/270621469
+
+CHECKING TOPIC: 19550842
+article : 404 : https://zhuanlan.zhihu.com/p/36057892
+
+article : 404 : https://zhuanlan.zhihu.com/p/36111919
+
+CHECKING TOPIC: 20045556
+CHECKING TOPIC: 19553437
+question : 404 : https://www.zhihu.com/question/37338939
+
+article : 404 : https://zhuanlan.zhihu.com/p/36111919
+
+CHECKING TOPIC: 19661586
+CHECKING TOPIC: 19553911
+question : 404 : https://www.zhihu.com/question/274386511
+
+article : 404 : https://zhuanlan.zhihu.com/p/36141968
+
+CHECKING TOPIC: 19604685
+question : 404 : https://www.zhihu.com/question/63217696
+
+CHECKING TOPIC: 19586634
+CHECKING TOPIC: 19578134
+question : 404 : https://www.zhihu.com/question/274510694
+
+article : 404 : https://zhuanlan.zhihu.com/p/36033667
+
+article : 404 : https://zhuanlan.zhihu.com/p/36067568
+
+article : 404 : https://zhuanlan.zhihu.com/p/36111919
+
+CHECKING TOPIC: 19790643
+CHECKING TOPIC: 20143250
+CHECKING TOPIC: 19577684
+CHECKING TOPIC: 19580621
+POTENTIALLY CENSORED: 
+
+question : 404 : https://www.zhihu.com/question/20508321
+question : 404 : https://www.zhihu.com/question/270415168
+question : 404 : https://www.zhihu.com/question/270621469
+article : 404 : https://zhuanlan.zhihu.com/p/36057892
+article : 404 : https://zhuanlan.zhihu.com/p/36111919
+question : 404 : https://www.zhihu.com/question/37338939
+article : 404 : https://zhuanlan.zhihu.com/p/36111919
+question : 404 : https://www.zhihu.com/question/274386511
+article : 404 : https://zhuanlan.zhihu.com/p/36141968
+question : 404 : https://www.zhihu.com/question/63217696
+question : 404 : https://www.zhihu.com/question/274510694
+article : 404 : https://zhuanlan.zhihu.com/p/36033667
+article : 404 : https://zhuanlan.zhihu.com/p/36067568
+article : 404 : https://zhuanlan.zhihu.com/p/36111919
+
