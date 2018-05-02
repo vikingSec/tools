@@ -1,9 +1,5 @@
 POTENTIALLY CENSORED: 
 
-answer : 500 : https://www.zhihu.com/question/20229848/answer/379853016
-question : 500 : https://www.zhihu.com/question/271377090
-question : 500 : https://www.zhihu.com/question/265182479
-question : 500 : https://www.zhihu.com/question/26897956
 question : 404 : https://www.zhihu.com/question/271387092
 question : 404 : https://www.zhihu.com/question/271279709
 question : 404 : https://www.zhihu.com/question/270415168
