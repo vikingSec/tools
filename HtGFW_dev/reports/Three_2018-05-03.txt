@@ -1,7 +1,6 @@
 POTENTIALLY CENSORED: 
 
 question : 404 : https://www.zhihu.com/question/20508321
-answer : 500 : https://www.zhihu.com/question/20462764/answer/375516604
 question : 404 : https://www.zhihu.com/question/270415168
 question : 404 : https://www.zhihu.com/question/270621469
 article : 404 : https://zhuanlan.zhihu.com/p/36057892
