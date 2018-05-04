@@ -1,5 +1,6 @@
 import Zhihu
 import os
+import operator
 
 def report():
     total_Posts = totalPosts()
@@ -38,9 +39,11 @@ def printCensoredByTopic():
     total_Posts = totalPosts()
     total_Censored = totalCensored()
     byTopic = censoredByTopic()
-    print 'Topic Name - Censored Posts - %Of Censored - %Of Posts in Topic'
+    print 'Topic Name - Censored Posts'
     for k,v in byTopic.iteritems():
         number_posts = len([name for name in os.listdir('./'+k.strip())])
         perc_censored = float((v / total_Censored)) * 100
         perc_topic = float((v / number_posts))* 100
         print str(k)+' ('+Zhihu.getTopicName(k)+') - '+str(v)
+
+
