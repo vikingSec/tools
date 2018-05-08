@@ -1,0 +1,8 @@
+19554927
+article
+36529010
+https://zhuanlan.zhihu.com/p/36529010
+童话
+redis 在渗透中 getshell 方法总结
+
+0x00 前言今天同学突然提到了redis，想到最近搞站确实有一段时间没有遇到redis getshell的场景了（主要是最近懒，搞得少），有些利用方式都忘的差不多，这里再对常见的redis getshell方式总结并复现一遍，避免遗忘。如果有同学恰好看到了这篇文章，并能解决自己的问题，那还是极好的。众所周知，redis常见的getshell方式有如下几种：1、通过向Web目录中写webshell的方式进行getshell2、通过写SSH key的方式进行getshell3、通过写corntab的方式进行getshell当然，方法也不局限于此，而且以上方法也包括对一些当前用户权限、目录权限、Web目录是否已知等要求。同时除了getshell，该漏洞还会导致一些其他危害，so，如何利用还是要结合具体的场景进行分析。0x01 基础环境Ubuntu 16.04.4 LTSRedis server v=4.0.90x02 redis服务搭建环境搭建主要分为两块介绍，一个是redis服务的搭建，另一个是redis客户端相关的环境搭建及常用命令介绍。redis服务的安装第1步：redis服务的下载wget http://download.redis.io/releases/redis-4.0.9.tar.gz
