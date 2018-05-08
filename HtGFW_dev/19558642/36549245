@@ -1,0 +1,8 @@
+19558642
+article
+36549245
+https://zhuanlan.zhihu.com/p/36549245
+W-Pwn
+Rowhammer攻击可以通过浏览器劫持智能手机
+
+安全研究人员证明DRAM芯片中存在的Rowhammer漏洞可用于攻击Android智能手机。Rowhammer是一个存在于内存模块中的硬件漏洞，它利用了名叫比特反转（bit flipping）的现象。所有的计算机数据可进程都可是由0和1所构成的，而比特反转会在DIMM中“反转”这些值（把0变成1，1变成0）。虽然听起来并无害处，但谷歌Project Zero团队2014年发现，通过瞄准内存中的部分区域，这个漏洞可提供管理员权限或绕过软件安全措施。这是一个很大的问题，通过利用Rowhammer效应，一个程序理论上可以操纵运行在计算机DRAM上的其他软件，包括操作系统本身。自从2014年Rowhammer漏洞发现以来，安全专家一直在研究这种威胁，并展示它可能被恶意利用的方式。两年前，荷兰Vrije大学的安全研究人员展示了Rowhammer如何被恶意应用程序滥用以植入Android手机，并获得管理权限。上周四，同一组安全研究人员成功利用Rowhammer，通过使用Javascript的移动浏览器，在两分钟内破解了Android智能手机。手机型号为：LG Nexus 5，HTC One M8和LG G2。研究人员将他们的概念验证攻击称为“GLitch”，并将他们的发现发表在了新论文中（https://www.vusec.net/wp-content/uploads/2018/05/glitch.pdf）。“我们的GLitch攻击表明，基于浏览器的Rowhammer攻击是完全可行的。”他们在Nexus 5上进行的攻击演示显示它可以通过Firefox浏览器获取读/写权限，使研究人员能够在软件上执行代码。为了操纵DRAM，攻击利用了Firefox对支持设备图形处理器的Javascript API的支持。演示视频：    https://www.zhihu.com/video/976890835359444992   研究人员在他们的论文中写道：“这种攻击非常强大，可以规避最先进的防御。更令人担忧的是，这些攻击可以通过浏览器启动。”值得注意的是，谷歌的Chrome浏览器同样容易受到类似威胁。WTT资讯-最新科技资讯，实时网安信息​www.wttech.org欢迎关注我们：@W-Pwn
