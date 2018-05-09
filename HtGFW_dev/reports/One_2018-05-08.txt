@@ -10,8 +10,10 @@ question : 404 : https://www.zhihu.com/question/274772965
 question : 404 : https://www.zhihu.com/question/23173493
 question : 404 : https://www.zhihu.com/question/66877415
 article : 404 : https://zhuanlan.zhihu.com/p/36472044
+article : 404 : https://zhuanlan.zhihu.com/p/36591528
 article : 404 : https://zhuanlan.zhihu.com/p/36123227
 question : 404 : https://www.zhihu.com/question/66877415
+article : 404 : https://zhuanlan.zhihu.com/p/36591528
 question : 404 : https://www.zhihu.com/question/275587898
 article : 404 : https://zhuanlan.zhihu.com/p/36074323
 question : 404 : https://www.zhihu.com/question/62855837

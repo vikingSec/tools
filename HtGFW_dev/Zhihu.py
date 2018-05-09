@@ -73,15 +73,15 @@ def getPostTitle(postID, posttype = 'question'):
         question_title = soup.find('h1', 'QuestionHeader-title').text
         print(question_title)
 
-def dumpTopic(topicID, number = 20):
+def dumpTopic(topicID):
     ret = ""
-    ret+=dumpTopic_hot(topicID, number)
-    ret+=dumpTopic_unanswered(topicID, number)
+    ret+=dumpTopic_hot(topicID)
+    ret+=dumpTopic_unanswered(topicID)
     return ret
     
 
 
-def dumpTopic_hot(topicID, number = 20):
+def dumpTopic_hot(topicID):
     topicURL = 'https://www.zhihu.com/topic/'+str(topicID).strip()+'/hot'
     res = get_url(topicURL)
 
@@ -140,7 +140,7 @@ def dumpTopic_hot(topicID, number = 20):
 
     return ret
 
-def dumpTopic_unanswered(topicID, number = 20):
+def dumpTopic_unanswered(topicID):
     topicURL = 'https://www.zhihu.com/topic/'+str(topicID).strip()+'/unanswered'
     res = get_url(topicURL)
 
