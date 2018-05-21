@@ -4,6 +4,7 @@ article : 404 : https://zhuanlan.zhihu.com/p/36650813
 article : 404 : https://zhuanlan.zhihu.com/p/36472044
 question : 404 : https://www.zhihu.com/question/63217696
 question : 404 : https://www.zhihu.com/question/274340450
+question : 404 : https://www.zhihu.com/question/67994526
 question : 404 : https://www.zhihu.com/question/57096610
 question : 404 : https://www.zhihu.com/question/275566365
 question : 404 : https://www.zhihu.com/question/274557052
@@ -14,6 +15,7 @@ article : 404 : https://zhuanlan.zhihu.com/p/36650813
 article : 404 : https://zhuanlan.zhihu.com/p/36472044
 article : 404 : https://zhuanlan.zhihu.com/p/36591528
 article : 404 : https://zhuanlan.zhihu.com/p/36123227
+question : 404 : https://www.zhihu.com/question/63616497
 question : 404 : https://www.zhihu.com/question/66877415
 article : 404 : https://zhuanlan.zhihu.com/p/36591528
 article : 404 : https://zhuanlan.zhihu.com/p/36832687
