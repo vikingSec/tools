@@ -1,0 +1,8 @@
+19552981
+question
+29558634
+https://www.zhihu.com/question/29558634
+UNKNOWN
+如何评价 Fama 和 French 最初于 2013 年提出的五因素定价模型 (Five-factor Asset Pricing Model)？
+
+见Journal of Financial Economics116 (2015) 1–22；在此之前网上已经有好几个版本的Draft。 简述：5-factor Model：Rit – RFt = ai + bi(RMt – RFt) + siSMBt + hiHMLt + riRMWt + ciCMAt + eit 在3-factor model的基础上添加了盈利能力（profitability）和投资模式（investment patterns）两个指标作为参考因素，构建自变量的方式和3-factor 类似：盈利能力是RMW（Robust - Weak），投资模式CMA（Conservative - Aggressive…
