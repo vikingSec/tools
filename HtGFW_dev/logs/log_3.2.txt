@@ -3553,3 +3553,3978 @@ article : 404 : https://zhuanlan.zhihu.com/p/36067568
 article : 404 : https://zhuanlan.zhihu.com/p/36478741
 article : 404 : https://zhuanlan.zhihu.com/p/36111919
 
+2018-05-23 05:37:50.778536
+CHECKING TOPIC: 19612705
+question : 404 : https://www.zhihu.com/question/20508321
+
+answer : 404 : https://www.zhihu.com/question/20508321/answer/359957756
+
+CHECKING TOPIC: 19570500
+answer : 404 : https://www.zhihu.com/question/270621469/answer/360327135
+
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360585851
+
+answer : 504 : https://www.zhihu.com/question/274842022/answer/376759432
+
+question : 404 : https://www.zhihu.com/question/270415168
+
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360139666
+
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360531602
+
+question : 404 : https://www.zhihu.com/question/270621469
+
+answer : 404 : https://www.zhihu.com/question/270621469/answer/360779666
+
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360451509
+
+CHECKING TOPIC: 19550842
+article : 404 : https://zhuanlan.zhihu.com/p/36057892
+
+article : 404 : https://zhuanlan.zhihu.com/p/36111919
+
+CHECKING TOPIC: 20045556
+CHECKING TOPIC: 19553437
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382765744
+
+answer : 404 : https://www.zhihu.com/question/276567133/answer/389122202
+
+answer : 404 : https://www.zhihu.com/question/57096610/answer/383970500
+
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382700657
+
+question : 404 : https://www.zhihu.com/question/57096610
+
+question : 404 : https://www.zhihu.com/question/275566365
+
+question : 404 : https://www.zhihu.com/question/37338939
+
+question : 404 : https://www.zhihu.com/question/276567133
+
+answer : 404 : https://www.zhihu.com/question/37338939/answer/361799600
+
+answer : 404 : https://www.zhihu.com/question/57096610/answer/384116518
+
+article : 404 : https://zhuanlan.zhihu.com/p/36111919
+
+CHECKING TOPIC: 19661586
+question : 404 : https://www.zhihu.com/question/39544602
+
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382765744
+
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382700657
+
+question : 404 : https://www.zhihu.com/question/275566365
+
+answer : 404 : https://www.zhihu.com/question/275566365/answer/381176766
+
+answer : 404 : https://www.zhihu.com/question/39544602/answer/387579672
+
+CHECKING TOPIC: 19553911
+question : 404 : https://www.zhihu.com/question/274386511
+
+answer : 404 : https://www.zhihu.com/question/274386511/answer/375940367
+
+question : 404 : https://www.zhihu.com/question/274340450
+
+answer : 404 : https://www.zhihu.com/question/274340450/answer/377183264
+
+article : 404 : https://zhuanlan.zhihu.com/p/36141968
+
+article : 404 : https://zhuanlan.zhihu.com/p/36354382
+
+article : 404 : https://zhuanlan.zhihu.com/p/36337338
+
+CHECKING TOPIC: 19604685
+question : 404 : https://www.zhihu.com/question/63217696
+
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360266807
+
+answer : 404 : https://www.zhihu.com/question/63217696/answer/361136539
+
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360745118
+
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360125494
+
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360960710
+
+answer : 404 : https://www.zhihu.com/question/63217696/answer/361181988
+
+answer : 404 : https://www.zhihu.com/question/63217696/answer/361368686
+
+CHECKING TOPIC: 19578134
+question : 404 : https://www.zhihu.com/question/274510694
+
+article : 404 : https://zhuanlan.zhihu.com/p/36033667
+
+article : 404 : https://zhuanlan.zhihu.com/p/36067568
+
+article : 404 : https://zhuanlan.zhihu.com/p/36478741
+
+article : 404 : https://zhuanlan.zhihu.com/p/36111919
+
+answer : 404 : https://www.zhihu.com/question/274510694/answer/375438754
+
+CHECKING TOPIC: 19790643
+CHECKING TOPIC: 20143250
+CHECKING TOPIC: 19577684
+CHECKING TOPIC: 19580621
+POTENTIALLY CENSORED: 
+
+question : 404 : https://www.zhihu.com/question/20508321
+answer : 404 : https://www.zhihu.com/question/20508321/answer/359957756
+answer : 404 : https://www.zhihu.com/question/270621469/answer/360327135
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360585851
+answer : 504 : https://www.zhihu.com/question/274842022/answer/376759432
+question : 404 : https://www.zhihu.com/question/270415168
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360139666
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360531602
+question : 404 : https://www.zhihu.com/question/270621469
+answer : 404 : https://www.zhihu.com/question/270621469/answer/360779666
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360451509
+article : 404 : https://zhuanlan.zhihu.com/p/36057892
+article : 404 : https://zhuanlan.zhihu.com/p/36111919
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382765744
+answer : 404 : https://www.zhihu.com/question/276567133/answer/389122202
+answer : 404 : https://www.zhihu.com/question/57096610/answer/383970500
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382700657
+question : 404 : https://www.zhihu.com/question/57096610
+question : 404 : https://www.zhihu.com/question/275566365
+question : 404 : https://www.zhihu.com/question/37338939
+question : 404 : https://www.zhihu.com/question/276567133
+answer : 404 : https://www.zhihu.com/question/37338939/answer/361799600
+answer : 404 : https://www.zhihu.com/question/57096610/answer/384116518
+article : 404 : https://zhuanlan.zhihu.com/p/36111919
+question : 404 : https://www.zhihu.com/question/39544602
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382765744
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382700657
+question : 404 : https://www.zhihu.com/question/275566365
+answer : 404 : https://www.zhihu.com/question/275566365/answer/381176766
+answer : 404 : https://www.zhihu.com/question/39544602/answer/387579672
+question : 404 : https://www.zhihu.com/question/274386511
+answer : 404 : https://www.zhihu.com/question/274386511/answer/375940367
+question : 404 : https://www.zhihu.com/question/274340450
+answer : 404 : https://www.zhihu.com/question/274340450/answer/377183264
+article : 404 : https://zhuanlan.zhihu.com/p/36141968
+article : 404 : https://zhuanlan.zhihu.com/p/36354382
+article : 404 : https://zhuanlan.zhihu.com/p/36337338
+question : 404 : https://www.zhihu.com/question/63217696
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360266807
+answer : 404 : https://www.zhihu.com/question/63217696/answer/361136539
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360745118
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360125494
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360960710
+answer : 404 : https://www.zhihu.com/question/63217696/answer/361181988
+answer : 404 : https://www.zhihu.com/question/63217696/answer/361368686
+question : 404 : https://www.zhihu.com/question/274510694
+article : 404 : https://zhuanlan.zhihu.com/p/36033667
+article : 404 : https://zhuanlan.zhihu.com/p/36067568
+article : 404 : https://zhuanlan.zhihu.com/p/36478741
+article : 404 : https://zhuanlan.zhihu.com/p/36111919
+answer : 404 : https://www.zhihu.com/question/274510694/answer/375438754
+
+2018-05-23 16:54:43.991723
+CHECKING TOPIC: 19612705
+question : 404 : https://www.zhihu.com/question/20508321
+
+answer : 404 : https://www.zhihu.com/question/20508321/answer/359957756
+
+CHECKING TOPIC: 19570500
+answer : 404 : https://www.zhihu.com/question/270621469/answer/360327135
+
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360585851
+
+question : 404 : https://www.zhihu.com/question/270415168
+
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360139666
+
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360531602
+
+question : 404 : https://www.zhihu.com/question/270621469
+
+answer : 404 : https://www.zhihu.com/question/270621469/answer/360779666
+
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360451509
+
+CHECKING TOPIC: 19550842
+article : 404 : https://zhuanlan.zhihu.com/p/36057892
+
+article : 404 : https://zhuanlan.zhihu.com/p/36111919
+
+CHECKING TOPIC: 20045556
+CHECKING TOPIC: 19553437
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382765744
+
+answer : 404 : https://www.zhihu.com/question/276567133/answer/389122202
+
+answer : 404 : https://www.zhihu.com/question/57096610/answer/383970500
+
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382700657
+
+question : 404 : https://www.zhihu.com/question/57096610
+
+question : 404 : https://www.zhihu.com/question/275566365
+
+question : 404 : https://www.zhihu.com/question/37338939
+
+question : 404 : https://www.zhihu.com/question/276567133
+
+answer : 404 : https://www.zhihu.com/question/37338939/answer/361799600
+
+answer : 404 : https://www.zhihu.com/question/57096610/answer/384116518
+
+article : 404 : https://zhuanlan.zhihu.com/p/36111919
+
+CHECKING TOPIC: 19661586
+question : 404 : https://www.zhihu.com/question/39544602
+
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382765744
+
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382700657
+
+question : 404 : https://www.zhihu.com/question/275566365
+
+answer : 404 : https://www.zhihu.com/question/275566365/answer/381176766
+
+answer : 404 : https://www.zhihu.com/question/39544602/answer/387579672
+
+CHECKING TOPIC: 19553911
+question : 404 : https://www.zhihu.com/question/274386511
+
+answer : 404 : https://www.zhihu.com/question/274386511/answer/375940367
+
+question : 404 : https://www.zhihu.com/question/274340450
+
+answer : 404 : https://www.zhihu.com/question/274340450/answer/377183264
+
+article : 404 : https://zhuanlan.zhihu.com/p/36141968
+
+article : 404 : https://zhuanlan.zhihu.com/p/36354382
+
+article : 404 : https://zhuanlan.zhihu.com/p/36337338
+
+CHECKING TOPIC: 19604685
+question : 404 : https://www.zhihu.com/question/63217696
+
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360266807
+
+answer : 404 : https://www.zhihu.com/question/63217696/answer/361136539
+
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360745118
+
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360125494
+
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360960710
+
+answer : 404 : https://www.zhihu.com/question/63217696/answer/361181988
+
+answer : 404 : https://www.zhihu.com/question/63217696/answer/361368686
+
+CHECKING TOPIC: 19578134
+question : 404 : https://www.zhihu.com/question/274510694
+
+article : 404 : https://zhuanlan.zhihu.com/p/36033667
+
+article : 404 : https://zhuanlan.zhihu.com/p/36067568
+
+article : 404 : https://zhuanlan.zhihu.com/p/36478741
+
+article : 404 : https://zhuanlan.zhihu.com/p/36111919
+
+answer : 404 : https://www.zhihu.com/question/274510694/answer/375438754
+
+CHECKING TOPIC: 19790643
+CHECKING TOPIC: 20143250
+CHECKING TOPIC: 19577684
+CHECKING TOPIC: 19580621
+POTENTIALLY CENSORED: 
+
+question : 404 : https://www.zhihu.com/question/20508321
+answer : 404 : https://www.zhihu.com/question/20508321/answer/359957756
+answer : 404 : https://www.zhihu.com/question/270621469/answer/360327135
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360585851
+question : 404 : https://www.zhihu.com/question/270415168
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360139666
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360531602
+question : 404 : https://www.zhihu.com/question/270621469
+answer : 404 : https://www.zhihu.com/question/270621469/answer/360779666
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360451509
+article : 404 : https://zhuanlan.zhihu.com/p/36057892
+article : 404 : https://zhuanlan.zhihu.com/p/36111919
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382765744
+answer : 404 : https://www.zhihu.com/question/276567133/answer/389122202
+answer : 404 : https://www.zhihu.com/question/57096610/answer/383970500
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382700657
+question : 404 : https://www.zhihu.com/question/57096610
+question : 404 : https://www.zhihu.com/question/275566365
+question : 404 : https://www.zhihu.com/question/37338939
+question : 404 : https://www.zhihu.com/question/276567133
+answer : 404 : https://www.zhihu.com/question/37338939/answer/361799600
+answer : 404 : https://www.zhihu.com/question/57096610/answer/384116518
+article : 404 : https://zhuanlan.zhihu.com/p/36111919
+question : 404 : https://www.zhihu.com/question/39544602
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382765744
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382700657
+question : 404 : https://www.zhihu.com/question/275566365
+answer : 404 : https://www.zhihu.com/question/275566365/answer/381176766
+answer : 404 : https://www.zhihu.com/question/39544602/answer/387579672
+question : 404 : https://www.zhihu.com/question/274386511
+answer : 404 : https://www.zhihu.com/question/274386511/answer/375940367
+question : 404 : https://www.zhihu.com/question/274340450
+answer : 404 : https://www.zhihu.com/question/274340450/answer/377183264
+article : 404 : https://zhuanlan.zhihu.com/p/36141968
+article : 404 : https://zhuanlan.zhihu.com/p/36354382
+article : 404 : https://zhuanlan.zhihu.com/p/36337338
+question : 404 : https://www.zhihu.com/question/63217696
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360266807
+answer : 404 : https://www.zhihu.com/question/63217696/answer/361136539
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360745118
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360125494
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360960710
+answer : 404 : https://www.zhihu.com/question/63217696/answer/361181988
+answer : 404 : https://www.zhihu.com/question/63217696/answer/361368686
+question : 404 : https://www.zhihu.com/question/274510694
+article : 404 : https://zhuanlan.zhihu.com/p/36033667
+article : 404 : https://zhuanlan.zhihu.com/p/36067568
+article : 404 : https://zhuanlan.zhihu.com/p/36478741
+article : 404 : https://zhuanlan.zhihu.com/p/36111919
+answer : 404 : https://www.zhihu.com/question/274510694/answer/375438754
+
+2018-05-24 04:09:26.107551
+CHECKING TOPIC: 19612705
+question : 404 : https://www.zhihu.com/question/20508321
+
+answer : 404 : https://www.zhihu.com/question/20508321/answer/359957756
+
+CHECKING TOPIC: 19570500
+answer : 404 : https://www.zhihu.com/question/270621469/answer/360327135
+
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360585851
+
+question : 404 : https://www.zhihu.com/question/270415168
+
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360139666
+
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360531602
+
+question : 404 : https://www.zhihu.com/question/270621469
+
+answer : 404 : https://www.zhihu.com/question/270621469/answer/360779666
+
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360451509
+
+CHECKING TOPIC: 19550842
+article : 404 : https://zhuanlan.zhihu.com/p/36057892
+
+article : 404 : https://zhuanlan.zhihu.com/p/36111919
+
+CHECKING TOPIC: 20045556
+CHECKING TOPIC: 19553437
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382765744
+
+answer : 404 : https://www.zhihu.com/question/276567133/answer/389122202
+
+answer : 404 : https://www.zhihu.com/question/57096610/answer/383970500
+
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382700657
+
+question : 404 : https://www.zhihu.com/question/57096610
+
+question : 404 : https://www.zhihu.com/question/275566365
+
+question : 404 : https://www.zhihu.com/question/37338939
+
+question : 404 : https://www.zhihu.com/question/276567133
+
+answer : 404 : https://www.zhihu.com/question/37338939/answer/361799600
+
+answer : 404 : https://www.zhihu.com/question/57096610/answer/384116518
+
+article : 404 : https://zhuanlan.zhihu.com/p/36111919
+
+CHECKING TOPIC: 19661586
+question : 404 : https://www.zhihu.com/question/39544602
+
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382765744
+
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382700657
+
+question : 404 : https://www.zhihu.com/question/275566365
+
+answer : 404 : https://www.zhihu.com/question/275566365/answer/381176766
+
+answer : 404 : https://www.zhihu.com/question/39544602/answer/387579672
+
+CHECKING TOPIC: 19553911
+question : 404 : https://www.zhihu.com/question/274386511
+
+answer : 404 : https://www.zhihu.com/question/274386511/answer/375940367
+
+question : 404 : https://www.zhihu.com/question/274340450
+
+answer : 404 : https://www.zhihu.com/question/274340450/answer/377183264
+
+article : 404 : https://zhuanlan.zhihu.com/p/36141968
+
+article : 404 : https://zhuanlan.zhihu.com/p/36354382
+
+article : 404 : https://zhuanlan.zhihu.com/p/36337338
+
+CHECKING TOPIC: 19604685
+question : 404 : https://www.zhihu.com/question/63217696
+
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360266807
+
+answer : 404 : https://www.zhihu.com/question/63217696/answer/361136539
+
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360745118
+
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360125494
+
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360960710
+
+answer : 404 : https://www.zhihu.com/question/63217696/answer/361181988
+
+answer : 404 : https://www.zhihu.com/question/63217696/answer/361368686
+
+CHECKING TOPIC: 19578134
+question : 404 : https://www.zhihu.com/question/274510694
+
+article : 404 : https://zhuanlan.zhihu.com/p/36033667
+
+article : 404 : https://zhuanlan.zhihu.com/p/36067568
+
+article : 404 : https://zhuanlan.zhihu.com/p/36478741
+
+article : 404 : https://zhuanlan.zhihu.com/p/36111919
+
+answer : 404 : https://www.zhihu.com/question/274510694/answer/375438754
+
+CHECKING TOPIC: 19790643
+CHECKING TOPIC: 20143250
+CHECKING TOPIC: 19577684
+CHECKING TOPIC: 19580621
+POTENTIALLY CENSORED: 
+
+question : 404 : https://www.zhihu.com/question/20508321
+answer : 404 : https://www.zhihu.com/question/20508321/answer/359957756
+answer : 404 : https://www.zhihu.com/question/270621469/answer/360327135
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360585851
+question : 404 : https://www.zhihu.com/question/270415168
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360139666
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360531602
+question : 404 : https://www.zhihu.com/question/270621469
+answer : 404 : https://www.zhihu.com/question/270621469/answer/360779666
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360451509
+article : 404 : https://zhuanlan.zhihu.com/p/36057892
+article : 404 : https://zhuanlan.zhihu.com/p/36111919
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382765744
+answer : 404 : https://www.zhihu.com/question/276567133/answer/389122202
+answer : 404 : https://www.zhihu.com/question/57096610/answer/383970500
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382700657
+question : 404 : https://www.zhihu.com/question/57096610
+question : 404 : https://www.zhihu.com/question/275566365
+question : 404 : https://www.zhihu.com/question/37338939
+question : 404 : https://www.zhihu.com/question/276567133
+answer : 404 : https://www.zhihu.com/question/37338939/answer/361799600
+answer : 404 : https://www.zhihu.com/question/57096610/answer/384116518
+article : 404 : https://zhuanlan.zhihu.com/p/36111919
+question : 404 : https://www.zhihu.com/question/39544602
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382765744
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382700657
+question : 404 : https://www.zhihu.com/question/275566365
+answer : 404 : https://www.zhihu.com/question/275566365/answer/381176766
+answer : 404 : https://www.zhihu.com/question/39544602/answer/387579672
+question : 404 : https://www.zhihu.com/question/274386511
+answer : 404 : https://www.zhihu.com/question/274386511/answer/375940367
+question : 404 : https://www.zhihu.com/question/274340450
+answer : 404 : https://www.zhihu.com/question/274340450/answer/377183264
+article : 404 : https://zhuanlan.zhihu.com/p/36141968
+article : 404 : https://zhuanlan.zhihu.com/p/36354382
+article : 404 : https://zhuanlan.zhihu.com/p/36337338
+question : 404 : https://www.zhihu.com/question/63217696
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360266807
+answer : 404 : https://www.zhihu.com/question/63217696/answer/361136539
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360745118
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360125494
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360960710
+answer : 404 : https://www.zhihu.com/question/63217696/answer/361181988
+answer : 404 : https://www.zhihu.com/question/63217696/answer/361368686
+question : 404 : https://www.zhihu.com/question/274510694
+article : 404 : https://zhuanlan.zhihu.com/p/36033667
+article : 404 : https://zhuanlan.zhihu.com/p/36067568
+article : 404 : https://zhuanlan.zhihu.com/p/36478741
+article : 404 : https://zhuanlan.zhihu.com/p/36111919
+answer : 404 : https://www.zhihu.com/question/274510694/answer/375438754
+
+2018-05-24 15:24:52.826850
+CHECKING TOPIC: 19612705
+question : 404 : https://www.zhihu.com/question/20508321
+
+answer : 404 : https://www.zhihu.com/question/20508321/answer/359957756
+
+CHECKING TOPIC: 19570500
+answer : 404 : https://www.zhihu.com/question/270621469/answer/360327135
+
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360585851
+
+question : 404 : https://www.zhihu.com/question/270415168
+
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360139666
+
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360531602
+
+question : 404 : https://www.zhihu.com/question/270621469
+
+answer : 404 : https://www.zhihu.com/question/270621469/answer/360779666
+
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360451509
+
+CHECKING TOPIC: 19550842
+article : 404 : https://zhuanlan.zhihu.com/p/36057892
+
+article : 404 : https://zhuanlan.zhihu.com/p/36111919
+
+CHECKING TOPIC: 20045556
+CHECKING TOPIC: 19553437
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382765744
+
+answer : 404 : https://www.zhihu.com/question/276567133/answer/389122202
+
+answer : 404 : https://www.zhihu.com/question/57096610/answer/383970500
+
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382700657
+
+question : 404 : https://www.zhihu.com/question/57096610
+
+question : 404 : https://www.zhihu.com/question/275566365
+
+question : 404 : https://www.zhihu.com/question/37338939
+
+question : 404 : https://www.zhihu.com/question/276567133
+
+answer : 404 : https://www.zhihu.com/question/37338939/answer/361799600
+
+answer : 404 : https://www.zhihu.com/question/57096610/answer/384116518
+
+article : 404 : https://zhuanlan.zhihu.com/p/36111919
+
+CHECKING TOPIC: 19661586
+question : 404 : https://www.zhihu.com/question/39544602
+
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382765744
+
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382700657
+
+question : 404 : https://www.zhihu.com/question/275566365
+
+answer : 404 : https://www.zhihu.com/question/275566365/answer/381176766
+
+answer : 404 : https://www.zhihu.com/question/39544602/answer/387579672
+
+CHECKING TOPIC: 19553911
+question : 404 : https://www.zhihu.com/question/274386511
+
+answer : 404 : https://www.zhihu.com/question/274386511/answer/375940367
+
+question : 404 : https://www.zhihu.com/question/274340450
+
+answer : 404 : https://www.zhihu.com/question/274340450/answer/377183264
+
+article : 404 : https://zhuanlan.zhihu.com/p/36141968
+
+article : 404 : https://zhuanlan.zhihu.com/p/36354382
+
+article : 404 : https://zhuanlan.zhihu.com/p/36337338
+
+CHECKING TOPIC: 19604685
+question : 404 : https://www.zhihu.com/question/63217696
+
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360266807
+
+answer : 404 : https://www.zhihu.com/question/63217696/answer/361136539
+
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360745118
+
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360125494
+
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360960710
+
+answer : 404 : https://www.zhihu.com/question/63217696/answer/361181988
+
+answer : 404 : https://www.zhihu.com/question/63217696/answer/361368686
+
+CHECKING TOPIC: 19578134
+question : 404 : https://www.zhihu.com/question/274510694
+
+article : 404 : https://zhuanlan.zhihu.com/p/36033667
+
+article : 404 : https://zhuanlan.zhihu.com/p/36067568
+
+article : 404 : https://zhuanlan.zhihu.com/p/36478741
+
+article : 404 : https://zhuanlan.zhihu.com/p/36111919
+
+answer : 404 : https://www.zhihu.com/question/274510694/answer/375438754
+
+CHECKING TOPIC: 19790643
+CHECKING TOPIC: 20143250
+CHECKING TOPIC: 19577684
+CHECKING TOPIC: 19580621
+POTENTIALLY CENSORED: 
+
+question : 404 : https://www.zhihu.com/question/20508321
+answer : 404 : https://www.zhihu.com/question/20508321/answer/359957756
+answer : 404 : https://www.zhihu.com/question/270621469/answer/360327135
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360585851
+question : 404 : https://www.zhihu.com/question/270415168
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360139666
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360531602
+question : 404 : https://www.zhihu.com/question/270621469
+answer : 404 : https://www.zhihu.com/question/270621469/answer/360779666
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360451509
+article : 404 : https://zhuanlan.zhihu.com/p/36057892
+article : 404 : https://zhuanlan.zhihu.com/p/36111919
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382765744
+answer : 404 : https://www.zhihu.com/question/276567133/answer/389122202
+answer : 404 : https://www.zhihu.com/question/57096610/answer/383970500
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382700657
+question : 404 : https://www.zhihu.com/question/57096610
+question : 404 : https://www.zhihu.com/question/275566365
+question : 404 : https://www.zhihu.com/question/37338939
+question : 404 : https://www.zhihu.com/question/276567133
+answer : 404 : https://www.zhihu.com/question/37338939/answer/361799600
+answer : 404 : https://www.zhihu.com/question/57096610/answer/384116518
+article : 404 : https://zhuanlan.zhihu.com/p/36111919
+question : 404 : https://www.zhihu.com/question/39544602
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382765744
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382700657
+question : 404 : https://www.zhihu.com/question/275566365
+answer : 404 : https://www.zhihu.com/question/275566365/answer/381176766
+answer : 404 : https://www.zhihu.com/question/39544602/answer/387579672
+question : 404 : https://www.zhihu.com/question/274386511
+answer : 404 : https://www.zhihu.com/question/274386511/answer/375940367
+question : 404 : https://www.zhihu.com/question/274340450
+answer : 404 : https://www.zhihu.com/question/274340450/answer/377183264
+article : 404 : https://zhuanlan.zhihu.com/p/36141968
+article : 404 : https://zhuanlan.zhihu.com/p/36354382
+article : 404 : https://zhuanlan.zhihu.com/p/36337338
+question : 404 : https://www.zhihu.com/question/63217696
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360266807
+answer : 404 : https://www.zhihu.com/question/63217696/answer/361136539
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360745118
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360125494
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360960710
+answer : 404 : https://www.zhihu.com/question/63217696/answer/361181988
+answer : 404 : https://www.zhihu.com/question/63217696/answer/361368686
+question : 404 : https://www.zhihu.com/question/274510694
+article : 404 : https://zhuanlan.zhihu.com/p/36033667
+article : 404 : https://zhuanlan.zhihu.com/p/36067568
+article : 404 : https://zhuanlan.zhihu.com/p/36478741
+article : 404 : https://zhuanlan.zhihu.com/p/36111919
+answer : 404 : https://www.zhihu.com/question/274510694/answer/375438754
+
+2018-05-25 02:43:11.326731
+CHECKING TOPIC: 19612705
+question : 404 : https://www.zhihu.com/question/20508321
+
+answer : 404 : https://www.zhihu.com/question/20508321/answer/359957756
+
+CHECKING TOPIC: 19570500
+answer : 404 : https://www.zhihu.com/question/270621469/answer/360327135
+
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360585851
+
+question : 404 : https://www.zhihu.com/question/270415168
+
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360139666
+
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360531602
+
+question : 404 : https://www.zhihu.com/question/270621469
+
+answer : 404 : https://www.zhihu.com/question/270621469/answer/360779666
+
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360451509
+
+CHECKING TOPIC: 19550842
+article : 404 : https://zhuanlan.zhihu.com/p/36057892
+
+article : 404 : https://zhuanlan.zhihu.com/p/36111919
+
+CHECKING TOPIC: 20045556
+CHECKING TOPIC: 19553437
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382765744
+
+answer : 404 : https://www.zhihu.com/question/276567133/answer/389122202
+
+answer : 404 : https://www.zhihu.com/question/57096610/answer/383970500
+
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382700657
+
+question : 404 : https://www.zhihu.com/question/57096610
+
+question : 404 : https://www.zhihu.com/question/275566365
+
+question : 404 : https://www.zhihu.com/question/37338939
+
+question : 404 : https://www.zhihu.com/question/276567133
+
+answer : 404 : https://www.zhihu.com/question/37338939/answer/361799600
+
+answer : 404 : https://www.zhihu.com/question/57096610/answer/384116518
+
+article : 404 : https://zhuanlan.zhihu.com/p/36111919
+
+CHECKING TOPIC: 19661586
+question : 404 : https://www.zhihu.com/question/39544602
+
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382765744
+
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382700657
+
+question : 404 : https://www.zhihu.com/question/275566365
+
+answer : 404 : https://www.zhihu.com/question/275566365/answer/381176766
+
+answer : 404 : https://www.zhihu.com/question/39544602/answer/387579672
+
+CHECKING TOPIC: 19553911
+question : 404 : https://www.zhihu.com/question/274386511
+
+answer : 404 : https://www.zhihu.com/question/274386511/answer/375940367
+
+question : 404 : https://www.zhihu.com/question/274340450
+
+answer : 404 : https://www.zhihu.com/question/274340450/answer/377183264
+
+article : 404 : https://zhuanlan.zhihu.com/p/36141968
+
+article : 404 : https://zhuanlan.zhihu.com/p/36354382
+
+article : 404 : https://zhuanlan.zhihu.com/p/36337338
+
+CHECKING TOPIC: 19604685
+question : 404 : https://www.zhihu.com/question/63217696
+
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360266807
+
+answer : 404 : https://www.zhihu.com/question/63217696/answer/361136539
+
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360745118
+
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360125494
+
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360960710
+
+answer : 404 : https://www.zhihu.com/question/63217696/answer/361181988
+
+answer : 404 : https://www.zhihu.com/question/63217696/answer/361368686
+
+CHECKING TOPIC: 19578134
+question : 404 : https://www.zhihu.com/question/274510694
+
+article : 404 : https://zhuanlan.zhihu.com/p/36033667
+
+article : 404 : https://zhuanlan.zhihu.com/p/36067568
+
+article : 404 : https://zhuanlan.zhihu.com/p/36478741
+
+article : 404 : https://zhuanlan.zhihu.com/p/36111919
+
+answer : 404 : https://www.zhihu.com/question/274510694/answer/375438754
+
+CHECKING TOPIC: 19790643
+CHECKING TOPIC: 20143250
+CHECKING TOPIC: 19577684
+CHECKING TOPIC: 19580621
+POTENTIALLY CENSORED: 
+
+question : 404 : https://www.zhihu.com/question/20508321
+answer : 404 : https://www.zhihu.com/question/20508321/answer/359957756
+answer : 404 : https://www.zhihu.com/question/270621469/answer/360327135
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360585851
+question : 404 : https://www.zhihu.com/question/270415168
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360139666
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360531602
+question : 404 : https://www.zhihu.com/question/270621469
+answer : 404 : https://www.zhihu.com/question/270621469/answer/360779666
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360451509
+article : 404 : https://zhuanlan.zhihu.com/p/36057892
+article : 404 : https://zhuanlan.zhihu.com/p/36111919
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382765744
+answer : 404 : https://www.zhihu.com/question/276567133/answer/389122202
+answer : 404 : https://www.zhihu.com/question/57096610/answer/383970500
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382700657
+question : 404 : https://www.zhihu.com/question/57096610
+question : 404 : https://www.zhihu.com/question/275566365
+question : 404 : https://www.zhihu.com/question/37338939
+question : 404 : https://www.zhihu.com/question/276567133
+answer : 404 : https://www.zhihu.com/question/37338939/answer/361799600
+answer : 404 : https://www.zhihu.com/question/57096610/answer/384116518
+article : 404 : https://zhuanlan.zhihu.com/p/36111919
+question : 404 : https://www.zhihu.com/question/39544602
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382765744
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382700657
+question : 404 : https://www.zhihu.com/question/275566365
+answer : 404 : https://www.zhihu.com/question/275566365/answer/381176766
+answer : 404 : https://www.zhihu.com/question/39544602/answer/387579672
+question : 404 : https://www.zhihu.com/question/274386511
+answer : 404 : https://www.zhihu.com/question/274386511/answer/375940367
+question : 404 : https://www.zhihu.com/question/274340450
+answer : 404 : https://www.zhihu.com/question/274340450/answer/377183264
+article : 404 : https://zhuanlan.zhihu.com/p/36141968
+article : 404 : https://zhuanlan.zhihu.com/p/36354382
+article : 404 : https://zhuanlan.zhihu.com/p/36337338
+question : 404 : https://www.zhihu.com/question/63217696
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360266807
+answer : 404 : https://www.zhihu.com/question/63217696/answer/361136539
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360745118
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360125494
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360960710
+answer : 404 : https://www.zhihu.com/question/63217696/answer/361181988
+answer : 404 : https://www.zhihu.com/question/63217696/answer/361368686
+question : 404 : https://www.zhihu.com/question/274510694
+article : 404 : https://zhuanlan.zhihu.com/p/36033667
+article : 404 : https://zhuanlan.zhihu.com/p/36067568
+article : 404 : https://zhuanlan.zhihu.com/p/36478741
+article : 404 : https://zhuanlan.zhihu.com/p/36111919
+answer : 404 : https://www.zhihu.com/question/274510694/answer/375438754
+
+2018-05-25 13:58:52.512638
+CHECKING TOPIC: 19612705
+question : 404 : https://www.zhihu.com/question/20508321
+
+answer : 404 : https://www.zhihu.com/question/20508321/answer/359957756
+
+CHECKING TOPIC: 19570500
+answer : 404 : https://www.zhihu.com/question/270621469/answer/360327135
+
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360585851
+
+question : 404 : https://www.zhihu.com/question/270415168
+
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360139666
+
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360531602
+
+question : 404 : https://www.zhihu.com/question/270621469
+
+answer : 404 : https://www.zhihu.com/question/270621469/answer/360779666
+
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360451509
+
+CHECKING TOPIC: 19550842
+article : 404 : https://zhuanlan.zhihu.com/p/36057892
+
+article : 404 : https://zhuanlan.zhihu.com/p/36111919
+
+CHECKING TOPIC: 20045556
+CHECKING TOPIC: 19553437
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382765744
+
+answer : 404 : https://www.zhihu.com/question/276567133/answer/389122202
+
+answer : 404 : https://www.zhihu.com/question/57096610/answer/383970500
+
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382700657
+
+question : 404 : https://www.zhihu.com/question/57096610
+
+question : 404 : https://www.zhihu.com/question/275566365
+
+question : 404 : https://www.zhihu.com/question/37338939
+
+question : 404 : https://www.zhihu.com/question/276567133
+
+answer : 404 : https://www.zhihu.com/question/37338939/answer/361799600
+
+answer : 404 : https://www.zhihu.com/question/57096610/answer/384116518
+
+article : 404 : https://zhuanlan.zhihu.com/p/36111919
+
+CHECKING TOPIC: 19661586
+question : 404 : https://www.zhihu.com/question/39544602
+
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382765744
+
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382700657
+
+question : 404 : https://www.zhihu.com/question/275566365
+
+answer : 404 : https://www.zhihu.com/question/275566365/answer/381176766
+
+answer : 404 : https://www.zhihu.com/question/39544602/answer/387579672
+
+CHECKING TOPIC: 19553911
+question : 404 : https://www.zhihu.com/question/274386511
+
+answer : 404 : https://www.zhihu.com/question/274386511/answer/375940367
+
+question : 404 : https://www.zhihu.com/question/274340450
+
+answer : 404 : https://www.zhihu.com/question/274340450/answer/377183264
+
+article : 404 : https://zhuanlan.zhihu.com/p/36141968
+
+article : 404 : https://zhuanlan.zhihu.com/p/36354382
+
+article : 404 : https://zhuanlan.zhihu.com/p/36337338
+
+CHECKING TOPIC: 19604685
+question : 404 : https://www.zhihu.com/question/63217696
+
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360266807
+
+answer : 404 : https://www.zhihu.com/question/63217696/answer/361136539
+
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360745118
+
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360125494
+
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360960710
+
+answer : 404 : https://www.zhihu.com/question/63217696/answer/361181988
+
+answer : 404 : https://www.zhihu.com/question/63217696/answer/361368686
+
+CHECKING TOPIC: 19578134
+question : 404 : https://www.zhihu.com/question/274510694
+
+article : 404 : https://zhuanlan.zhihu.com/p/36033667
+
+article : 404 : https://zhuanlan.zhihu.com/p/36067568
+
+article : 404 : https://zhuanlan.zhihu.com/p/36478741
+
+article : 404 : https://zhuanlan.zhihu.com/p/36111919
+
+answer : 404 : https://www.zhihu.com/question/274510694/answer/375438754
+
+CHECKING TOPIC: 19790643
+CHECKING TOPIC: 20143250
+CHECKING TOPIC: 19577684
+CHECKING TOPIC: 19580621
+POTENTIALLY CENSORED: 
+
+question : 404 : https://www.zhihu.com/question/20508321
+answer : 404 : https://www.zhihu.com/question/20508321/answer/359957756
+answer : 404 : https://www.zhihu.com/question/270621469/answer/360327135
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360585851
+question : 404 : https://www.zhihu.com/question/270415168
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360139666
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360531602
+question : 404 : https://www.zhihu.com/question/270621469
+answer : 404 : https://www.zhihu.com/question/270621469/answer/360779666
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360451509
+article : 404 : https://zhuanlan.zhihu.com/p/36057892
+article : 404 : https://zhuanlan.zhihu.com/p/36111919
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382765744
+answer : 404 : https://www.zhihu.com/question/276567133/answer/389122202
+answer : 404 : https://www.zhihu.com/question/57096610/answer/383970500
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382700657
+question : 404 : https://www.zhihu.com/question/57096610
+question : 404 : https://www.zhihu.com/question/275566365
+question : 404 : https://www.zhihu.com/question/37338939
+question : 404 : https://www.zhihu.com/question/276567133
+answer : 404 : https://www.zhihu.com/question/37338939/answer/361799600
+answer : 404 : https://www.zhihu.com/question/57096610/answer/384116518
+article : 404 : https://zhuanlan.zhihu.com/p/36111919
+question : 404 : https://www.zhihu.com/question/39544602
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382765744
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382700657
+question : 404 : https://www.zhihu.com/question/275566365
+answer : 404 : https://www.zhihu.com/question/275566365/answer/381176766
+answer : 404 : https://www.zhihu.com/question/39544602/answer/387579672
+question : 404 : https://www.zhihu.com/question/274386511
+answer : 404 : https://www.zhihu.com/question/274386511/answer/375940367
+question : 404 : https://www.zhihu.com/question/274340450
+answer : 404 : https://www.zhihu.com/question/274340450/answer/377183264
+article : 404 : https://zhuanlan.zhihu.com/p/36141968
+article : 404 : https://zhuanlan.zhihu.com/p/36354382
+article : 404 : https://zhuanlan.zhihu.com/p/36337338
+question : 404 : https://www.zhihu.com/question/63217696
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360266807
+answer : 404 : https://www.zhihu.com/question/63217696/answer/361136539
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360745118
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360125494
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360960710
+answer : 404 : https://www.zhihu.com/question/63217696/answer/361181988
+answer : 404 : https://www.zhihu.com/question/63217696/answer/361368686
+question : 404 : https://www.zhihu.com/question/274510694
+article : 404 : https://zhuanlan.zhihu.com/p/36033667
+article : 404 : https://zhuanlan.zhihu.com/p/36067568
+article : 404 : https://zhuanlan.zhihu.com/p/36478741
+article : 404 : https://zhuanlan.zhihu.com/p/36111919
+answer : 404 : https://www.zhihu.com/question/274510694/answer/375438754
+
+2018-05-26 01:15:30.967990
+CHECKING TOPIC: 19612705
+question : 404 : https://www.zhihu.com/question/20508321
+
+answer : 404 : https://www.zhihu.com/question/20508321/answer/359957756
+
+CHECKING TOPIC: 19570500
+answer : 404 : https://www.zhihu.com/question/270621469/answer/360327135
+
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360585851
+
+question : 404 : https://www.zhihu.com/question/270415168
+
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360139666
+
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360531602
+
+question : 404 : https://www.zhihu.com/question/270621469
+
+answer : 404 : https://www.zhihu.com/question/270621469/answer/360779666
+
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360451509
+
+CHECKING TOPIC: 19550842
+article : 404 : https://zhuanlan.zhihu.com/p/36057892
+
+article : 404 : https://zhuanlan.zhihu.com/p/36111919
+
+CHECKING TOPIC: 20045556
+CHECKING TOPIC: 19553437
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382765744
+
+answer : 404 : https://www.zhihu.com/question/276567133/answer/389122202
+
+answer : 404 : https://www.zhihu.com/question/57096610/answer/383970500
+
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382700657
+
+question : 404 : https://www.zhihu.com/question/57096610
+
+question : 404 : https://www.zhihu.com/question/275566365
+
+question : 404 : https://www.zhihu.com/question/37338939
+
+question : 404 : https://www.zhihu.com/question/276567133
+
+answer : 404 : https://www.zhihu.com/question/37338939/answer/361799600
+
+answer : 404 : https://www.zhihu.com/question/57096610/answer/384116518
+
+article : 404 : https://zhuanlan.zhihu.com/p/36111919
+
+CHECKING TOPIC: 19661586
+question : 404 : https://www.zhihu.com/question/39544602
+
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382765744
+
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382700657
+
+question : 404 : https://www.zhihu.com/question/275566365
+
+answer : 404 : https://www.zhihu.com/question/275566365/answer/381176766
+
+answer : 404 : https://www.zhihu.com/question/39544602/answer/387579672
+
+CHECKING TOPIC: 19553911
+question : 404 : https://www.zhihu.com/question/274386511
+
+answer : 404 : https://www.zhihu.com/question/274386511/answer/375940367
+
+question : 404 : https://www.zhihu.com/question/274340450
+
+answer : 404 : https://www.zhihu.com/question/274340450/answer/377183264
+
+article : 404 : https://zhuanlan.zhihu.com/p/36141968
+
+article : 404 : https://zhuanlan.zhihu.com/p/36354382
+
+article : 404 : https://zhuanlan.zhihu.com/p/36337338
+
+CHECKING TOPIC: 19604685
+question : 404 : https://www.zhihu.com/question/63217696
+
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360266807
+
+answer : 404 : https://www.zhihu.com/question/63217696/answer/361136539
+
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360745118
+
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360125494
+
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360960710
+
+answer : 404 : https://www.zhihu.com/question/63217696/answer/361181988
+
+answer : 404 : https://www.zhihu.com/question/63217696/answer/361368686
+
+CHECKING TOPIC: 19578134
+question : 404 : https://www.zhihu.com/question/274510694
+
+article : 404 : https://zhuanlan.zhihu.com/p/36033667
+
+article : 404 : https://zhuanlan.zhihu.com/p/36067568
+
+article : 404 : https://zhuanlan.zhihu.com/p/36478741
+
+article : 404 : https://zhuanlan.zhihu.com/p/36111919
+
+answer : 404 : https://www.zhihu.com/question/274510694/answer/375438754
+
+CHECKING TOPIC: 19790643
+CHECKING TOPIC: 20143250
+CHECKING TOPIC: 19577684
+CHECKING TOPIC: 19580621
+POTENTIALLY CENSORED: 
+
+question : 404 : https://www.zhihu.com/question/20508321
+answer : 404 : https://www.zhihu.com/question/20508321/answer/359957756
+answer : 404 : https://www.zhihu.com/question/270621469/answer/360327135
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360585851
+question : 404 : https://www.zhihu.com/question/270415168
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360139666
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360531602
+question : 404 : https://www.zhihu.com/question/270621469
+answer : 404 : https://www.zhihu.com/question/270621469/answer/360779666
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360451509
+article : 404 : https://zhuanlan.zhihu.com/p/36057892
+article : 404 : https://zhuanlan.zhihu.com/p/36111919
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382765744
+answer : 404 : https://www.zhihu.com/question/276567133/answer/389122202
+answer : 404 : https://www.zhihu.com/question/57096610/answer/383970500
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382700657
+question : 404 : https://www.zhihu.com/question/57096610
+question : 404 : https://www.zhihu.com/question/275566365
+question : 404 : https://www.zhihu.com/question/37338939
+question : 404 : https://www.zhihu.com/question/276567133
+answer : 404 : https://www.zhihu.com/question/37338939/answer/361799600
+answer : 404 : https://www.zhihu.com/question/57096610/answer/384116518
+article : 404 : https://zhuanlan.zhihu.com/p/36111919
+question : 404 : https://www.zhihu.com/question/39544602
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382765744
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382700657
+question : 404 : https://www.zhihu.com/question/275566365
+answer : 404 : https://www.zhihu.com/question/275566365/answer/381176766
+answer : 404 : https://www.zhihu.com/question/39544602/answer/387579672
+question : 404 : https://www.zhihu.com/question/274386511
+answer : 404 : https://www.zhihu.com/question/274386511/answer/375940367
+question : 404 : https://www.zhihu.com/question/274340450
+answer : 404 : https://www.zhihu.com/question/274340450/answer/377183264
+article : 404 : https://zhuanlan.zhihu.com/p/36141968
+article : 404 : https://zhuanlan.zhihu.com/p/36354382
+article : 404 : https://zhuanlan.zhihu.com/p/36337338
+question : 404 : https://www.zhihu.com/question/63217696
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360266807
+answer : 404 : https://www.zhihu.com/question/63217696/answer/361136539
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360745118
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360125494
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360960710
+answer : 404 : https://www.zhihu.com/question/63217696/answer/361181988
+answer : 404 : https://www.zhihu.com/question/63217696/answer/361368686
+question : 404 : https://www.zhihu.com/question/274510694
+article : 404 : https://zhuanlan.zhihu.com/p/36033667
+article : 404 : https://zhuanlan.zhihu.com/p/36067568
+article : 404 : https://zhuanlan.zhihu.com/p/36478741
+article : 404 : https://zhuanlan.zhihu.com/p/36111919
+answer : 404 : https://www.zhihu.com/question/274510694/answer/375438754
+
+2018-05-26 12:31:48.676496
+CHECKING TOPIC: 19612705
+question : 404 : https://www.zhihu.com/question/20508321
+
+answer : 404 : https://www.zhihu.com/question/20508321/answer/359957756
+
+CHECKING TOPIC: 19570500
+answer : 404 : https://www.zhihu.com/question/270621469/answer/360327135
+
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360585851
+
+question : 404 : https://www.zhihu.com/question/270415168
+
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360139666
+
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360531602
+
+question : 404 : https://www.zhihu.com/question/270621469
+
+answer : 404 : https://www.zhihu.com/question/270621469/answer/360779666
+
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360451509
+
+CHECKING TOPIC: 19550842
+article : 404 : https://zhuanlan.zhihu.com/p/36057892
+
+article : 404 : https://zhuanlan.zhihu.com/p/36111919
+
+CHECKING TOPIC: 20045556
+CHECKING TOPIC: 19553437
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382765744
+
+answer : 404 : https://www.zhihu.com/question/276567133/answer/389122202
+
+answer : 404 : https://www.zhihu.com/question/57096610/answer/383970500
+
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382700657
+
+question : 404 : https://www.zhihu.com/question/57096610
+
+question : 404 : https://www.zhihu.com/question/275566365
+
+question : 404 : https://www.zhihu.com/question/37338939
+
+question : 404 : https://www.zhihu.com/question/276567133
+
+answer : 404 : https://www.zhihu.com/question/37338939/answer/361799600
+
+answer : 404 : https://www.zhihu.com/question/57096610/answer/384116518
+
+article : 404 : https://zhuanlan.zhihu.com/p/36111919
+
+CHECKING TOPIC: 19661586
+question : 404 : https://www.zhihu.com/question/39544602
+
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382765744
+
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382700657
+
+question : 404 : https://www.zhihu.com/question/275566365
+
+answer : 404 : https://www.zhihu.com/question/275566365/answer/381176766
+
+answer : 404 : https://www.zhihu.com/question/39544602/answer/387579672
+
+CHECKING TOPIC: 19553911
+question : 404 : https://www.zhihu.com/question/274386511
+
+answer : 404 : https://www.zhihu.com/question/274386511/answer/375940367
+
+question : 404 : https://www.zhihu.com/question/274340450
+
+answer : 404 : https://www.zhihu.com/question/274340450/answer/377183264
+
+article : 404 : https://zhuanlan.zhihu.com/p/36141968
+
+article : 404 : https://zhuanlan.zhihu.com/p/36354382
+
+article : 404 : https://zhuanlan.zhihu.com/p/36337338
+
+CHECKING TOPIC: 19604685
+question : 404 : https://www.zhihu.com/question/63217696
+
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360266807
+
+answer : 404 : https://www.zhihu.com/question/63217696/answer/361136539
+
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360745118
+
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360125494
+
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360960710
+
+answer : 404 : https://www.zhihu.com/question/63217696/answer/361181988
+
+answer : 404 : https://www.zhihu.com/question/63217696/answer/361368686
+
+CHECKING TOPIC: 19578134
+question : 404 : https://www.zhihu.com/question/274510694
+
+article : 404 : https://zhuanlan.zhihu.com/p/36033667
+
+article : 404 : https://zhuanlan.zhihu.com/p/36067568
+
+article : 404 : https://zhuanlan.zhihu.com/p/36478741
+
+article : 404 : https://zhuanlan.zhihu.com/p/36111919
+
+answer : 404 : https://www.zhihu.com/question/274510694/answer/375438754
+
+CHECKING TOPIC: 19790643
+CHECKING TOPIC: 20143250
+CHECKING TOPIC: 19577684
+CHECKING TOPIC: 19580621
+POTENTIALLY CENSORED: 
+
+question : 404 : https://www.zhihu.com/question/20508321
+answer : 404 : https://www.zhihu.com/question/20508321/answer/359957756
+answer : 404 : https://www.zhihu.com/question/270621469/answer/360327135
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360585851
+question : 404 : https://www.zhihu.com/question/270415168
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360139666
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360531602
+question : 404 : https://www.zhihu.com/question/270621469
+answer : 404 : https://www.zhihu.com/question/270621469/answer/360779666
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360451509
+article : 404 : https://zhuanlan.zhihu.com/p/36057892
+article : 404 : https://zhuanlan.zhihu.com/p/36111919
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382765744
+answer : 404 : https://www.zhihu.com/question/276567133/answer/389122202
+answer : 404 : https://www.zhihu.com/question/57096610/answer/383970500
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382700657
+question : 404 : https://www.zhihu.com/question/57096610
+question : 404 : https://www.zhihu.com/question/275566365
+question : 404 : https://www.zhihu.com/question/37338939
+question : 404 : https://www.zhihu.com/question/276567133
+answer : 404 : https://www.zhihu.com/question/37338939/answer/361799600
+answer : 404 : https://www.zhihu.com/question/57096610/answer/384116518
+article : 404 : https://zhuanlan.zhihu.com/p/36111919
+question : 404 : https://www.zhihu.com/question/39544602
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382765744
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382700657
+question : 404 : https://www.zhihu.com/question/275566365
+answer : 404 : https://www.zhihu.com/question/275566365/answer/381176766
+answer : 404 : https://www.zhihu.com/question/39544602/answer/387579672
+question : 404 : https://www.zhihu.com/question/274386511
+answer : 404 : https://www.zhihu.com/question/274386511/answer/375940367
+question : 404 : https://www.zhihu.com/question/274340450
+answer : 404 : https://www.zhihu.com/question/274340450/answer/377183264
+article : 404 : https://zhuanlan.zhihu.com/p/36141968
+article : 404 : https://zhuanlan.zhihu.com/p/36354382
+article : 404 : https://zhuanlan.zhihu.com/p/36337338
+question : 404 : https://www.zhihu.com/question/63217696
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360266807
+answer : 404 : https://www.zhihu.com/question/63217696/answer/361136539
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360745118
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360125494
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360960710
+answer : 404 : https://www.zhihu.com/question/63217696/answer/361181988
+answer : 404 : https://www.zhihu.com/question/63217696/answer/361368686
+question : 404 : https://www.zhihu.com/question/274510694
+article : 404 : https://zhuanlan.zhihu.com/p/36033667
+article : 404 : https://zhuanlan.zhihu.com/p/36067568
+article : 404 : https://zhuanlan.zhihu.com/p/36478741
+article : 404 : https://zhuanlan.zhihu.com/p/36111919
+answer : 404 : https://www.zhihu.com/question/274510694/answer/375438754
+
+2018-05-26 23:50:00.604465
+CHECKING TOPIC: 19612705
+question : 404 : https://www.zhihu.com/question/20508321
+
+answer : 404 : https://www.zhihu.com/question/20508321/answer/359957756
+
+CHECKING TOPIC: 19570500
+answer : 404 : https://www.zhihu.com/question/270621469/answer/360327135
+
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360585851
+
+question : 404 : https://www.zhihu.com/question/270415168
+
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360139666
+
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360531602
+
+question : 404 : https://www.zhihu.com/question/270621469
+
+answer : 404 : https://www.zhihu.com/question/270621469/answer/360779666
+
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360451509
+
+CHECKING TOPIC: 19550842
+article : 404 : https://zhuanlan.zhihu.com/p/36057892
+
+article : 404 : https://zhuanlan.zhihu.com/p/36111919
+
+CHECKING TOPIC: 20045556
+CHECKING TOPIC: 19553437
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382765744
+
+answer : 404 : https://www.zhihu.com/question/276567133/answer/389122202
+
+answer : 404 : https://www.zhihu.com/question/57096610/answer/383970500
+
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382700657
+
+question : 404 : https://www.zhihu.com/question/57096610
+
+question : 404 : https://www.zhihu.com/question/275566365
+
+question : 404 : https://www.zhihu.com/question/37338939
+
+question : 404 : https://www.zhihu.com/question/276567133
+
+answer : 404 : https://www.zhihu.com/question/37338939/answer/361799600
+
+answer : 404 : https://www.zhihu.com/question/57096610/answer/384116518
+
+article : 404 : https://zhuanlan.zhihu.com/p/36111919
+
+CHECKING TOPIC: 19661586
+question : 404 : https://www.zhihu.com/question/39544602
+
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382765744
+
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382700657
+
+question : 404 : https://www.zhihu.com/question/275566365
+
+answer : 404 : https://www.zhihu.com/question/275566365/answer/381176766
+
+answer : 404 : https://www.zhihu.com/question/39544602/answer/387579672
+
+CHECKING TOPIC: 19553911
+question : 404 : https://www.zhihu.com/question/274386511
+
+answer : 404 : https://www.zhihu.com/question/274386511/answer/375940367
+
+question : 404 : https://www.zhihu.com/question/274340450
+
+answer : 404 : https://www.zhihu.com/question/274340450/answer/377183264
+
+article : 404 : https://zhuanlan.zhihu.com/p/36141968
+
+article : 404 : https://zhuanlan.zhihu.com/p/36354382
+
+article : 404 : https://zhuanlan.zhihu.com/p/36337338
+
+CHECKING TOPIC: 19604685
+question : 404 : https://www.zhihu.com/question/63217696
+
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360266807
+
+answer : 404 : https://www.zhihu.com/question/63217696/answer/361136539
+
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360745118
+
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360125494
+
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360960710
+
+answer : 404 : https://www.zhihu.com/question/63217696/answer/361181988
+
+answer : 404 : https://www.zhihu.com/question/63217696/answer/361368686
+
+CHECKING TOPIC: 19578134
+question : 404 : https://www.zhihu.com/question/274510694
+
+article : 404 : https://zhuanlan.zhihu.com/p/36033667
+
+article : 404 : https://zhuanlan.zhihu.com/p/36067568
+
+article : 404 : https://zhuanlan.zhihu.com/p/36478741
+
+article : 404 : https://zhuanlan.zhihu.com/p/36111919
+
+answer : 404 : https://www.zhihu.com/question/274510694/answer/375438754
+
+CHECKING TOPIC: 19790643
+CHECKING TOPIC: 20143250
+CHECKING TOPIC: 19577684
+CHECKING TOPIC: 19580621
+POTENTIALLY CENSORED: 
+
+question : 404 : https://www.zhihu.com/question/20508321
+answer : 404 : https://www.zhihu.com/question/20508321/answer/359957756
+answer : 404 : https://www.zhihu.com/question/270621469/answer/360327135
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360585851
+question : 404 : https://www.zhihu.com/question/270415168
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360139666
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360531602
+question : 404 : https://www.zhihu.com/question/270621469
+answer : 404 : https://www.zhihu.com/question/270621469/answer/360779666
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360451509
+article : 404 : https://zhuanlan.zhihu.com/p/36057892
+article : 404 : https://zhuanlan.zhihu.com/p/36111919
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382765744
+answer : 404 : https://www.zhihu.com/question/276567133/answer/389122202
+answer : 404 : https://www.zhihu.com/question/57096610/answer/383970500
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382700657
+question : 404 : https://www.zhihu.com/question/57096610
+question : 404 : https://www.zhihu.com/question/275566365
+question : 404 : https://www.zhihu.com/question/37338939
+question : 404 : https://www.zhihu.com/question/276567133
+answer : 404 : https://www.zhihu.com/question/37338939/answer/361799600
+answer : 404 : https://www.zhihu.com/question/57096610/answer/384116518
+article : 404 : https://zhuanlan.zhihu.com/p/36111919
+question : 404 : https://www.zhihu.com/question/39544602
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382765744
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382700657
+question : 404 : https://www.zhihu.com/question/275566365
+answer : 404 : https://www.zhihu.com/question/275566365/answer/381176766
+answer : 404 : https://www.zhihu.com/question/39544602/answer/387579672
+question : 404 : https://www.zhihu.com/question/274386511
+answer : 404 : https://www.zhihu.com/question/274386511/answer/375940367
+question : 404 : https://www.zhihu.com/question/274340450
+answer : 404 : https://www.zhihu.com/question/274340450/answer/377183264
+article : 404 : https://zhuanlan.zhihu.com/p/36141968
+article : 404 : https://zhuanlan.zhihu.com/p/36354382
+article : 404 : https://zhuanlan.zhihu.com/p/36337338
+question : 404 : https://www.zhihu.com/question/63217696
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360266807
+answer : 404 : https://www.zhihu.com/question/63217696/answer/361136539
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360745118
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360125494
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360960710
+answer : 404 : https://www.zhihu.com/question/63217696/answer/361181988
+answer : 404 : https://www.zhihu.com/question/63217696/answer/361368686
+question : 404 : https://www.zhihu.com/question/274510694
+article : 404 : https://zhuanlan.zhihu.com/p/36033667
+article : 404 : https://zhuanlan.zhihu.com/p/36067568
+article : 404 : https://zhuanlan.zhihu.com/p/36478741
+article : 404 : https://zhuanlan.zhihu.com/p/36111919
+answer : 404 : https://www.zhihu.com/question/274510694/answer/375438754
+
+2018-05-27 11:04:18.537683
+CHECKING TOPIC: 19612705
+question : 404 : https://www.zhihu.com/question/20508321
+
+answer : 404 : https://www.zhihu.com/question/20508321/answer/359957756
+
+CHECKING TOPIC: 19570500
+answer : 404 : https://www.zhihu.com/question/270621469/answer/360327135
+
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360585851
+
+question : 404 : https://www.zhihu.com/question/270415168
+
+question : 500 : https://www.zhihu.com/question/265961689
+
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360139666
+
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360531602
+
+question : 404 : https://www.zhihu.com/question/270621469
+
+answer : 404 : https://www.zhihu.com/question/270621469/answer/360779666
+
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360451509
+
+CHECKING TOPIC: 19550842
+article : 404 : https://zhuanlan.zhihu.com/p/36057892
+
+article : 404 : https://zhuanlan.zhihu.com/p/36111919
+
+CHECKING TOPIC: 20045556
+CHECKING TOPIC: 19553437
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382765744
+
+answer : 404 : https://www.zhihu.com/question/276567133/answer/389122202
+
+answer : 404 : https://www.zhihu.com/question/57096610/answer/383970500
+
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382700657
+
+question : 404 : https://www.zhihu.com/question/57096610
+
+question : 404 : https://www.zhihu.com/question/275566365
+
+question : 404 : https://www.zhihu.com/question/37338939
+
+question : 404 : https://www.zhihu.com/question/276567133
+
+answer : 404 : https://www.zhihu.com/question/37338939/answer/361799600
+
+answer : 404 : https://www.zhihu.com/question/57096610/answer/384116518
+
+article : 404 : https://zhuanlan.zhihu.com/p/36111919
+
+CHECKING TOPIC: 19661586
+question : 404 : https://www.zhihu.com/question/39544602
+
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382765744
+
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382700657
+
+question : 404 : https://www.zhihu.com/question/275566365
+
+answer : 404 : https://www.zhihu.com/question/275566365/answer/381176766
+
+answer : 404 : https://www.zhihu.com/question/39544602/answer/387579672
+
+CHECKING TOPIC: 19553911
+question : 404 : https://www.zhihu.com/question/274386511
+
+answer : 404 : https://www.zhihu.com/question/274386511/answer/375940367
+
+question : 404 : https://www.zhihu.com/question/274340450
+
+answer : 404 : https://www.zhihu.com/question/274340450/answer/377183264
+
+article : 404 : https://zhuanlan.zhihu.com/p/36141968
+
+article : 404 : https://zhuanlan.zhihu.com/p/36354382
+
+article : 404 : https://zhuanlan.zhihu.com/p/36337338
+
+CHECKING TOPIC: 19604685
+question : 404 : https://www.zhihu.com/question/63217696
+
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360266807
+
+answer : 404 : https://www.zhihu.com/question/63217696/answer/361136539
+
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360745118
+
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360125494
+
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360960710
+
+answer : 404 : https://www.zhihu.com/question/63217696/answer/361181988
+
+answer : 404 : https://www.zhihu.com/question/63217696/answer/361368686
+
+CHECKING TOPIC: 19578134
+question : 404 : https://www.zhihu.com/question/274510694
+
+article : 404 : https://zhuanlan.zhihu.com/p/36033667
+
+article : 404 : https://zhuanlan.zhihu.com/p/36067568
+
+article : 404 : https://zhuanlan.zhihu.com/p/36478741
+
+article : 404 : https://zhuanlan.zhihu.com/p/36111919
+
+answer : 404 : https://www.zhihu.com/question/274510694/answer/375438754
+
+CHECKING TOPIC: 19790643
+CHECKING TOPIC: 20143250
+CHECKING TOPIC: 19577684
+CHECKING TOPIC: 19580621
+POTENTIALLY CENSORED: 
+
+question : 404 : https://www.zhihu.com/question/20508321
+answer : 404 : https://www.zhihu.com/question/20508321/answer/359957756
+answer : 404 : https://www.zhihu.com/question/270621469/answer/360327135
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360585851
+question : 404 : https://www.zhihu.com/question/270415168
+question : 500 : https://www.zhihu.com/question/265961689
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360139666
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360531602
+question : 404 : https://www.zhihu.com/question/270621469
+answer : 404 : https://www.zhihu.com/question/270621469/answer/360779666
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360451509
+article : 404 : https://zhuanlan.zhihu.com/p/36057892
+article : 404 : https://zhuanlan.zhihu.com/p/36111919
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382765744
+answer : 404 : https://www.zhihu.com/question/276567133/answer/389122202
+answer : 404 : https://www.zhihu.com/question/57096610/answer/383970500
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382700657
+question : 404 : https://www.zhihu.com/question/57096610
+question : 404 : https://www.zhihu.com/question/275566365
+question : 404 : https://www.zhihu.com/question/37338939
+question : 404 : https://www.zhihu.com/question/276567133
+answer : 404 : https://www.zhihu.com/question/37338939/answer/361799600
+answer : 404 : https://www.zhihu.com/question/57096610/answer/384116518
+article : 404 : https://zhuanlan.zhihu.com/p/36111919
+question : 404 : https://www.zhihu.com/question/39544602
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382765744
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382700657
+question : 404 : https://www.zhihu.com/question/275566365
+answer : 404 : https://www.zhihu.com/question/275566365/answer/381176766
+answer : 404 : https://www.zhihu.com/question/39544602/answer/387579672
+question : 404 : https://www.zhihu.com/question/274386511
+answer : 404 : https://www.zhihu.com/question/274386511/answer/375940367
+question : 404 : https://www.zhihu.com/question/274340450
+answer : 404 : https://www.zhihu.com/question/274340450/answer/377183264
+article : 404 : https://zhuanlan.zhihu.com/p/36141968
+article : 404 : https://zhuanlan.zhihu.com/p/36354382
+article : 404 : https://zhuanlan.zhihu.com/p/36337338
+question : 404 : https://www.zhihu.com/question/63217696
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360266807
+answer : 404 : https://www.zhihu.com/question/63217696/answer/361136539
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360745118
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360125494
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360960710
+answer : 404 : https://www.zhihu.com/question/63217696/answer/361181988
+answer : 404 : https://www.zhihu.com/question/63217696/answer/361368686
+question : 404 : https://www.zhihu.com/question/274510694
+article : 404 : https://zhuanlan.zhihu.com/p/36033667
+article : 404 : https://zhuanlan.zhihu.com/p/36067568
+article : 404 : https://zhuanlan.zhihu.com/p/36478741
+article : 404 : https://zhuanlan.zhihu.com/p/36111919
+answer : 404 : https://www.zhihu.com/question/274510694/answer/375438754
+
+2018-05-27 22:24:22.340839
+CHECKING TOPIC: 19612705
+question : 404 : https://www.zhihu.com/question/20508321
+
+answer : 404 : https://www.zhihu.com/question/20508321/answer/359957756
+
+CHECKING TOPIC: 19570500
+answer : 404 : https://www.zhihu.com/question/270621469/answer/360327135
+
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360585851
+
+question : 404 : https://www.zhihu.com/question/270415168
+
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360139666
+
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360531602
+
+question : 404 : https://www.zhihu.com/question/270621469
+
+answer : 404 : https://www.zhihu.com/question/270621469/answer/360779666
+
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360451509
+
+CHECKING TOPIC: 19550842
+article : 404 : https://zhuanlan.zhihu.com/p/36057892
+
+article : 404 : https://zhuanlan.zhihu.com/p/36111919
+
+CHECKING TOPIC: 20045556
+CHECKING TOPIC: 19553437
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382765744
+
+answer : 404 : https://www.zhihu.com/question/276567133/answer/389122202
+
+answer : 404 : https://www.zhihu.com/question/57096610/answer/383970500
+
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382700657
+
+question : 404 : https://www.zhihu.com/question/57096610
+
+question : 404 : https://www.zhihu.com/question/275566365
+
+question : 404 : https://www.zhihu.com/question/37338939
+
+question : 404 : https://www.zhihu.com/question/276567133
+
+answer : 404 : https://www.zhihu.com/question/37338939/answer/361799600
+
+answer : 404 : https://www.zhihu.com/question/57096610/answer/384116518
+
+article : 404 : https://zhuanlan.zhihu.com/p/36111919
+
+CHECKING TOPIC: 19661586
+question : 404 : https://www.zhihu.com/question/39544602
+
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382765744
+
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382700657
+
+question : 404 : https://www.zhihu.com/question/275566365
+
+answer : 404 : https://www.zhihu.com/question/275566365/answer/381176766
+
+answer : 404 : https://www.zhihu.com/question/39544602/answer/387579672
+
+CHECKING TOPIC: 19553911
+question : 404 : https://www.zhihu.com/question/274386511
+
+answer : 404 : https://www.zhihu.com/question/274386511/answer/375940367
+
+question : 404 : https://www.zhihu.com/question/274340450
+
+answer : 404 : https://www.zhihu.com/question/274340450/answer/377183264
+
+article : 404 : https://zhuanlan.zhihu.com/p/36141968
+
+article : 404 : https://zhuanlan.zhihu.com/p/36354382
+
+article : 404 : https://zhuanlan.zhihu.com/p/36337338
+
+CHECKING TOPIC: 19604685
+question : 404 : https://www.zhihu.com/question/63217696
+
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360266807
+
+answer : 404 : https://www.zhihu.com/question/63217696/answer/361136539
+
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360745118
+
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360125494
+
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360960710
+
+answer : 404 : https://www.zhihu.com/question/63217696/answer/361181988
+
+answer : 404 : https://www.zhihu.com/question/63217696/answer/361368686
+
+CHECKING TOPIC: 19578134
+question : 404 : https://www.zhihu.com/question/274510694
+
+article : 404 : https://zhuanlan.zhihu.com/p/36033667
+
+article : 404 : https://zhuanlan.zhihu.com/p/36067568
+
+article : 404 : https://zhuanlan.zhihu.com/p/36478741
+
+article : 404 : https://zhuanlan.zhihu.com/p/36111919
+
+answer : 404 : https://www.zhihu.com/question/274510694/answer/375438754
+
+CHECKING TOPIC: 19790643
+CHECKING TOPIC: 20143250
+CHECKING TOPIC: 19577684
+CHECKING TOPIC: 19580621
+POTENTIALLY CENSORED: 
+
+question : 404 : https://www.zhihu.com/question/20508321
+answer : 404 : https://www.zhihu.com/question/20508321/answer/359957756
+answer : 404 : https://www.zhihu.com/question/270621469/answer/360327135
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360585851
+question : 404 : https://www.zhihu.com/question/270415168
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360139666
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360531602
+question : 404 : https://www.zhihu.com/question/270621469
+answer : 404 : https://www.zhihu.com/question/270621469/answer/360779666
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360451509
+article : 404 : https://zhuanlan.zhihu.com/p/36057892
+article : 404 : https://zhuanlan.zhihu.com/p/36111919
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382765744
+answer : 404 : https://www.zhihu.com/question/276567133/answer/389122202
+answer : 404 : https://www.zhihu.com/question/57096610/answer/383970500
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382700657
+question : 404 : https://www.zhihu.com/question/57096610
+question : 404 : https://www.zhihu.com/question/275566365
+question : 404 : https://www.zhihu.com/question/37338939
+question : 404 : https://www.zhihu.com/question/276567133
+answer : 404 : https://www.zhihu.com/question/37338939/answer/361799600
+answer : 404 : https://www.zhihu.com/question/57096610/answer/384116518
+article : 404 : https://zhuanlan.zhihu.com/p/36111919
+question : 404 : https://www.zhihu.com/question/39544602
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382765744
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382700657
+question : 404 : https://www.zhihu.com/question/275566365
+answer : 404 : https://www.zhihu.com/question/275566365/answer/381176766
+answer : 404 : https://www.zhihu.com/question/39544602/answer/387579672
+question : 404 : https://www.zhihu.com/question/274386511
+answer : 404 : https://www.zhihu.com/question/274386511/answer/375940367
+question : 404 : https://www.zhihu.com/question/274340450
+answer : 404 : https://www.zhihu.com/question/274340450/answer/377183264
+article : 404 : https://zhuanlan.zhihu.com/p/36141968
+article : 404 : https://zhuanlan.zhihu.com/p/36354382
+article : 404 : https://zhuanlan.zhihu.com/p/36337338
+question : 404 : https://www.zhihu.com/question/63217696
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360266807
+answer : 404 : https://www.zhihu.com/question/63217696/answer/361136539
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360745118
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360125494
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360960710
+answer : 404 : https://www.zhihu.com/question/63217696/answer/361181988
+answer : 404 : https://www.zhihu.com/question/63217696/answer/361368686
+question : 404 : https://www.zhihu.com/question/274510694
+article : 404 : https://zhuanlan.zhihu.com/p/36033667
+article : 404 : https://zhuanlan.zhihu.com/p/36067568
+article : 404 : https://zhuanlan.zhihu.com/p/36478741
+article : 404 : https://zhuanlan.zhihu.com/p/36111919
+answer : 404 : https://www.zhihu.com/question/274510694/answer/375438754
+
+2018-05-28 09:39:41.294601
+CHECKING TOPIC: 19612705
+question : 404 : https://www.zhihu.com/question/20508321
+
+answer : 404 : https://www.zhihu.com/question/20508321/answer/359957756
+
+CHECKING TOPIC: 19570500
+answer : 404 : https://www.zhihu.com/question/270621469/answer/360327135
+
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360585851
+
+question : 404 : https://www.zhihu.com/question/270415168
+
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360139666
+
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360531602
+
+question : 404 : https://www.zhihu.com/question/270621469
+
+answer : 404 : https://www.zhihu.com/question/270621469/answer/360779666
+
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360451509
+
+CHECKING TOPIC: 19550842
+article : 404 : https://zhuanlan.zhihu.com/p/36057892
+
+article : 404 : https://zhuanlan.zhihu.com/p/36111919
+
+CHECKING TOPIC: 20045556
+CHECKING TOPIC: 19553437
+answer : 404 : https://www.zhihu.com/question/276835890/answer/389630216
+
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382765744
+
+answer : 404 : https://www.zhihu.com/question/276567133/answer/389122202
+
+answer : 404 : https://www.zhihu.com/question/57096610/answer/383970500
+
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382700657
+
+question : 404 : https://www.zhihu.com/question/57096610
+
+question : 404 : https://www.zhihu.com/question/275566365
+
+answer : 404 : https://www.zhihu.com/question/276835890/answer/389541260
+
+question : 404 : https://www.zhihu.com/question/37338939
+
+question : 404 : https://www.zhihu.com/question/276567133
+
+answer : 404 : https://www.zhihu.com/question/37338939/answer/361799600
+
+answer : 404 : https://www.zhihu.com/question/57096610/answer/384116518
+
+article : 404 : https://zhuanlan.zhihu.com/p/36111919
+
+answer : 404 : https://www.zhihu.com/question/276835890/answer/389475564
+
+question : 404 : https://www.zhihu.com/question/276835890
+
+CHECKING TOPIC: 19661586
+question : 404 : https://www.zhihu.com/question/39544602
+
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382765744
+
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382700657
+
+question : 404 : https://www.zhihu.com/question/275566365
+
+answer : 404 : https://www.zhihu.com/question/275566365/answer/381176766
+
+answer : 404 : https://www.zhihu.com/question/39544602/answer/387579672
+
+CHECKING TOPIC: 19553911
+question : 404 : https://www.zhihu.com/question/274386511
+
+answer : 404 : https://www.zhihu.com/question/274386511/answer/375940367
+
+question : 404 : https://www.zhihu.com/question/274340450
+
+answer : 404 : https://www.zhihu.com/question/274340450/answer/377183264
+
+article : 404 : https://zhuanlan.zhihu.com/p/36141968
+
+article : 404 : https://zhuanlan.zhihu.com/p/36354382
+
+article : 404 : https://zhuanlan.zhihu.com/p/36337338
+
+CHECKING TOPIC: 19604685
+question : 404 : https://www.zhihu.com/question/63217696
+
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360266807
+
+answer : 404 : https://www.zhihu.com/question/63217696/answer/361136539
+
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360745118
+
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360125494
+
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360960710
+
+answer : 404 : https://www.zhihu.com/question/63217696/answer/361181988
+
+answer : 404 : https://www.zhihu.com/question/63217696/answer/361368686
+
+CHECKING TOPIC: 19578134
+question : 404 : https://www.zhihu.com/question/274510694
+
+article : 404 : https://zhuanlan.zhihu.com/p/36033667
+
+article : 404 : https://zhuanlan.zhihu.com/p/36067568
+
+article : 404 : https://zhuanlan.zhihu.com/p/36478741
+
+article : 404 : https://zhuanlan.zhihu.com/p/36111919
+
+answer : 404 : https://www.zhihu.com/question/274510694/answer/375438754
+
+CHECKING TOPIC: 19790643
+CHECKING TOPIC: 20143250
+CHECKING TOPIC: 19577684
+CHECKING TOPIC: 19580621
+POTENTIALLY CENSORED: 
+
+question : 404 : https://www.zhihu.com/question/20508321
+answer : 404 : https://www.zhihu.com/question/20508321/answer/359957756
+answer : 404 : https://www.zhihu.com/question/270621469/answer/360327135
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360585851
+question : 404 : https://www.zhihu.com/question/270415168
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360139666
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360531602
+question : 404 : https://www.zhihu.com/question/270621469
+answer : 404 : https://www.zhihu.com/question/270621469/answer/360779666
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360451509
+article : 404 : https://zhuanlan.zhihu.com/p/36057892
+article : 404 : https://zhuanlan.zhihu.com/p/36111919
+answer : 404 : https://www.zhihu.com/question/276835890/answer/389630216
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382765744
+answer : 404 : https://www.zhihu.com/question/276567133/answer/389122202
+answer : 404 : https://www.zhihu.com/question/57096610/answer/383970500
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382700657
+question : 404 : https://www.zhihu.com/question/57096610
+question : 404 : https://www.zhihu.com/question/275566365
+answer : 404 : https://www.zhihu.com/question/276835890/answer/389541260
+question : 404 : https://www.zhihu.com/question/37338939
+question : 404 : https://www.zhihu.com/question/276567133
+answer : 404 : https://www.zhihu.com/question/37338939/answer/361799600
+answer : 404 : https://www.zhihu.com/question/57096610/answer/384116518
+article : 404 : https://zhuanlan.zhihu.com/p/36111919
+answer : 404 : https://www.zhihu.com/question/276835890/answer/389475564
+question : 404 : https://www.zhihu.com/question/276835890
+question : 404 : https://www.zhihu.com/question/39544602
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382765744
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382700657
+question : 404 : https://www.zhihu.com/question/275566365
+answer : 404 : https://www.zhihu.com/question/275566365/answer/381176766
+answer : 404 : https://www.zhihu.com/question/39544602/answer/387579672
+question : 404 : https://www.zhihu.com/question/274386511
+answer : 404 : https://www.zhihu.com/question/274386511/answer/375940367
+question : 404 : https://www.zhihu.com/question/274340450
+answer : 404 : https://www.zhihu.com/question/274340450/answer/377183264
+article : 404 : https://zhuanlan.zhihu.com/p/36141968
+article : 404 : https://zhuanlan.zhihu.com/p/36354382
+article : 404 : https://zhuanlan.zhihu.com/p/36337338
+question : 404 : https://www.zhihu.com/question/63217696
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360266807
+answer : 404 : https://www.zhihu.com/question/63217696/answer/361136539
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360745118
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360125494
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360960710
+answer : 404 : https://www.zhihu.com/question/63217696/answer/361181988
+answer : 404 : https://www.zhihu.com/question/63217696/answer/361368686
+question : 404 : https://www.zhihu.com/question/274510694
+article : 404 : https://zhuanlan.zhihu.com/p/36033667
+article : 404 : https://zhuanlan.zhihu.com/p/36067568
+article : 404 : https://zhuanlan.zhihu.com/p/36478741
+article : 404 : https://zhuanlan.zhihu.com/p/36111919
+answer : 404 : https://www.zhihu.com/question/274510694/answer/375438754
+
+2018-05-28 21:01:23.861501
+CHECKING TOPIC: 19612705
+question : 404 : https://www.zhihu.com/question/20508321
+
+answer : 404 : https://www.zhihu.com/question/20508321/answer/359957756
+
+CHECKING TOPIC: 19570500
+answer : 404 : https://www.zhihu.com/question/270621469/answer/360327135
+
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360585851
+
+question : 404 : https://www.zhihu.com/question/270415168
+
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360139666
+
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360531602
+
+question : 404 : https://www.zhihu.com/question/270621469
+
+answer : 404 : https://www.zhihu.com/question/270621469/answer/360779666
+
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360451509
+
+CHECKING TOPIC: 19550842
+article : 404 : https://zhuanlan.zhihu.com/p/36057892
+
+article : 404 : https://zhuanlan.zhihu.com/p/36111919
+
+CHECKING TOPIC: 20045556
+CHECKING TOPIC: 19553437
+answer : 404 : https://www.zhihu.com/question/276835890/answer/389630216
+
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382765744
+
+answer : 404 : https://www.zhihu.com/question/276567133/answer/389122202
+
+answer : 404 : https://www.zhihu.com/question/57096610/answer/383970500
+
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382700657
+
+question : 404 : https://www.zhihu.com/question/57096610
+
+question : 404 : https://www.zhihu.com/question/275566365
+
+answer : 404 : https://www.zhihu.com/question/276835890/answer/389541260
+
+question : 404 : https://www.zhihu.com/question/37338939
+
+question : 404 : https://www.zhihu.com/question/276567133
+
+answer : 404 : https://www.zhihu.com/question/37338939/answer/361799600
+
+answer : 404 : https://www.zhihu.com/question/57096610/answer/384116518
+
+article : 404 : https://zhuanlan.zhihu.com/p/36111919
+
+answer : 404 : https://www.zhihu.com/question/276835890/answer/389475564
+
+question : 404 : https://www.zhihu.com/question/276835890
+
+CHECKING TOPIC: 19661586
+question : 404 : https://www.zhihu.com/question/39544602
+
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382765744
+
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382700657
+
+question : 404 : https://www.zhihu.com/question/275566365
+
+answer : 404 : https://www.zhihu.com/question/275566365/answer/381176766
+
+answer : 404 : https://www.zhihu.com/question/39544602/answer/387579672
+
+CHECKING TOPIC: 19553911
+question : 404 : https://www.zhihu.com/question/274386511
+
+answer : 404 : https://www.zhihu.com/question/274386511/answer/375940367
+
+question : 404 : https://www.zhihu.com/question/274340450
+
+answer : 404 : https://www.zhihu.com/question/274340450/answer/377183264
+
+article : 404 : https://zhuanlan.zhihu.com/p/36141968
+
+article : 404 : https://zhuanlan.zhihu.com/p/36354382
+
+article : 404 : https://zhuanlan.zhihu.com/p/36337338
+
+CHECKING TOPIC: 19604685
+question : 404 : https://www.zhihu.com/question/63217696
+
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360266807
+
+answer : 404 : https://www.zhihu.com/question/63217696/answer/361136539
+
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360745118
+
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360125494
+
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360960710
+
+answer : 404 : https://www.zhihu.com/question/63217696/answer/361181988
+
+answer : 404 : https://www.zhihu.com/question/63217696/answer/361368686
+
+CHECKING TOPIC: 19578134
+question : 404 : https://www.zhihu.com/question/274510694
+
+article : 404 : https://zhuanlan.zhihu.com/p/36033667
+
+article : 404 : https://zhuanlan.zhihu.com/p/36067568
+
+article : 404 : https://zhuanlan.zhihu.com/p/36478741
+
+article : 404 : https://zhuanlan.zhihu.com/p/36111919
+
+answer : 404 : https://www.zhihu.com/question/274510694/answer/375438754
+
+CHECKING TOPIC: 19790643
+CHECKING TOPIC: 20143250
+CHECKING TOPIC: 19577684
+CHECKING TOPIC: 19580621
+POTENTIALLY CENSORED: 
+
+question : 404 : https://www.zhihu.com/question/20508321
+answer : 404 : https://www.zhihu.com/question/20508321/answer/359957756
+answer : 404 : https://www.zhihu.com/question/270621469/answer/360327135
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360585851
+question : 404 : https://www.zhihu.com/question/270415168
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360139666
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360531602
+question : 404 : https://www.zhihu.com/question/270621469
+answer : 404 : https://www.zhihu.com/question/270621469/answer/360779666
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360451509
+article : 404 : https://zhuanlan.zhihu.com/p/36057892
+article : 404 : https://zhuanlan.zhihu.com/p/36111919
+answer : 404 : https://www.zhihu.com/question/276835890/answer/389630216
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382765744
+answer : 404 : https://www.zhihu.com/question/276567133/answer/389122202
+answer : 404 : https://www.zhihu.com/question/57096610/answer/383970500
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382700657
+question : 404 : https://www.zhihu.com/question/57096610
+question : 404 : https://www.zhihu.com/question/275566365
+answer : 404 : https://www.zhihu.com/question/276835890/answer/389541260
+question : 404 : https://www.zhihu.com/question/37338939
+question : 404 : https://www.zhihu.com/question/276567133
+answer : 404 : https://www.zhihu.com/question/37338939/answer/361799600
+answer : 404 : https://www.zhihu.com/question/57096610/answer/384116518
+article : 404 : https://zhuanlan.zhihu.com/p/36111919
+answer : 404 : https://www.zhihu.com/question/276835890/answer/389475564
+question : 404 : https://www.zhihu.com/question/276835890
+question : 404 : https://www.zhihu.com/question/39544602
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382765744
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382700657
+question : 404 : https://www.zhihu.com/question/275566365
+answer : 404 : https://www.zhihu.com/question/275566365/answer/381176766
+answer : 404 : https://www.zhihu.com/question/39544602/answer/387579672
+question : 404 : https://www.zhihu.com/question/274386511
+answer : 404 : https://www.zhihu.com/question/274386511/answer/375940367
+question : 404 : https://www.zhihu.com/question/274340450
+answer : 404 : https://www.zhihu.com/question/274340450/answer/377183264
+article : 404 : https://zhuanlan.zhihu.com/p/36141968
+article : 404 : https://zhuanlan.zhihu.com/p/36354382
+article : 404 : https://zhuanlan.zhihu.com/p/36337338
+question : 404 : https://www.zhihu.com/question/63217696
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360266807
+answer : 404 : https://www.zhihu.com/question/63217696/answer/361136539
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360745118
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360125494
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360960710
+answer : 404 : https://www.zhihu.com/question/63217696/answer/361181988
+answer : 404 : https://www.zhihu.com/question/63217696/answer/361368686
+question : 404 : https://www.zhihu.com/question/274510694
+article : 404 : https://zhuanlan.zhihu.com/p/36033667
+article : 404 : https://zhuanlan.zhihu.com/p/36067568
+article : 404 : https://zhuanlan.zhihu.com/p/36478741
+article : 404 : https://zhuanlan.zhihu.com/p/36111919
+answer : 404 : https://www.zhihu.com/question/274510694/answer/375438754
+
+2018-05-29 08:15:02.869636
+CHECKING TOPIC: 19612705
+question : 404 : https://www.zhihu.com/question/20508321
+
+answer : 404 : https://www.zhihu.com/question/20508321/answer/359957756
+
+CHECKING TOPIC: 19570500
+answer : 404 : https://www.zhihu.com/question/270621469/answer/360327135
+
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360585851
+
+question : 404 : https://www.zhihu.com/question/270415168
+
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360139666
+
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360531602
+
+question : 404 : https://www.zhihu.com/question/270621469
+
+answer : 404 : https://www.zhihu.com/question/270621469/answer/360779666
+
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360451509
+
+CHECKING TOPIC: 19550842
+article : 404 : https://zhuanlan.zhihu.com/p/36057892
+
+article : 404 : https://zhuanlan.zhihu.com/p/36111919
+
+CHECKING TOPIC: 20045556
+CHECKING TOPIC: 19553437
+answer : 404 : https://www.zhihu.com/question/276835890/answer/389630216
+
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382765744
+
+answer : 404 : https://www.zhihu.com/question/276567133/answer/389122202
+
+answer : 404 : https://www.zhihu.com/question/57096610/answer/383970500
+
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382700657
+
+question : 404 : https://www.zhihu.com/question/57096610
+
+question : 404 : https://www.zhihu.com/question/275566365
+
+answer : 404 : https://www.zhihu.com/question/276835890/answer/389541260
+
+question : 404 : https://www.zhihu.com/question/37338939
+
+question : 404 : https://www.zhihu.com/question/276567133
+
+answer : 404 : https://www.zhihu.com/question/37338939/answer/361799600
+
+answer : 404 : https://www.zhihu.com/question/57096610/answer/384116518
+
+article : 404 : https://zhuanlan.zhihu.com/p/36111919
+
+answer : 404 : https://www.zhihu.com/question/276835890/answer/389475564
+
+question : 404 : https://www.zhihu.com/question/276835890
+
+CHECKING TOPIC: 19661586
+question : 404 : https://www.zhihu.com/question/39544602
+
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382765744
+
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382700657
+
+question : 404 : https://www.zhihu.com/question/275566365
+
+answer : 404 : https://www.zhihu.com/question/275566365/answer/381176766
+
+answer : 404 : https://www.zhihu.com/question/39544602/answer/387579672
+
+CHECKING TOPIC: 19553911
+question : 404 : https://www.zhihu.com/question/274386511
+
+answer : 404 : https://www.zhihu.com/question/274386511/answer/375940367
+
+question : 500 : https://www.zhihu.com/question/276461107
+
+question : 404 : https://www.zhihu.com/question/274340450
+
+answer : 404 : https://www.zhihu.com/question/274340450/answer/377183264
+
+article : 404 : https://zhuanlan.zhihu.com/p/36141968
+
+article : 404 : https://zhuanlan.zhihu.com/p/36354382
+
+article : 404 : https://zhuanlan.zhihu.com/p/36337338
+
+CHECKING TOPIC: 19604685
+question : 404 : https://www.zhihu.com/question/63217696
+
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360266807
+
+answer : 404 : https://www.zhihu.com/question/63217696/answer/361136539
+
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360745118
+
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360125494
+
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360960710
+
+answer : 404 : https://www.zhihu.com/question/63217696/answer/361181988
+
+answer : 404 : https://www.zhihu.com/question/63217696/answer/361368686
+
+CHECKING TOPIC: 19578134
+question : 404 : https://www.zhihu.com/question/274510694
+
+article : 404 : https://zhuanlan.zhihu.com/p/36033667
+
+article : 404 : https://zhuanlan.zhihu.com/p/36067568
+
+article : 404 : https://zhuanlan.zhihu.com/p/36478741
+
+article : 404 : https://zhuanlan.zhihu.com/p/36111919
+
+answer : 404 : https://www.zhihu.com/question/274510694/answer/375438754
+
+CHECKING TOPIC: 19790643
+CHECKING TOPIC: 20143250
+CHECKING TOPIC: 19577684
+CHECKING TOPIC: 19580621
+POTENTIALLY CENSORED: 
+
+question : 404 : https://www.zhihu.com/question/20508321
+answer : 404 : https://www.zhihu.com/question/20508321/answer/359957756
+answer : 404 : https://www.zhihu.com/question/270621469/answer/360327135
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360585851
+question : 404 : https://www.zhihu.com/question/270415168
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360139666
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360531602
+question : 404 : https://www.zhihu.com/question/270621469
+answer : 404 : https://www.zhihu.com/question/270621469/answer/360779666
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360451509
+article : 404 : https://zhuanlan.zhihu.com/p/36057892
+article : 404 : https://zhuanlan.zhihu.com/p/36111919
+answer : 404 : https://www.zhihu.com/question/276835890/answer/389630216
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382765744
+answer : 404 : https://www.zhihu.com/question/276567133/answer/389122202
+answer : 404 : https://www.zhihu.com/question/57096610/answer/383970500
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382700657
+question : 404 : https://www.zhihu.com/question/57096610
+question : 404 : https://www.zhihu.com/question/275566365
+answer : 404 : https://www.zhihu.com/question/276835890/answer/389541260
+question : 404 : https://www.zhihu.com/question/37338939
+question : 404 : https://www.zhihu.com/question/276567133
+answer : 404 : https://www.zhihu.com/question/37338939/answer/361799600
+answer : 404 : https://www.zhihu.com/question/57096610/answer/384116518
+article : 404 : https://zhuanlan.zhihu.com/p/36111919
+answer : 404 : https://www.zhihu.com/question/276835890/answer/389475564
+question : 404 : https://www.zhihu.com/question/276835890
+question : 404 : https://www.zhihu.com/question/39544602
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382765744
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382700657
+question : 404 : https://www.zhihu.com/question/275566365
+answer : 404 : https://www.zhihu.com/question/275566365/answer/381176766
+answer : 404 : https://www.zhihu.com/question/39544602/answer/387579672
+question : 404 : https://www.zhihu.com/question/274386511
+answer : 404 : https://www.zhihu.com/question/274386511/answer/375940367
+question : 500 : https://www.zhihu.com/question/276461107
+question : 404 : https://www.zhihu.com/question/274340450
+answer : 404 : https://www.zhihu.com/question/274340450/answer/377183264
+article : 404 : https://zhuanlan.zhihu.com/p/36141968
+article : 404 : https://zhuanlan.zhihu.com/p/36354382
+article : 404 : https://zhuanlan.zhihu.com/p/36337338
+question : 404 : https://www.zhihu.com/question/63217696
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360266807
+answer : 404 : https://www.zhihu.com/question/63217696/answer/361136539
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360745118
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360125494
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360960710
+answer : 404 : https://www.zhihu.com/question/63217696/answer/361181988
+answer : 404 : https://www.zhihu.com/question/63217696/answer/361368686
+question : 404 : https://www.zhihu.com/question/274510694
+article : 404 : https://zhuanlan.zhihu.com/p/36033667
+article : 404 : https://zhuanlan.zhihu.com/p/36067568
+article : 404 : https://zhuanlan.zhihu.com/p/36478741
+article : 404 : https://zhuanlan.zhihu.com/p/36111919
+answer : 404 : https://www.zhihu.com/question/274510694/answer/375438754
+
+2018-05-29 19:32:49.250405
+CHECKING TOPIC: 19612705
+question : 404 : https://www.zhihu.com/question/20508321
+
+answer : 503 : https://www.zhihu.com/question/270775234/answer/357946813
+
+question : 503 : https://www.zhihu.com/question/270131222
+
+question : 503 : https://www.zhihu.com/question/270775234
+
+answer : 503 : https://www.zhihu.com/question/270131222/answer/377220930
+
+question : 503 : https://www.zhihu.com/question/23866125
+
+answer : 503 : https://www.zhihu.com/question/266422196/answer/356263706
+
+question : 503 : https://www.zhihu.com/question/25751514
+
+answer : 503 : https://www.zhihu.com/question/36717552/answer/374588236
+
+question : 503 : https://www.zhihu.com/question/270237399
+
+answer : 404 : https://www.zhihu.com/question/20508321/answer/359957756
+
+answer : 503 : https://www.zhihu.com/question/270237399/answer/372656951
+
+CHECKING TOPIC: 19570500
+answer : 503 : https://www.zhihu.com/question/275991461/answer/384137801
+
+answer : 503 : https://www.zhihu.com/question/275278880/answer/383388856
+
+answer : 503 : https://www.zhihu.com/question/274234371/answer/376355273
+
+answer : 503 : https://www.zhihu.com/question/64783990/answer/391838454
+
+answer : 503 : https://www.zhihu.com/question/276014321/answer/384209007
+
+answer : 503 : https://www.zhihu.com/question/271161014/answer/360123771
+
+answer : 503 : https://www.zhihu.com/question/23684594/answer/361664930
+
+answer : 503 : https://www.zhihu.com/question/35006679/answer/386400346
+
+question : 503 : https://www.zhihu.com/question/275570640
+
+answer : 503 : https://www.zhihu.com/question/35208264/answer/380921162
+
+question : 503 : https://www.zhihu.com/question/275610846
+
+question : 503 : https://www.zhihu.com/question/270804888
+
+answer : 404 : https://www.zhihu.com/question/270621469/answer/360327135
+
+answer : 400 : https://www.zhihu.com/question/271161014/answer/359756359
+
+question : 400 : https://www.zhihu.com/question/274732317
+
+answer : 400 : https://www.zhihu.com/question/274857039/answer/381867581
+
+question : 400 : https://www.zhihu.com/question/23296848
+
+answer : 400 : https://www.zhihu.com/question/53487831/answer/389535932
+
+answer : 400 : https://www.zhihu.com/question/271161014/answer/361192868
+
+answer : 400 : https://www.zhihu.com/question/29508874/answer/389692723
+
+question : 400 : https://www.zhihu.com/question/276622381
+
+answer : 400 : https://www.zhihu.com/question/274771389/answer/376916955
+
+question : 400 : https://www.zhihu.com/question/26202140
+
+answer : 400 : https://www.zhihu.com/question/38568188/answer/377700045
+
+question : 400 : https://www.zhihu.com/question/276344383
+
+question : 400 : https://www.zhihu.com/question/24571841
+
+answer : 400 : https://www.zhihu.com/question/265182479/answer/375378814
+
+answer : 400 : https://www.zhihu.com/question/274857039/answer/381455740
+
+answer : 400 : https://www.zhihu.com/question/29508874/answer/389200926
+
+answer : 400 : https://www.zhihu.com/question/274857039/answer/383840598
+
+answer : 400 : https://www.zhihu.com/question/275298091/answer/385521210
+
+answer : 400 : https://www.zhihu.com/question/270415168/answer/360585851
+
+answer : 400 : https://www.zhihu.com/question/275788531/answer/382724512
+
+answer : 400 : https://www.zhihu.com/question/276662895/answer/389467567
+
+answer : 400 : https://www.zhihu.com/question/270773664/answer/360059797
+
+answer : 400 : https://www.zhihu.com/question/276344383/answer/387163939
+
+answer : 400 : https://www.zhihu.com/question/49083393/answer/385615101
+
+question : 400 : https://www.zhihu.com/question/274786812
+
+answer : 400 : https://www.zhihu.com/question/275660480/answer/382856628
+
+question : 400 : https://www.zhihu.com/question/45544034
+
+question : 400 : https://www.zhihu.com/question/275691915
+
+question : 400 : https://www.zhihu.com/question/36334904
+
+question : 400 : https://www.zhihu.com/question/36512851
+
+answer : 400 : https://www.zhihu.com/question/274842022/answer/376759432
+
+answer : 400 : https://www.zhihu.com/question/276760668/answer/389936817
+
+question : 400 : https://www.zhihu.com/question/35208264
+
+answer : 400 : https://www.zhihu.com/question/276161658/answer/390739239
+
+question : 400 : https://www.zhihu.com/question/271448581
+
+answer : 400 : https://www.zhihu.com/question/274771389/answer/377142969
+
+answer : 400 : https://www.zhihu.com/question/276662895/answer/388915852
+
+answer : 400 : https://www.zhihu.com/question/270804888/answer/360059558
+
+question : 404 : https://www.zhihu.com/question/270415168
+
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360139666
+
+answer : 504 : https://www.zhihu.com/question/270804888/answer/361459198
+
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360531602
+
+question : 404 : https://www.zhihu.com/question/270621469
+
+answer : 404 : https://www.zhihu.com/question/270621469/answer/360779666
+
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360451509
+
+CHECKING TOPIC: 19550842
+article : 404 : https://zhuanlan.zhihu.com/p/36057892
+
+article : 404 : https://zhuanlan.zhihu.com/p/36111919
+
+CHECKING TOPIC: 20045556
+CHECKING TOPIC: 19553437
+answer : 404 : https://www.zhihu.com/question/276835890/answer/389630216
+
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382765744
+
+answer : 404 : https://www.zhihu.com/question/276567133/answer/389122202
+
+answer : 404 : https://www.zhihu.com/question/57096610/answer/383970500
+
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382700657
+
+question : 404 : https://www.zhihu.com/question/57096610
+
+question : 404 : https://www.zhihu.com/question/275566365
+
+answer : 404 : https://www.zhihu.com/question/276835890/answer/389541260
+
+question : 404 : https://www.zhihu.com/question/37338939
+
+question : 404 : https://www.zhihu.com/question/276567133
+
+answer : 404 : https://www.zhihu.com/question/37338939/answer/361799600
+
+answer : 404 : https://www.zhihu.com/question/57096610/answer/384116518
+
+article : 404 : https://zhuanlan.zhihu.com/p/36111919
+
+answer : 404 : https://www.zhihu.com/question/276835890/answer/389475564
+
+question : 404 : https://www.zhihu.com/question/276835890
+
+CHECKING TOPIC: 19661586
+question : 404 : https://www.zhihu.com/question/39544602
+
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382765744
+
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382700657
+
+question : 404 : https://www.zhihu.com/question/275566365
+
+answer : 404 : https://www.zhihu.com/question/275566365/answer/381176766
+
+answer : 404 : https://www.zhihu.com/question/39544602/answer/387579672
+
+CHECKING TOPIC: 19553911
+question : 404 : https://www.zhihu.com/question/274386511
+
+answer : 404 : https://www.zhihu.com/question/274386511/answer/375940367
+
+question : 404 : https://www.zhihu.com/question/274340450
+
+answer : 404 : https://www.zhihu.com/question/274340450/answer/377183264
+
+article : 404 : https://zhuanlan.zhihu.com/p/36141968
+
+article : 404 : https://zhuanlan.zhihu.com/p/36354382
+
+article : 404 : https://zhuanlan.zhihu.com/p/36337338
+
+CHECKING TOPIC: 19604685
+question : 404 : https://www.zhihu.com/question/63217696
+
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360266807
+
+answer : 404 : https://www.zhihu.com/question/63217696/answer/361136539
+
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360745118
+
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360125494
+
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360960710
+
+answer : 404 : https://www.zhihu.com/question/63217696/answer/361181988
+
+answer : 404 : https://www.zhihu.com/question/63217696/answer/361368686
+
+CHECKING TOPIC: 19578134
+question : 404 : https://www.zhihu.com/question/274510694
+
+article : 404 : https://zhuanlan.zhihu.com/p/36033667
+
+article : 404 : https://zhuanlan.zhihu.com/p/36067568
+
+article : 404 : https://zhuanlan.zhihu.com/p/36478741
+
+article : 404 : https://zhuanlan.zhihu.com/p/36111919
+
+answer : 404 : https://www.zhihu.com/question/274510694/answer/375438754
+
+CHECKING TOPIC: 19790643
+CHECKING TOPIC: 20143250
+CHECKING TOPIC: 19577684
+CHECKING TOPIC: 19580621
+POTENTIALLY CENSORED: 
+
+question : 404 : https://www.zhihu.com/question/20508321
+answer : 503 : https://www.zhihu.com/question/270775234/answer/357946813
+question : 503 : https://www.zhihu.com/question/270131222
+question : 503 : https://www.zhihu.com/question/270775234
+answer : 503 : https://www.zhihu.com/question/270131222/answer/377220930
+question : 503 : https://www.zhihu.com/question/23866125
+answer : 503 : https://www.zhihu.com/question/266422196/answer/356263706
+question : 503 : https://www.zhihu.com/question/25751514
+answer : 503 : https://www.zhihu.com/question/36717552/answer/374588236
+question : 503 : https://www.zhihu.com/question/270237399
+answer : 404 : https://www.zhihu.com/question/20508321/answer/359957756
+answer : 503 : https://www.zhihu.com/question/270237399/answer/372656951
+answer : 503 : https://www.zhihu.com/question/275991461/answer/384137801
+answer : 503 : https://www.zhihu.com/question/275278880/answer/383388856
+answer : 503 : https://www.zhihu.com/question/274234371/answer/376355273
+answer : 503 : https://www.zhihu.com/question/64783990/answer/391838454
+answer : 503 : https://www.zhihu.com/question/276014321/answer/384209007
+answer : 503 : https://www.zhihu.com/question/271161014/answer/360123771
+answer : 503 : https://www.zhihu.com/question/23684594/answer/361664930
+answer : 503 : https://www.zhihu.com/question/35006679/answer/386400346
+question : 503 : https://www.zhihu.com/question/275570640
+answer : 503 : https://www.zhihu.com/question/35208264/answer/380921162
+question : 503 : https://www.zhihu.com/question/275610846
+question : 503 : https://www.zhihu.com/question/270804888
+answer : 404 : https://www.zhihu.com/question/270621469/answer/360327135
+answer : 400 : https://www.zhihu.com/question/271161014/answer/359756359
+question : 400 : https://www.zhihu.com/question/274732317
+answer : 400 : https://www.zhihu.com/question/274857039/answer/381867581
+question : 400 : https://www.zhihu.com/question/23296848
+answer : 400 : https://www.zhihu.com/question/53487831/answer/389535932
+answer : 400 : https://www.zhihu.com/question/271161014/answer/361192868
+answer : 400 : https://www.zhihu.com/question/29508874/answer/389692723
+question : 400 : https://www.zhihu.com/question/276622381
+answer : 400 : https://www.zhihu.com/question/274771389/answer/376916955
+question : 400 : https://www.zhihu.com/question/26202140
+answer : 400 : https://www.zhihu.com/question/38568188/answer/377700045
+question : 400 : https://www.zhihu.com/question/276344383
+question : 400 : https://www.zhihu.com/question/24571841
+answer : 400 : https://www.zhihu.com/question/265182479/answer/375378814
+answer : 400 : https://www.zhihu.com/question/274857039/answer/381455740
+answer : 400 : https://www.zhihu.com/question/29508874/answer/389200926
+answer : 400 : https://www.zhihu.com/question/274857039/answer/383840598
+answer : 400 : https://www.zhihu.com/question/275298091/answer/385521210
+answer : 400 : https://www.zhihu.com/question/270415168/answer/360585851
+answer : 400 : https://www.zhihu.com/question/275788531/answer/382724512
+answer : 400 : https://www.zhihu.com/question/276662895/answer/389467567
+answer : 400 : https://www.zhihu.com/question/270773664/answer/360059797
+answer : 400 : https://www.zhihu.com/question/276344383/answer/387163939
+answer : 400 : https://www.zhihu.com/question/49083393/answer/385615101
+question : 400 : https://www.zhihu.com/question/274786812
+answer : 400 : https://www.zhihu.com/question/275660480/answer/382856628
+question : 400 : https://www.zhihu.com/question/45544034
+question : 400 : https://www.zhihu.com/question/275691915
+question : 400 : https://www.zhihu.com/question/36334904
+question : 400 : https://www.zhihu.com/question/36512851
+answer : 400 : https://www.zhihu.com/question/274842022/answer/376759432
+answer : 400 : https://www.zhihu.com/question/276760668/answer/389936817
+question : 400 : https://www.zhihu.com/question/35208264
+answer : 400 : https://www.zhihu.com/question/276161658/answer/390739239
+question : 400 : https://www.zhihu.com/question/271448581
+answer : 400 : https://www.zhihu.com/question/274771389/answer/377142969
+answer : 400 : https://www.zhihu.com/question/276662895/answer/388915852
+answer : 400 : https://www.zhihu.com/question/270804888/answer/360059558
+question : 404 : https://www.zhihu.com/question/270415168
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360139666
+answer : 504 : https://www.zhihu.com/question/270804888/answer/361459198
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360531602
+question : 404 : https://www.zhihu.com/question/270621469
+answer : 404 : https://www.zhihu.com/question/270621469/answer/360779666
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360451509
+article : 404 : https://zhuanlan.zhihu.com/p/36057892
+article : 404 : https://zhuanlan.zhihu.com/p/36111919
+answer : 404 : https://www.zhihu.com/question/276835890/answer/389630216
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382765744
+answer : 404 : https://www.zhihu.com/question/276567133/answer/389122202
+answer : 404 : https://www.zhihu.com/question/57096610/answer/383970500
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382700657
+question : 404 : https://www.zhihu.com/question/57096610
+question : 404 : https://www.zhihu.com/question/275566365
+answer : 404 : https://www.zhihu.com/question/276835890/answer/389541260
+question : 404 : https://www.zhihu.com/question/37338939
+question : 404 : https://www.zhihu.com/question/276567133
+answer : 404 : https://www.zhihu.com/question/37338939/answer/361799600
+answer : 404 : https://www.zhihu.com/question/57096610/answer/384116518
+article : 404 : https://zhuanlan.zhihu.com/p/36111919
+answer : 404 : https://www.zhihu.com/question/276835890/answer/389475564
+question : 404 : https://www.zhihu.com/question/276835890
+question : 404 : https://www.zhihu.com/question/39544602
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382765744
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382700657
+question : 404 : https://www.zhihu.com/question/275566365
+answer : 404 : https://www.zhihu.com/question/275566365/answer/381176766
+answer : 404 : https://www.zhihu.com/question/39544602/answer/387579672
+question : 404 : https://www.zhihu.com/question/274386511
+answer : 404 : https://www.zhihu.com/question/274386511/answer/375940367
+question : 404 : https://www.zhihu.com/question/274340450
+answer : 404 : https://www.zhihu.com/question/274340450/answer/377183264
+article : 404 : https://zhuanlan.zhihu.com/p/36141968
+article : 404 : https://zhuanlan.zhihu.com/p/36354382
+article : 404 : https://zhuanlan.zhihu.com/p/36337338
+question : 404 : https://www.zhihu.com/question/63217696
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360266807
+answer : 404 : https://www.zhihu.com/question/63217696/answer/361136539
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360745118
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360125494
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360960710
+answer : 404 : https://www.zhihu.com/question/63217696/answer/361181988
+answer : 404 : https://www.zhihu.com/question/63217696/answer/361368686
+question : 404 : https://www.zhihu.com/question/274510694
+article : 404 : https://zhuanlan.zhihu.com/p/36033667
+article : 404 : https://zhuanlan.zhihu.com/p/36067568
+article : 404 : https://zhuanlan.zhihu.com/p/36478741
+article : 404 : https://zhuanlan.zhihu.com/p/36111919
+answer : 404 : https://www.zhihu.com/question/274510694/answer/375438754
+
+2018-05-30 06:59:47.650850
+CHECKING TOPIC: 19612705
+article : 404 : https://zhuanlan.zhihu.com/p/36696800
+
+question : 404 : https://www.zhihu.com/question/20508321
+
+answer : 404 : https://www.zhihu.com/question/20508321/answer/359957756
+
+CHECKING TOPIC: 19570500
+article : 404 : https://zhuanlan.zhihu.com/p/36063657
+
+answer : 404 : https://www.zhihu.com/question/270621469/answer/360327135
+
+article : 404 : https://zhuanlan.zhihu.com/p/36135062
+
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360585851
+
+article : 404 : https://zhuanlan.zhihu.com/p/36277454
+
+article : 404 : https://zhuanlan.zhihu.com/p/36657884
+
+article : 404 : https://zhuanlan.zhihu.com/p/35390070
+
+article : 404 : https://zhuanlan.zhihu.com/p/36181276
+
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360139666
+
+article : 404 : https://zhuanlan.zhihu.com/p/36316451
+
+article : 404 : https://zhuanlan.zhihu.com/p/36422547
+
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360531602
+
+question : 404 : https://www.zhihu.com/question/270621469
+
+answer : 504 : https://www.zhihu.com/question/263908615/answer/384233272
+
+answer : 504 : https://www.zhihu.com/question/276760668/answer/391505727
+
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360451509
+
+CHECKING TOPIC: 19550842
+article : 404 : https://zhuanlan.zhihu.com/p/36105713
+
+article : 404 : https://zhuanlan.zhihu.com/p/35955580
+
+article : 404 : https://zhuanlan.zhihu.com/p/36057892
+
+article : 404 : https://zhuanlan.zhihu.com/p/36661276
+
+article : 404 : https://zhuanlan.zhihu.com/p/36195061
+
+article : 404 : https://zhuanlan.zhihu.com/p/36850512
+
+article : 404 : https://zhuanlan.zhihu.com/p/36521024
+
+article : 404 : https://zhuanlan.zhihu.com/p/36171493
+
+article : 404 : https://zhuanlan.zhihu.com/p/35348203
+
+article : 404 : https://zhuanlan.zhihu.com/p/36511858
+
+article : 404 : https://zhuanlan.zhihu.com/p/36349085
+
+article : 404 : https://zhuanlan.zhihu.com/p/35340309
+
+article : 404 : https://zhuanlan.zhihu.com/p/36111919
+
+article : 404 : https://zhuanlan.zhihu.com/p/36433668
+
+CHECKING TOPIC: 20045556
+article : 404 : https://zhuanlan.zhihu.com/p/29168675
+
+article : 404 : https://zhuanlan.zhihu.com/p/29571748
+
+article : 404 : https://zhuanlan.zhihu.com/p/29225410
+
+CHECKING TOPIC: 19553437
+article : 404 : https://zhuanlan.zhihu.com/p/35396365
+
+answer : 404 : https://www.zhihu.com/question/276835890/answer/389630216
+
+article : 404 : https://zhuanlan.zhihu.com/p/36389430
+
+article : 404 : https://zhuanlan.zhihu.com/p/36163053
+
+article : 404 : https://zhuanlan.zhihu.com/p/35386151
+
+answer : 404 : https://www.zhihu.com/question/276567133/answer/389122202
+
+article : 404 : https://zhuanlan.zhihu.com/p/36551131
+
+article : 404 : https://zhuanlan.zhihu.com/p/36849203
+
+article : 404 : https://zhuanlan.zhihu.com/p/36128751
+
+article : 404 : https://zhuanlan.zhihu.com/p/36113457
+
+article : 404 : https://zhuanlan.zhihu.com/p/36162733
+
+article : 404 : https://zhuanlan.zhihu.com/p/36294449
+
+question : 404 : https://www.zhihu.com/question/57096610
+
+question : 404 : https://www.zhihu.com/question/275566365
+
+answer : 404 : https://www.zhihu.com/question/276835890/answer/389541260
+
+question : 404 : https://www.zhihu.com/question/37338939
+
+article : 404 : https://zhuanlan.zhihu.com/p/36139160
+
+article : 404 : https://zhuanlan.zhihu.com/p/36154720
+
+article : 404 : https://zhuanlan.zhihu.com/p/36783600
+
+article : 404 : https://zhuanlan.zhihu.com/p/36726608
+
+article : 404 : https://zhuanlan.zhihu.com/p/36823424
+
+article : 404 : https://zhuanlan.zhihu.com/p/36111919
+
+answer : 404 : https://www.zhihu.com/question/276835890/answer/389475564
+
+CHECKING TOPIC: 19661586
+question : 404 : https://www.zhihu.com/question/39544602
+
+article : 404 : https://zhuanlan.zhihu.com/p/36396638
+
+article : 404 : https://zhuanlan.zhihu.com/p/36314308
+
+article : 404 : https://zhuanlan.zhihu.com/p/36182599
+
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382700657
+
+article : 404 : https://zhuanlan.zhihu.com/p/35410143
+
+article : 404 : https://zhuanlan.zhihu.com/p/36794250
+
+question : 404 : https://www.zhihu.com/question/275566365
+
+article : 404 : https://zhuanlan.zhihu.com/p/35199553
+
+answer : 404 : https://www.zhihu.com/question/39544602/answer/387579672
+
+CHECKING TOPIC: 19553911
+question : 404 : https://www.zhihu.com/question/274386511
+
+article : 404 : https://zhuanlan.zhihu.com/p/36342878
+
+answer : 404 : https://www.zhihu.com/question/274386511/answer/375940367
+
+article : 404 : https://zhuanlan.zhihu.com/p/36670248
+
+article : 404 : https://zhuanlan.zhihu.com/p/36507618
+
+question : 404 : https://www.zhihu.com/question/274340450
+
+article : 404 : https://zhuanlan.zhihu.com/p/36667232
+
+answer : 404 : https://www.zhihu.com/question/274340450/answer/377183264
+
+article : 404 : https://zhuanlan.zhihu.com/p/36859278
+
+article : 404 : https://zhuanlan.zhihu.com/p/36784467
+
+article : 404 : https://zhuanlan.zhihu.com/p/36141968
+
+article : 404 : https://zhuanlan.zhihu.com/p/36079371
+
+article : 404 : https://zhuanlan.zhihu.com/p/36575937
+
+article : 404 : https://zhuanlan.zhihu.com/p/36388246
+
+article : 404 : https://zhuanlan.zhihu.com/p/36446174
+
+article : 404 : https://zhuanlan.zhihu.com/p/36680937
+
+article : 404 : https://zhuanlan.zhihu.com/p/36552325
+
+article : 404 : https://zhuanlan.zhihu.com/p/36354382
+
+article : 404 : https://zhuanlan.zhihu.com/p/36353823
+
+article : 404 : https://zhuanlan.zhihu.com/p/35398045
+
+article : 404 : https://zhuanlan.zhihu.com/p/36307038
+
+article : 404 : https://zhuanlan.zhihu.com/p/36787950
+
+article : 404 : https://zhuanlan.zhihu.com/p/36320344
+
+article : 404 : https://zhuanlan.zhihu.com/p/36337338
+
+article : 404 : https://zhuanlan.zhihu.com/p/36828534
+
+article : 404 : https://zhuanlan.zhihu.com/p/36306181
+
+article : 404 : https://zhuanlan.zhihu.com/p/36386371
+
+article : 404 : https://zhuanlan.zhihu.com/p/35361332
+
+article : 404 : https://zhuanlan.zhihu.com/p/36077689
+
+article : 404 : https://zhuanlan.zhihu.com/p/36519679
+
+CHECKING TOPIC: 19604685
+article : 404 : https://zhuanlan.zhihu.com/p/36073785
+
+article : 404 : https://zhuanlan.zhihu.com/p/36317844
+
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360745118
+
+article : 404 : https://zhuanlan.zhihu.com/p/36376678
+
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360960710
+
+answer : 404 : https://www.zhihu.com/question/63217696/answer/361181988
+
+article : 404 : https://zhuanlan.zhihu.com/p/36409181
+
+article : 404 : https://zhuanlan.zhihu.com/p/36657468
+
+CHECKING TOPIC: 19578134
+article : 404 : https://zhuanlan.zhihu.com/p/36525403
+
+question : 404 : https://www.zhihu.com/question/274510694
+
+article : 404 : https://zhuanlan.zhihu.com/p/36643193
+
+article : 404 : https://zhuanlan.zhihu.com/p/36033667
+
+article : 404 : https://zhuanlan.zhihu.com/p/36067568
+
+article : 404 : https://zhuanlan.zhihu.com/p/36478741
+
+article : 404 : https://zhuanlan.zhihu.com/p/36510625
+
+article : 404 : https://zhuanlan.zhihu.com/p/36032438
+
+article : 404 : https://zhuanlan.zhihu.com/p/36749975
+
+article : 404 : https://zhuanlan.zhihu.com/p/26709697
+
+article : 404 : https://zhuanlan.zhihu.com/p/36284602
+
+article : 404 : https://zhuanlan.zhihu.com/p/36865589
+
+article : 404 : https://zhuanlan.zhihu.com/p/36111919
+
+CHECKING TOPIC: 19790643
+CHECKING TOPIC: 20143250
+article : 404 : https://zhuanlan.zhihu.com/p/36476247
+
+article : 404 : https://zhuanlan.zhihu.com/p/35483450
+
+CHECKING TOPIC: 19577684
+article : 404 : https://zhuanlan.zhihu.com/p/32458042
+
+article : 404 : https://zhuanlan.zhihu.com/p/32645785
+
+CHECKING TOPIC: 19580621
+article : 404 : https://zhuanlan.zhihu.com/p/35945783
+
+POTENTIALLY CENSORED: 
+
+article : 404 : https://zhuanlan.zhihu.com/p/36696800
+question : 404 : https://www.zhihu.com/question/20508321
+answer : 404 : https://www.zhihu.com/question/20508321/answer/359957756
+article : 404 : https://zhuanlan.zhihu.com/p/36063657
+answer : 404 : https://www.zhihu.com/question/270621469/answer/360327135
+article : 404 : https://zhuanlan.zhihu.com/p/36135062
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360585851
+article : 404 : https://zhuanlan.zhihu.com/p/36277454
+article : 404 : https://zhuanlan.zhihu.com/p/36657884
+article : 404 : https://zhuanlan.zhihu.com/p/35390070
+article : 404 : https://zhuanlan.zhihu.com/p/36181276
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360139666
+article : 404 : https://zhuanlan.zhihu.com/p/36316451
+article : 404 : https://zhuanlan.zhihu.com/p/36422547
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360531602
+question : 404 : https://www.zhihu.com/question/270621469
+answer : 504 : https://www.zhihu.com/question/263908615/answer/384233272
+answer : 504 : https://www.zhihu.com/question/276760668/answer/391505727
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360451509
+article : 404 : https://zhuanlan.zhihu.com/p/36105713
+article : 404 : https://zhuanlan.zhihu.com/p/35955580
+article : 404 : https://zhuanlan.zhihu.com/p/36057892
+article : 404 : https://zhuanlan.zhihu.com/p/36661276
+article : 404 : https://zhuanlan.zhihu.com/p/36195061
+article : 404 : https://zhuanlan.zhihu.com/p/36850512
+article : 404 : https://zhuanlan.zhihu.com/p/36521024
+article : 404 : https://zhuanlan.zhihu.com/p/36171493
+article : 404 : https://zhuanlan.zhihu.com/p/35348203
+article : 404 : https://zhuanlan.zhihu.com/p/36511858
+article : 404 : https://zhuanlan.zhihu.com/p/36349085
+article : 404 : https://zhuanlan.zhihu.com/p/35340309
+article : 404 : https://zhuanlan.zhihu.com/p/36111919
+article : 404 : https://zhuanlan.zhihu.com/p/36433668
+article : 404 : https://zhuanlan.zhihu.com/p/29168675
+article : 404 : https://zhuanlan.zhihu.com/p/29571748
+article : 404 : https://zhuanlan.zhihu.com/p/29225410
+article : 404 : https://zhuanlan.zhihu.com/p/35396365
+answer : 404 : https://www.zhihu.com/question/276835890/answer/389630216
+article : 404 : https://zhuanlan.zhihu.com/p/36389430
+article : 404 : https://zhuanlan.zhihu.com/p/36163053
+article : 404 : https://zhuanlan.zhihu.com/p/35386151
+answer : 404 : https://www.zhihu.com/question/276567133/answer/389122202
+article : 404 : https://zhuanlan.zhihu.com/p/36551131
+article : 404 : https://zhuanlan.zhihu.com/p/36849203
+article : 404 : https://zhuanlan.zhihu.com/p/36128751
+article : 404 : https://zhuanlan.zhihu.com/p/36113457
+article : 404 : https://zhuanlan.zhihu.com/p/36162733
+article : 404 : https://zhuanlan.zhihu.com/p/36294449
+question : 404 : https://www.zhihu.com/question/57096610
+question : 404 : https://www.zhihu.com/question/275566365
+answer : 404 : https://www.zhihu.com/question/276835890/answer/389541260
+question : 404 : https://www.zhihu.com/question/37338939
+article : 404 : https://zhuanlan.zhihu.com/p/36139160
+article : 404 : https://zhuanlan.zhihu.com/p/36154720
+article : 404 : https://zhuanlan.zhihu.com/p/36783600
+article : 404 : https://zhuanlan.zhihu.com/p/36726608
+article : 404 : https://zhuanlan.zhihu.com/p/36823424
+article : 404 : https://zhuanlan.zhihu.com/p/36111919
+answer : 404 : https://www.zhihu.com/question/276835890/answer/389475564
+question : 404 : https://www.zhihu.com/question/39544602
+article : 404 : https://zhuanlan.zhihu.com/p/36396638
+article : 404 : https://zhuanlan.zhihu.com/p/36314308
+article : 404 : https://zhuanlan.zhihu.com/p/36182599
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382700657
+article : 404 : https://zhuanlan.zhihu.com/p/35410143
+article : 404 : https://zhuanlan.zhihu.com/p/36794250
+question : 404 : https://www.zhihu.com/question/275566365
+article : 404 : https://zhuanlan.zhihu.com/p/35199553
+answer : 404 : https://www.zhihu.com/question/39544602/answer/387579672
+question : 404 : https://www.zhihu.com/question/274386511
+article : 404 : https://zhuanlan.zhihu.com/p/36342878
+answer : 404 : https://www.zhihu.com/question/274386511/answer/375940367
+article : 404 : https://zhuanlan.zhihu.com/p/36670248
+article : 404 : https://zhuanlan.zhihu.com/p/36507618
+question : 404 : https://www.zhihu.com/question/274340450
+article : 404 : https://zhuanlan.zhihu.com/p/36667232
+answer : 404 : https://www.zhihu.com/question/274340450/answer/377183264
+article : 404 : https://zhuanlan.zhihu.com/p/36859278
+article : 404 : https://zhuanlan.zhihu.com/p/36784467
+article : 404 : https://zhuanlan.zhihu.com/p/36141968
+article : 404 : https://zhuanlan.zhihu.com/p/36079371
+article : 404 : https://zhuanlan.zhihu.com/p/36575937
+article : 404 : https://zhuanlan.zhihu.com/p/36388246
+article : 404 : https://zhuanlan.zhihu.com/p/36446174
+article : 404 : https://zhuanlan.zhihu.com/p/36680937
+article : 404 : https://zhuanlan.zhihu.com/p/36552325
+article : 404 : https://zhuanlan.zhihu.com/p/36354382
+article : 404 : https://zhuanlan.zhihu.com/p/36353823
+article : 404 : https://zhuanlan.zhihu.com/p/35398045
+article : 404 : https://zhuanlan.zhihu.com/p/36307038
+article : 404 : https://zhuanlan.zhihu.com/p/36787950
+article : 404 : https://zhuanlan.zhihu.com/p/36320344
+article : 404 : https://zhuanlan.zhihu.com/p/36337338
+article : 404 : https://zhuanlan.zhihu.com/p/36828534
+article : 404 : https://zhuanlan.zhihu.com/p/36306181
+article : 404 : https://zhuanlan.zhihu.com/p/36386371
+article : 404 : https://zhuanlan.zhihu.com/p/35361332
+article : 404 : https://zhuanlan.zhihu.com/p/36077689
+article : 404 : https://zhuanlan.zhihu.com/p/36519679
+article : 404 : https://zhuanlan.zhihu.com/p/36073785
+article : 404 : https://zhuanlan.zhihu.com/p/36317844
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360745118
+article : 404 : https://zhuanlan.zhihu.com/p/36376678
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360960710
+answer : 404 : https://www.zhihu.com/question/63217696/answer/361181988
+article : 404 : https://zhuanlan.zhihu.com/p/36409181
+article : 404 : https://zhuanlan.zhihu.com/p/36657468
+article : 404 : https://zhuanlan.zhihu.com/p/36525403
+question : 404 : https://www.zhihu.com/question/274510694
+article : 404 : https://zhuanlan.zhihu.com/p/36643193
+article : 404 : https://zhuanlan.zhihu.com/p/36033667
+article : 404 : https://zhuanlan.zhihu.com/p/36067568
+article : 404 : https://zhuanlan.zhihu.com/p/36478741
+article : 404 : https://zhuanlan.zhihu.com/p/36510625
+article : 404 : https://zhuanlan.zhihu.com/p/36032438
+article : 404 : https://zhuanlan.zhihu.com/p/36749975
+article : 404 : https://zhuanlan.zhihu.com/p/26709697
+article : 404 : https://zhuanlan.zhihu.com/p/36284602
+article : 404 : https://zhuanlan.zhihu.com/p/36865589
+article : 404 : https://zhuanlan.zhihu.com/p/36111919
+article : 404 : https://zhuanlan.zhihu.com/p/36476247
+article : 404 : https://zhuanlan.zhihu.com/p/35483450
+article : 404 : https://zhuanlan.zhihu.com/p/32458042
+article : 404 : https://zhuanlan.zhihu.com/p/32645785
+article : 404 : https://zhuanlan.zhihu.com/p/35945783
+
+2018-05-30 18:19:27.290236
+CHECKING TOPIC: 19612705
+article : 404 : https://zhuanlan.zhihu.com/p/36696800
+
+article : 404 : https://zhuanlan.zhihu.com/p/36808727
+
+article : 404 : https://zhuanlan.zhihu.com/p/36000403
+
+article : 404 : https://zhuanlan.zhihu.com/p/36133388
+
+answer : 404 : https://www.zhihu.com/question/20508321/answer/359957756
+
+CHECKING TOPIC: 19570500
+article : 404 : https://zhuanlan.zhihu.com/p/36191346
+
+article : 404 : https://zhuanlan.zhihu.com/p/36614698
+
+answer : 404 : https://www.zhihu.com/question/270621469/answer/360327135
+
+article : 404 : https://zhuanlan.zhihu.com/p/36375120
+
+article : 404 : https://zhuanlan.zhihu.com/p/36668051
+
+article : 404 : https://zhuanlan.zhihu.com/p/36058311
+
+question : 404 : https://www.zhihu.com/question/26202140
+
+article : 404 : https://zhuanlan.zhihu.com/p/36135062
+
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360585851
+
+article : 404 : https://zhuanlan.zhihu.com/p/36657884
+
+article : 404 : https://zhuanlan.zhihu.com/p/36174584
+
+article : 404 : https://zhuanlan.zhihu.com/p/35390070
+
+article : 404 : https://zhuanlan.zhihu.com/p/36441229
+
+article : 404 : https://zhuanlan.zhihu.com/p/36181276
+
+article : 404 : https://zhuanlan.zhihu.com/p/36824814
+
+article : 404 : https://zhuanlan.zhihu.com/p/36779453
+
+article : 404 : https://zhuanlan.zhihu.com/p/35433032
+
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360139666
+
+article : 404 : https://zhuanlan.zhihu.com/p/36709486
+
+article : 404 : https://zhuanlan.zhihu.com/p/36316451
+
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360531602
+
+answer : 404 : https://www.zhihu.com/question/270621469/answer/360779666
+
+CHECKING TOPIC: 19550842
+article : 404 : https://zhuanlan.zhihu.com/p/36105713
+
+article : 404 : https://zhuanlan.zhihu.com/p/35955580
+
+article : 404 : https://zhuanlan.zhihu.com/p/36057892
+
+article : 404 : https://zhuanlan.zhihu.com/p/36580456
+
+article : 404 : https://zhuanlan.zhihu.com/p/36661276
+
+article : 404 : https://zhuanlan.zhihu.com/p/36515583
+
+article : 404 : https://zhuanlan.zhihu.com/p/35955562
+
+article : 404 : https://zhuanlan.zhihu.com/p/36335616
+
+article : 404 : https://zhuanlan.zhihu.com/p/36041786
+
+article : 404 : https://zhuanlan.zhihu.com/p/36811574
+
+article : 404 : https://zhuanlan.zhihu.com/p/36220538
+
+article : 404 : https://zhuanlan.zhihu.com/p/36840050
+
+article : 404 : https://zhuanlan.zhihu.com/p/35955609
+
+article : 404 : https://zhuanlan.zhihu.com/p/36729065
+
+article : 404 : https://zhuanlan.zhihu.com/p/36600848
+
+article : 404 : https://zhuanlan.zhihu.com/p/36383893
+
+article : 404 : https://zhuanlan.zhihu.com/p/36857760
+
+article : 404 : https://zhuanlan.zhihu.com/p/35381461
+
+article : 404 : https://zhuanlan.zhihu.com/p/36171493
+
+article : 404 : https://zhuanlan.zhihu.com/p/35348203
+
+article : 404 : https://zhuanlan.zhihu.com/p/36511858
+
+question : 404 : https://www.zhihu.com/question/276443287
+
+article : 404 : https://zhuanlan.zhihu.com/p/34591735
+
+article : 404 : https://zhuanlan.zhihu.com/p/36349085
+
+article : 404 : https://zhuanlan.zhihu.com/p/35340309
+
+article : 404 : https://zhuanlan.zhihu.com/p/36111919
+
+article : 404 : https://zhuanlan.zhihu.com/p/36433668
+
+CHECKING TOPIC: 20045556
+article : 404 : https://zhuanlan.zhihu.com/p/29168675
+
+article : 404 : https://zhuanlan.zhihu.com/p/36661276
+
+article : 404 : https://zhuanlan.zhihu.com/p/29373905
+
+article : 404 : https://zhuanlan.zhihu.com/p/32121329
+
+article : 404 : https://zhuanlan.zhihu.com/p/29289136
+
+article : 404 : https://zhuanlan.zhihu.com/p/29571748
+
+article : 404 : https://zhuanlan.zhihu.com/p/29237988
+
+article : 404 : https://zhuanlan.zhihu.com/p/29288484
+
+question : 404 : https://www.zhihu.com/question/65084134
+
+article : 404 : https://zhuanlan.zhihu.com/p/35847732
+
+article : 404 : https://zhuanlan.zhihu.com/p/29370373
+
+article : 404 : https://zhuanlan.zhihu.com/p/33317604
+
+CHECKING TOPIC: 19553437
+article : 404 : https://zhuanlan.zhihu.com/p/36125347
+
+article : 404 : https://zhuanlan.zhihu.com/p/35395849
+
+article : 404 : https://zhuanlan.zhihu.com/p/36661758
+
+article : 404 : https://zhuanlan.zhihu.com/p/36396638
+
+article : 404 : https://zhuanlan.zhihu.com/p/36113741
+
+article : 404 : https://zhuanlan.zhihu.com/p/36389430
+
+article : 404 : https://zhuanlan.zhihu.com/p/36470162
+
+answer : 404 : https://www.zhihu.com/question/276567133/answer/389122202
+
+article : 404 : https://zhuanlan.zhihu.com/p/36757651
+
+article : 404 : https://zhuanlan.zhihu.com/p/36314308
+
+article : 404 : https://zhuanlan.zhihu.com/p/35383863
+
+article : 404 : https://zhuanlan.zhihu.com/p/36487002
+
+article : 404 : https://zhuanlan.zhihu.com/p/36849203
+
+article : 404 : https://zhuanlan.zhihu.com/p/36079575
+
+article : 404 : https://zhuanlan.zhihu.com/p/36658783
+
+article : 404 : https://zhuanlan.zhihu.com/p/36128751
+
+article : 404 : https://zhuanlan.zhihu.com/p/36356937
+
+article : 404 : https://zhuanlan.zhihu.com/p/36113457
+
+article : 404 : https://zhuanlan.zhihu.com/p/35396538
+
+article : 404 : https://zhuanlan.zhihu.com/p/36315833
+
+article : 404 : https://zhuanlan.zhihu.com/p/36294449
+
+article : 404 : https://zhuanlan.zhihu.com/p/35396400
+
+article : 404 : https://zhuanlan.zhihu.com/p/36721900
+
+article : 404 : https://zhuanlan.zhihu.com/p/36070952
+
+article : 404 : https://zhuanlan.zhihu.com/p/36303067
+
+article : 404 : https://zhuanlan.zhihu.com/p/36365723
+
+article : 404 : https://zhuanlan.zhihu.com/p/35396479
+
+article : 404 : https://zhuanlan.zhihu.com/p/36205412
+
+article : 404 : https://zhuanlan.zhihu.com/p/36110915
+
+article : 404 : https://zhuanlan.zhihu.com/p/36844983
+
+article : 404 : https://zhuanlan.zhihu.com/p/36433583
+
+article : 404 : https://zhuanlan.zhihu.com/p/36783600
+
+article : 404 : https://zhuanlan.zhihu.com/p/36726608
+
+article : 404 : https://zhuanlan.zhihu.com/p/36480325
+
+article : 404 : https://zhuanlan.zhihu.com/p/36424869
+
+article : 404 : https://zhuanlan.zhihu.com/p/36066025
+
+article : 404 : https://zhuanlan.zhihu.com/p/36111919
+
+article : 404 : https://zhuanlan.zhihu.com/p/35386960
+
+article : 404 : https://zhuanlan.zhihu.com/p/36099567
+
+article : 404 : https://zhuanlan.zhihu.com/p/36339515
+
+CHECKING TOPIC: 19661586
+article : 404 : https://zhuanlan.zhihu.com/p/36396638
+
+article : 404 : https://zhuanlan.zhihu.com/p/36314308
+
+article : 404 : https://zhuanlan.zhihu.com/p/36256171
+
+article : 404 : https://zhuanlan.zhihu.com/p/36182599
+
+article : 404 : https://zhuanlan.zhihu.com/p/34912237
+
+article : 404 : https://zhuanlan.zhihu.com/p/36616580
+
+article : 404 : https://zhuanlan.zhihu.com/p/36794250
+
+article : 404 : https://zhuanlan.zhihu.com/p/36776098
+
+article : 404 : https://zhuanlan.zhihu.com/p/36271418
+
+answer : 404 : https://www.zhihu.com/question/275566365/answer/381176766
+
+article : 404 : https://zhuanlan.zhihu.com/p/36744894
+
+CHECKING TOPIC: 19553911
+article : 404 : https://zhuanlan.zhihu.com/p/36375387
+
+article : 404 : https://zhuanlan.zhihu.com/p/36525213
+
+article : 404 : https://zhuanlan.zhihu.com/p/36749928
+
+article : 404 : https://zhuanlan.zhihu.com/p/36742573
+
+article : 404 : https://zhuanlan.zhihu.com/p/36342878
+
+article : 404 : https://zhuanlan.zhihu.com/p/36479205
+
+article : 404 : https://zhuanlan.zhihu.com/p/35437047
+
+article : 404 : https://zhuanlan.zhihu.com/p/36594779
+
+article : 404 : https://zhuanlan.zhihu.com/p/36670248
+
+article : 404 : https://zhuanlan.zhihu.com/p/36507618
+
+question : 404 : https://www.zhihu.com/question/26202140
+
+article : 404 : https://zhuanlan.zhihu.com/p/36539177
+
+article : 404 : https://zhuanlan.zhihu.com/p/36515029
+
+article : 404 : https://zhuanlan.zhihu.com/p/36092816
+
+article : 404 : https://zhuanlan.zhihu.com/p/36500933
+
+article : 404 : https://zhuanlan.zhihu.com/p/36827025
+
+article : 404 : https://zhuanlan.zhihu.com/p/36205067
+
+answer : 404 : https://www.zhihu.com/question/274340450/answer/377183264
+
+article : 404 : https://zhuanlan.zhihu.com/p/36517961
+
+article : 404 : https://zhuanlan.zhihu.com/p/36317333
+
+article : 404 : https://zhuanlan.zhihu.com/p/36784467
+
+article : 404 : https://zhuanlan.zhihu.com/p/36141968
+
+article : 404 : https://zhuanlan.zhihu.com/p/36305951
+
+article : 404 : https://zhuanlan.zhihu.com/p/36185142
+
+article : 404 : https://zhuanlan.zhihu.com/p/36079371
+
+article : 404 : https://zhuanlan.zhihu.com/p/36575937
+
+article : 404 : https://zhuanlan.zhihu.com/p/36162002
+
+article : 404 : https://zhuanlan.zhihu.com/p/36173562
+
+article : 404 : https://zhuanlan.zhihu.com/p/36354382
+
+article : 404 : https://zhuanlan.zhihu.com/p/36353823
+
+article : 404 : https://zhuanlan.zhihu.com/p/35398045
+
+article : 404 : https://zhuanlan.zhihu.com/p/36320344
+
+article : 404 : https://zhuanlan.zhihu.com/p/36337338
+
+article : 404 : https://zhuanlan.zhihu.com/p/36154720
+
+article : 404 : https://zhuanlan.zhihu.com/p/36472766
+
+question : 404 : https://www.zhihu.com/question/276305981
+
+article : 404 : https://zhuanlan.zhihu.com/p/36828534
+
+article : 404 : https://zhuanlan.zhihu.com/p/36306181
+
+article : 404 : https://zhuanlan.zhihu.com/p/36625823
+
+article : 404 : https://zhuanlan.zhihu.com/p/36109913
+
+article : 404 : https://zhuanlan.zhihu.com/p/36077689
+
+article : 404 : https://zhuanlan.zhihu.com/p/36519679
+
+CHECKING TOPIC: 19604685
+article : 404 : https://zhuanlan.zhihu.com/p/36314308
+
+article : 404 : https://zhuanlan.zhihu.com/p/36073785
+
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360745118
+
+question : 404 : https://www.zhihu.com/question/52218084
+
+answer : 404 : https://www.zhihu.com/question/52218084/answer/381353494
+
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360960710
+
+article : 404 : https://zhuanlan.zhihu.com/p/36389544
+
+article : 404 : https://zhuanlan.zhihu.com/p/36271418
+
+article : 404 : https://zhuanlan.zhihu.com/p/36154720
+
+article : 404 : https://zhuanlan.zhihu.com/p/36657468
+
+answer : 404 : https://www.zhihu.com/question/63217696/answer/361368686
+
+CHECKING TOPIC: 19578134
+article : 404 : https://zhuanlan.zhihu.com/p/36033667
+
+article : 404 : https://zhuanlan.zhihu.com/p/36067568
+
+article : 404 : https://zhuanlan.zhihu.com/p/36478741
+
+article : 404 : https://zhuanlan.zhihu.com/p/36510625
+
+article : 404 : https://zhuanlan.zhihu.com/p/26709697
+
+article : 404 : https://zhuanlan.zhihu.com/p/36865589
+
+article : 404 : https://zhuanlan.zhihu.com/p/36111919
+
+CHECKING TOPIC: 19790643
+CHECKING TOPIC: 20143250
+CHECKING TOPIC: 19577684
+article : 404 : https://zhuanlan.zhihu.com/p/32458042
+
+article : 404 : https://zhuanlan.zhihu.com/p/36647109
+
+article : 404 : https://zhuanlan.zhihu.com/p/36474789
+
+article : 404 : https://zhuanlan.zhihu.com/p/36288607
+
+article : 404 : https://zhuanlan.zhihu.com/p/33480481
+
+CHECKING TOPIC: 19580621
+article : 404 : https://zhuanlan.zhihu.com/p/35887141
+
+POTENTIALLY CENSORED: 
+
+article : 404 : https://zhuanlan.zhihu.com/p/36696800
+article : 404 : https://zhuanlan.zhihu.com/p/36808727
+article : 404 : https://zhuanlan.zhihu.com/p/36000403
+article : 404 : https://zhuanlan.zhihu.com/p/36133388
+answer : 404 : https://www.zhihu.com/question/20508321/answer/359957756
+article : 404 : https://zhuanlan.zhihu.com/p/36191346
+article : 404 : https://zhuanlan.zhihu.com/p/36614698
+answer : 404 : https://www.zhihu.com/question/270621469/answer/360327135
+article : 404 : https://zhuanlan.zhihu.com/p/36375120
+article : 404 : https://zhuanlan.zhihu.com/p/36668051
+article : 404 : https://zhuanlan.zhihu.com/p/36058311
+question : 404 : https://www.zhihu.com/question/26202140
+article : 404 : https://zhuanlan.zhihu.com/p/36135062
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360585851
+article : 404 : https://zhuanlan.zhihu.com/p/36657884
+article : 404 : https://zhuanlan.zhihu.com/p/36174584
+article : 404 : https://zhuanlan.zhihu.com/p/35390070
+article : 404 : https://zhuanlan.zhihu.com/p/36441229
+article : 404 : https://zhuanlan.zhihu.com/p/36181276
+article : 404 : https://zhuanlan.zhihu.com/p/36824814
+article : 404 : https://zhuanlan.zhihu.com/p/36779453
+article : 404 : https://zhuanlan.zhihu.com/p/35433032
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360139666
+article : 404 : https://zhuanlan.zhihu.com/p/36709486
+article : 404 : https://zhuanlan.zhihu.com/p/36316451
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360531602
+answer : 404 : https://www.zhihu.com/question/270621469/answer/360779666
+article : 404 : https://zhuanlan.zhihu.com/p/36105713
+article : 404 : https://zhuanlan.zhihu.com/p/35955580
+article : 404 : https://zhuanlan.zhihu.com/p/36057892
+article : 404 : https://zhuanlan.zhihu.com/p/36580456
+article : 404 : https://zhuanlan.zhihu.com/p/36661276
+article : 404 : https://zhuanlan.zhihu.com/p/36515583
+article : 404 : https://zhuanlan.zhihu.com/p/35955562
+article : 404 : https://zhuanlan.zhihu.com/p/36335616
+article : 404 : https://zhuanlan.zhihu.com/p/36041786
+article : 404 : https://zhuanlan.zhihu.com/p/36811574
+article : 404 : https://zhuanlan.zhihu.com/p/36220538
+article : 404 : https://zhuanlan.zhihu.com/p/36840050
+article : 404 : https://zhuanlan.zhihu.com/p/35955609
+article : 404 : https://zhuanlan.zhihu.com/p/36729065
+article : 404 : https://zhuanlan.zhihu.com/p/36600848
+article : 404 : https://zhuanlan.zhihu.com/p/36383893
+article : 404 : https://zhuanlan.zhihu.com/p/36857760
+article : 404 : https://zhuanlan.zhihu.com/p/35381461
+article : 404 : https://zhuanlan.zhihu.com/p/36171493
+article : 404 : https://zhuanlan.zhihu.com/p/35348203
+article : 404 : https://zhuanlan.zhihu.com/p/36511858
+question : 404 : https://www.zhihu.com/question/276443287
+article : 404 : https://zhuanlan.zhihu.com/p/34591735
+article : 404 : https://zhuanlan.zhihu.com/p/36349085
+article : 404 : https://zhuanlan.zhihu.com/p/35340309
+article : 404 : https://zhuanlan.zhihu.com/p/36111919
+article : 404 : https://zhuanlan.zhihu.com/p/36433668
+article : 404 : https://zhuanlan.zhihu.com/p/29168675
+article : 404 : https://zhuanlan.zhihu.com/p/36661276
+article : 404 : https://zhuanlan.zhihu.com/p/29373905
+article : 404 : https://zhuanlan.zhihu.com/p/32121329
+article : 404 : https://zhuanlan.zhihu.com/p/29289136
+article : 404 : https://zhuanlan.zhihu.com/p/29571748
+article : 404 : https://zhuanlan.zhihu.com/p/29237988
+article : 404 : https://zhuanlan.zhihu.com/p/29288484
+question : 404 : https://www.zhihu.com/question/65084134
+article : 404 : https://zhuanlan.zhihu.com/p/35847732
+article : 404 : https://zhuanlan.zhihu.com/p/29370373
+article : 404 : https://zhuanlan.zhihu.com/p/33317604
+article : 404 : https://zhuanlan.zhihu.com/p/36125347
+article : 404 : https://zhuanlan.zhihu.com/p/35395849
+article : 404 : https://zhuanlan.zhihu.com/p/36661758
+article : 404 : https://zhuanlan.zhihu.com/p/36396638
+article : 404 : https://zhuanlan.zhihu.com/p/36113741
+article : 404 : https://zhuanlan.zhihu.com/p/36389430
+article : 404 : https://zhuanlan.zhihu.com/p/36470162
+answer : 404 : https://www.zhihu.com/question/276567133/answer/389122202
+article : 404 : https://zhuanlan.zhihu.com/p/36757651
+article : 404 : https://zhuanlan.zhihu.com/p/36314308
+article : 404 : https://zhuanlan.zhihu.com/p/35383863
+article : 404 : https://zhuanlan.zhihu.com/p/36487002
+article : 404 : https://zhuanlan.zhihu.com/p/36849203
+article : 404 : https://zhuanlan.zhihu.com/p/36079575
+article : 404 : https://zhuanlan.zhihu.com/p/36658783
+article : 404 : https://zhuanlan.zhihu.com/p/36128751
+article : 404 : https://zhuanlan.zhihu.com/p/36356937
+article : 404 : https://zhuanlan.zhihu.com/p/36113457
+article : 404 : https://zhuanlan.zhihu.com/p/35396538
+article : 404 : https://zhuanlan.zhihu.com/p/36315833
+article : 404 : https://zhuanlan.zhihu.com/p/36294449
+article : 404 : https://zhuanlan.zhihu.com/p/35396400
+article : 404 : https://zhuanlan.zhihu.com/p/36721900
+article : 404 : https://zhuanlan.zhihu.com/p/36070952
+article : 404 : https://zhuanlan.zhihu.com/p/36303067
+article : 404 : https://zhuanlan.zhihu.com/p/36365723
+article : 404 : https://zhuanlan.zhihu.com/p/35396479
+article : 404 : https://zhuanlan.zhihu.com/p/36205412
+article : 404 : https://zhuanlan.zhihu.com/p/36110915
+article : 404 : https://zhuanlan.zhihu.com/p/36844983
+article : 404 : https://zhuanlan.zhihu.com/p/36433583
+article : 404 : https://zhuanlan.zhihu.com/p/36783600
+article : 404 : https://zhuanlan.zhihu.com/p/36726608
+article : 404 : https://zhuanlan.zhihu.com/p/36480325
+article : 404 : https://zhuanlan.zhihu.com/p/36424869
+article : 404 : https://zhuanlan.zhihu.com/p/36066025
+article : 404 : https://zhuanlan.zhihu.com/p/36111919
+article : 404 : https://zhuanlan.zhihu.com/p/35386960
+article : 404 : https://zhuanlan.zhihu.com/p/36099567
+article : 404 : https://zhuanlan.zhihu.com/p/36339515
+article : 404 : https://zhuanlan.zhihu.com/p/36396638
+article : 404 : https://zhuanlan.zhihu.com/p/36314308
+article : 404 : https://zhuanlan.zhihu.com/p/36256171
+article : 404 : https://zhuanlan.zhihu.com/p/36182599
+article : 404 : https://zhuanlan.zhihu.com/p/34912237
+article : 404 : https://zhuanlan.zhihu.com/p/36616580
+article : 404 : https://zhuanlan.zhihu.com/p/36794250
+article : 404 : https://zhuanlan.zhihu.com/p/36776098
+article : 404 : https://zhuanlan.zhihu.com/p/36271418
+answer : 404 : https://www.zhihu.com/question/275566365/answer/381176766
+article : 404 : https://zhuanlan.zhihu.com/p/36744894
+article : 404 : https://zhuanlan.zhihu.com/p/36375387
+article : 404 : https://zhuanlan.zhihu.com/p/36525213
+article : 404 : https://zhuanlan.zhihu.com/p/36749928
+article : 404 : https://zhuanlan.zhihu.com/p/36742573
+article : 404 : https://zhuanlan.zhihu.com/p/36342878
+article : 404 : https://zhuanlan.zhihu.com/p/36479205
+article : 404 : https://zhuanlan.zhihu.com/p/35437047
+article : 404 : https://zhuanlan.zhihu.com/p/36594779
+article : 404 : https://zhuanlan.zhihu.com/p/36670248
+article : 404 : https://zhuanlan.zhihu.com/p/36507618
+question : 404 : https://www.zhihu.com/question/26202140
+article : 404 : https://zhuanlan.zhihu.com/p/36539177
+article : 404 : https://zhuanlan.zhihu.com/p/36515029
+article : 404 : https://zhuanlan.zhihu.com/p/36092816
+article : 404 : https://zhuanlan.zhihu.com/p/36500933
+article : 404 : https://zhuanlan.zhihu.com/p/36827025
+article : 404 : https://zhuanlan.zhihu.com/p/36205067
+answer : 404 : https://www.zhihu.com/question/274340450/answer/377183264
+article : 404 : https://zhuanlan.zhihu.com/p/36517961
+article : 404 : https://zhuanlan.zhihu.com/p/36317333
+article : 404 : https://zhuanlan.zhihu.com/p/36784467
+article : 404 : https://zhuanlan.zhihu.com/p/36141968
+article : 404 : https://zhuanlan.zhihu.com/p/36305951
+article : 404 : https://zhuanlan.zhihu.com/p/36185142
+article : 404 : https://zhuanlan.zhihu.com/p/36079371
+article : 404 : https://zhuanlan.zhihu.com/p/36575937
+article : 404 : https://zhuanlan.zhihu.com/p/36162002
+article : 404 : https://zhuanlan.zhihu.com/p/36173562
+article : 404 : https://zhuanlan.zhihu.com/p/36354382
+article : 404 : https://zhuanlan.zhihu.com/p/36353823
+article : 404 : https://zhuanlan.zhihu.com/p/35398045
+article : 404 : https://zhuanlan.zhihu.com/p/36320344
+article : 404 : https://zhuanlan.zhihu.com/p/36337338
+article : 404 : https://zhuanlan.zhihu.com/p/36154720
+article : 404 : https://zhuanlan.zhihu.com/p/36472766
+question : 404 : https://www.zhihu.com/question/276305981
+article : 404 : https://zhuanlan.zhihu.com/p/36828534
+article : 404 : https://zhuanlan.zhihu.com/p/36306181
+article : 404 : https://zhuanlan.zhihu.com/p/36625823
+article : 404 : https://zhuanlan.zhihu.com/p/36109913
+article : 404 : https://zhuanlan.zhihu.com/p/36077689
+article : 404 : https://zhuanlan.zhihu.com/p/36519679
+article : 404 : https://zhuanlan.zhihu.com/p/36314308
+article : 404 : https://zhuanlan.zhihu.com/p/36073785
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360745118
+question : 404 : https://www.zhihu.com/question/52218084
+answer : 404 : https://www.zhihu.com/question/52218084/answer/381353494
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360960710
+article : 404 : https://zhuanlan.zhihu.com/p/36389544
+article : 404 : https://zhuanlan.zhihu.com/p/36271418
+article : 404 : https://zhuanlan.zhihu.com/p/36154720
+article : 404 : https://zhuanlan.zhihu.com/p/36657468
+answer : 404 : https://www.zhihu.com/question/63217696/answer/361368686
+article : 404 : https://zhuanlan.zhihu.com/p/36033667
+article : 404 : https://zhuanlan.zhihu.com/p/36067568
+article : 404 : https://zhuanlan.zhihu.com/p/36478741
+article : 404 : https://zhuanlan.zhihu.com/p/36510625
+article : 404 : https://zhuanlan.zhihu.com/p/26709697
+article : 404 : https://zhuanlan.zhihu.com/p/36865589
+article : 404 : https://zhuanlan.zhihu.com/p/36111919
+article : 404 : https://zhuanlan.zhihu.com/p/32458042
+article : 404 : https://zhuanlan.zhihu.com/p/36647109
+article : 404 : https://zhuanlan.zhihu.com/p/36474789
+article : 404 : https://zhuanlan.zhihu.com/p/36288607
+article : 404 : https://zhuanlan.zhihu.com/p/33480481
+article : 404 : https://zhuanlan.zhihu.com/p/35887141
+
+2018-05-31 05:37:30.828491
+CHECKING TOPIC: 19612705
+article : 404 : https://zhuanlan.zhihu.com/p/36696800
+
+question : 404 : https://www.zhihu.com/question/20508321
+
+article : 404 : https://zhuanlan.zhihu.com/p/36000403
+
+answer : 404 : https://www.zhihu.com/question/20508321/answer/359957756
+
+CHECKING TOPIC: 19570500
+article : 404 : https://zhuanlan.zhihu.com/p/36668051
+
+question : 404 : https://www.zhihu.com/question/26202140
+
+article : 404 : https://zhuanlan.zhihu.com/p/36135062
+
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360585851
+
+article : 404 : https://zhuanlan.zhihu.com/p/35390070
+
+question : 404 : https://www.zhihu.com/question/270415168
+
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360139666
+
+article : 404 : https://zhuanlan.zhihu.com/p/36533481
+
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360531602
+
+question : 404 : https://www.zhihu.com/question/270621469
+
+answer : 404 : https://www.zhihu.com/question/270621469/answer/360779666
+
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360451509
+
+answer : 404 : https://www.zhihu.com/question/26202140/answer/391641808
+
+CHECKING TOPIC: 19550842
+article : 404 : https://zhuanlan.zhihu.com/p/36057892
+
+answer : 404 : https://www.zhihu.com/question/276443287/answer/387094275
+
+article : 404 : https://zhuanlan.zhihu.com/p/36600848
+
+question : 404 : https://www.zhihu.com/question/276443287
+
+article : 404 : https://zhuanlan.zhihu.com/p/36111919
+
+CHECKING TOPIC: 20045556
+article : 404 : https://zhuanlan.zhihu.com/p/36661276
+
+answer : 404 : https://www.zhihu.com/question/276443287/answer/387094275
+
+question : 404 : https://www.zhihu.com/question/65084134
+
+answer : 404 : https://www.zhihu.com/question/65084134/answer/233737394
+
+answer : 404 : https://www.zhihu.com/question/53285849/answer/171910856
+
+question : 404 : https://www.zhihu.com/question/276443287
+
+answer : 404 : https://www.zhihu.com/question/53285849/answer/178974817
+
+question : 404 : https://www.zhihu.com/question/53285849
+
+article : 404 : https://zhuanlan.zhihu.com/p/33317604
+
+CHECKING TOPIC: 19553437
+article : 404 : https://zhuanlan.zhihu.com/p/35396365
+
+article : 404 : https://zhuanlan.zhihu.com/p/36661758
+
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382765744
+
+answer : 404 : https://www.zhihu.com/question/276567133/answer/389122202
+
+answer : 404 : https://www.zhihu.com/question/57096610/answer/383970500
+
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382700657
+
+article : 404 : https://zhuanlan.zhihu.com/p/36294449
+
+article : 404 : https://zhuanlan.zhihu.com/p/36181722
+
+question : 404 : https://www.zhihu.com/question/57096610
+
+question : 404 : https://www.zhihu.com/question/275566365
+
+answer : 404 : https://www.zhihu.com/question/276835890/answer/389541260
+
+question : 404 : https://www.zhihu.com/question/37338939
+
+question : 404 : https://www.zhihu.com/question/276567133
+
+article : 404 : https://zhuanlan.zhihu.com/p/36353823
+
+article : 404 : https://zhuanlan.zhihu.com/p/36479623
+
+article : 404 : https://zhuanlan.zhihu.com/p/36154720
+
+answer : 404 : https://www.zhihu.com/question/37338939/answer/361799600
+
+answer : 404 : https://www.zhihu.com/question/57096610/answer/384116518
+
+article : 404 : https://zhuanlan.zhihu.com/p/36111919
+
+answer : 404 : https://www.zhihu.com/question/276835890/answer/389475564
+
+question : 404 : https://www.zhihu.com/question/276835890
+
+CHECKING TOPIC: 19661586
+question : 404 : https://www.zhihu.com/question/39544602
+
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382765744
+
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382700657
+
+question : 404 : https://www.zhihu.com/question/275566365
+
+answer : 404 : https://www.zhihu.com/question/275566365/answer/381176766
+
+answer : 404 : https://www.zhihu.com/question/39544602/answer/387579672
+
+CHECKING TOPIC: 19553911
+question : 404 : https://www.zhihu.com/question/274386511
+
+answer : 404 : https://www.zhihu.com/question/274386511/answer/375940367
+
+question : 404 : https://www.zhihu.com/question/26202140
+
+answer : 404 : https://www.zhihu.com/question/276305981/answer/386113620
+
+question : 404 : https://www.zhihu.com/question/274340450
+
+answer : 404 : https://www.zhihu.com/question/274340450/answer/377183264
+
+article : 404 : https://zhuanlan.zhihu.com/p/36141968
+
+article : 404 : https://zhuanlan.zhihu.com/p/36354382
+
+article : 404 : https://zhuanlan.zhihu.com/p/36337338
+
+question : 404 : https://www.zhihu.com/question/276305981
+
+answer : 404 : https://www.zhihu.com/question/26202140/answer/391641808
+
+CHECKING TOPIC: 19604685
+question : 404 : https://www.zhihu.com/question/63217696
+
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360266807
+
+answer : 404 : https://www.zhihu.com/question/63217696/answer/361136539
+
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360745118
+
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360125494
+
+question : 404 : https://www.zhihu.com/question/52218084
+
+answer : 404 : https://www.zhihu.com/question/52218084/answer/381353494
+
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360960710
+
+answer : 404 : https://www.zhihu.com/question/63217696/answer/361181988
+
+answer : 404 : https://www.zhihu.com/question/63217696/answer/361368686
+
+CHECKING TOPIC: 19578134
+question : 404 : https://www.zhihu.com/question/274510694
+
+article : 404 : https://zhuanlan.zhihu.com/p/36033667
+
+article : 404 : https://zhuanlan.zhihu.com/p/36067568
+
+article : 404 : https://zhuanlan.zhihu.com/p/36478741
+
+article : 404 : https://zhuanlan.zhihu.com/p/36111919
+
+answer : 404 : https://www.zhihu.com/question/274510694/answer/375438754
+
+article : 404 : https://zhuanlan.zhihu.com/p/36744797
+
+CHECKING TOPIC: 19790643
+CHECKING TOPIC: 20143250
+CHECKING TOPIC: 19577684
+CHECKING TOPIC: 19580621
+POTENTIALLY CENSORED: 
+
+article : 404 : https://zhuanlan.zhihu.com/p/36696800
+question : 404 : https://www.zhihu.com/question/20508321
+article : 404 : https://zhuanlan.zhihu.com/p/36000403
+answer : 404 : https://www.zhihu.com/question/20508321/answer/359957756
+article : 404 : https://zhuanlan.zhihu.com/p/36668051
+question : 404 : https://www.zhihu.com/question/26202140
+article : 404 : https://zhuanlan.zhihu.com/p/36135062
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360585851
+article : 404 : https://zhuanlan.zhihu.com/p/35390070
+question : 404 : https://www.zhihu.com/question/270415168
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360139666
+article : 404 : https://zhuanlan.zhihu.com/p/36533481
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360531602
+question : 404 : https://www.zhihu.com/question/270621469
+answer : 404 : https://www.zhihu.com/question/270621469/answer/360779666
+answer : 404 : https://www.zhihu.com/question/270415168/answer/360451509
+answer : 404 : https://www.zhihu.com/question/26202140/answer/391641808
+article : 404 : https://zhuanlan.zhihu.com/p/36057892
+answer : 404 : https://www.zhihu.com/question/276443287/answer/387094275
+article : 404 : https://zhuanlan.zhihu.com/p/36600848
+question : 404 : https://www.zhihu.com/question/276443287
+article : 404 : https://zhuanlan.zhihu.com/p/36111919
+article : 404 : https://zhuanlan.zhihu.com/p/36661276
+answer : 404 : https://www.zhihu.com/question/276443287/answer/387094275
+question : 404 : https://www.zhihu.com/question/65084134
+answer : 404 : https://www.zhihu.com/question/65084134/answer/233737394
+answer : 404 : https://www.zhihu.com/question/53285849/answer/171910856
+question : 404 : https://www.zhihu.com/question/276443287
+answer : 404 : https://www.zhihu.com/question/53285849/answer/178974817
+question : 404 : https://www.zhihu.com/question/53285849
+article : 404 : https://zhuanlan.zhihu.com/p/33317604
+article : 404 : https://zhuanlan.zhihu.com/p/35396365
+article : 404 : https://zhuanlan.zhihu.com/p/36661758
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382765744
+answer : 404 : https://www.zhihu.com/question/276567133/answer/389122202
+answer : 404 : https://www.zhihu.com/question/57096610/answer/383970500
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382700657
+article : 404 : https://zhuanlan.zhihu.com/p/36294449
+article : 404 : https://zhuanlan.zhihu.com/p/36181722
+question : 404 : https://www.zhihu.com/question/57096610
+question : 404 : https://www.zhihu.com/question/275566365
+answer : 404 : https://www.zhihu.com/question/276835890/answer/389541260
+question : 404 : https://www.zhihu.com/question/37338939
+question : 404 : https://www.zhihu.com/question/276567133
+article : 404 : https://zhuanlan.zhihu.com/p/36353823
+article : 404 : https://zhuanlan.zhihu.com/p/36479623
+article : 404 : https://zhuanlan.zhihu.com/p/36154720
+answer : 404 : https://www.zhihu.com/question/37338939/answer/361799600
+answer : 404 : https://www.zhihu.com/question/57096610/answer/384116518
+article : 404 : https://zhuanlan.zhihu.com/p/36111919
+answer : 404 : https://www.zhihu.com/question/276835890/answer/389475564
+question : 404 : https://www.zhihu.com/question/276835890
+question : 404 : https://www.zhihu.com/question/39544602
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382765744
+answer : 404 : https://www.zhihu.com/question/275566365/answer/382700657
+question : 404 : https://www.zhihu.com/question/275566365
+answer : 404 : https://www.zhihu.com/question/275566365/answer/381176766
+answer : 404 : https://www.zhihu.com/question/39544602/answer/387579672
+question : 404 : https://www.zhihu.com/question/274386511
+answer : 404 : https://www.zhihu.com/question/274386511/answer/375940367
+question : 404 : https://www.zhihu.com/question/26202140
+answer : 404 : https://www.zhihu.com/question/276305981/answer/386113620
+question : 404 : https://www.zhihu.com/question/274340450
+answer : 404 : https://www.zhihu.com/question/274340450/answer/377183264
+article : 404 : https://zhuanlan.zhihu.com/p/36141968
+article : 404 : https://zhuanlan.zhihu.com/p/36354382
+article : 404 : https://zhuanlan.zhihu.com/p/36337338
+question : 404 : https://www.zhihu.com/question/276305981
+answer : 404 : https://www.zhihu.com/question/26202140/answer/391641808
+question : 404 : https://www.zhihu.com/question/63217696
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360266807
+answer : 404 : https://www.zhihu.com/question/63217696/answer/361136539
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360745118
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360125494
+question : 404 : https://www.zhihu.com/question/52218084
+answer : 404 : https://www.zhihu.com/question/52218084/answer/381353494
+answer : 404 : https://www.zhihu.com/question/63217696/answer/360960710
+answer : 404 : https://www.zhihu.com/question/63217696/answer/361181988
+answer : 404 : https://www.zhihu.com/question/63217696/answer/361368686
+question : 404 : https://www.zhihu.com/question/274510694
+article : 404 : https://zhuanlan.zhihu.com/p/36033667
+article : 404 : https://zhuanlan.zhihu.com/p/36067568
+article : 404 : https://zhuanlan.zhihu.com/p/36478741
+article : 404 : https://zhuanlan.zhihu.com/p/36111919
+answer : 404 : https://www.zhihu.com/question/274510694/answer/375438754
+article : 404 : https://zhuanlan.zhihu.com/p/36744797
+
