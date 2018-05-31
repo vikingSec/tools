@@ -1,0 +1,8 @@
+19554927
+article
+36754530
+https://zhuanlan.zhihu.com/p/36754530
+ailx10
+网络安全live第二期：Heartbleed攻击
+
+Heartbleed攻击防范概述Heartbleed是一个出现在加密程序库OpenSSL的安全漏洞,该程序库广泛用于实现互联网的传输层(TLS)协议.它于2012年被引入了软件中,2014年4月首次向公众披露.只要使用的是存在缺陷的OpenSSL实例,无论是服务器还是客户端,都可能因此而受到攻击.此问题的原因是在实现TLS的心跳协议时没有对输入进行适当验证(缺少边界检查),读取的数据比应该允许读取的还多.当前主流OpenSSL中已经不存在这样的漏洞了,本期实验需要在陈旧的Ubuntu12系统中完成.实验环境本期实验基于2台Linux系统,一台作为攻击者,一台作为受害者.攻击者为咱们的主机kali linux,受害者为咱们提供的SEED Ubuntu.实验中我们需要用到开源的HTTPS网站ELGG社交网站,在SEED Ubuntu中已经搭建好了.SEED Ubuntu下载地址如下:链接: https://pan.baidu.com/s/1qRFpF8d5pz6MWNDRW164Bg密码: yi4s 实验环境下载好了之后,咱们需要在攻击者系统上配置一下,以便于成功访问ELGG网站.咱们的SEED Ubuntu系统的IP地址为192.168.59.148.在\etc\hosts中添加配置192.168.59.148   www.heartbleedlabelgg.com.现在,我们可以在攻击者主机成功访问ELGG网站了.  如图所示:  任务1:实现Heartbleed攻击理解心跳协议心跳协议包含2种报文,心跳请求报文和心跳应答报文.客户端向服务端发送心跳请求报文,当服务端收到请求报文之后,将请求报文的消息段copy,在心跳应答报文中返回给客户端.心跳协议的目的是确保连接的有效性.如图所示:  实现Heartbleed攻击1.访问https://www.heartbleedlabelgg.com.2.登录(用户名:admin,密码:seedelgg).3.添加好友(点击More -> Members 点击 Boby -> Add Friend).4.发送消息.5.多次运行攻击脚本($ ./attack.py www.heartbleedlabelgg.com).  获取用户名和密码:  获取发送消息:  任务2:找出Heartbleed漏洞原因Heartbleed攻击基于Heartbeat请求.这个请求只是发送一些数据到服务器,服务器会将数据复制到它的响应数据包中,所有的数据都会被回显.在正常情况下,假设请求包含3个字节的数据“ABC”,长度字段的值为3.服务器将数据放入内存中,并从数据的开头复制3个字节到其响应包.在攻击场景中,请求可能包含3个字节的数据,但长度字段可能表示为1003.当服务器构造其响应数据包时,它从数据的起始处(即“ABC”)复制,但它复制1003字节,这些额外的1000字节显然不是来自请求包,它们来自服务器的私有内存,并且可能包含用户名,密码等隐私数据.  良性请求:  恶意请求:  尝试不同的payload长度值,当载荷长度减小的时候,我们获取到的额外数据量在减少,当载荷值小于等于22的时候,获取不到额外的数据.$./attack.py www.heartbleedlabelgg.com --length 22 任务3:修复Heartbleed漏洞升级OpenSSL.$ sudo apt-get update$ sudo apt-get upgrade$ sudo apt-get dist-upgrade 源代码分析:心跳请求\应答报文数据结构:  struct {
