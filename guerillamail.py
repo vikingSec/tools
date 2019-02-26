@@ -1,4 +1,6 @@
 #GuerillaMail Scrape
+#[-] Usage: python3 guerillamail.py
+#Quickly generate anonymous email for quick one-off persona verification purposes. Feel free to add your own proxies!
 try:
     from selenium import webdriver as wd
     from selenium.webdriver.common.proxy import Proxy, ProxyType
