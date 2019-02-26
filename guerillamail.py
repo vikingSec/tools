@@ -1,4 +1,5 @@
-#GuerillaMail Scrape
+#GuerillaMail Scrape by Viking Sec
+#Twitter: @Viking_Sec
 #[-] Usage: python3 guerillamail.py
 #Quickly generate anonymous email for quick one-off persona verification purposes. Feel free to add your own proxies!
 try:
