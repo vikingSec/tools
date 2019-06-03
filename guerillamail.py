@@ -2,6 +2,8 @@
 #Twitter: @Viking_Sec
 #[-] Usage: python3 guerillamail.py
 #Quickly generate anonymous email for quick one-off persona verification purposes. Feel free to add your own proxies!
+#If you didn't already fetch the geckodriver, here's a link to a post that explains how to do it:
+#   https://askubuntu.com/questions/870530/how-to-install-geckodriver-in-ubuntu
 try:
     from selenium import webdriver as wd
     from selenium.webdriver.common.proxy import Proxy, ProxyType
