@@ -1,3 +1,7 @@
+# Developed by: @Viking_Sec
+# Twitter: https://twitter.com/Viking_Sec
+# Patreon: https://www.patreon.com/Viking_Sec
+
 # Make sure you have selenium and firefox installed as well as the geckodriver executable, found at the link below:
 # https://github.com/mozilla/geckodriver/releases
 
